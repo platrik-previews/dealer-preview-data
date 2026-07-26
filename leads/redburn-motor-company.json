@@ -1,0 +1,15 @@
+{
+  "companyName": "Redburn Motor Company",
+  "website": "https://www.redburnmotorcompany.co.uk/",
+  "email": "sales@redburnmotorcompany.co.uk",
+  "address": "113 Front Street, Bebside, Blyth, Northumberland, NE24 4HN, GB",
+  "phoneDisplay": "01670 827 009",
+  "phoneLink": "tel:01670827009",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=01670 827009&text=Hello%20Redburn%20Motor%20Company",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Redburn%20Motor%20Company%20113%20Front%20Street%2C%20Bebside%2C%20Blyth%2C%20Northumberland%2C%20NE24%204HN%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/redburnmotorcompany",
+  "allowIndexing": false
+}
