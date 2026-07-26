@@ -1,0 +1,15 @@
+{
+  "companyName": "PBS Car Centre",
+  "website": "https://www.pbscarcentre.co.uk/",
+  "email": "sales@pbscarcentre.co.uk",
+  "address": "High Street, Tunstall, Stoke-On-Trent, Staffordshire, ST65EG, GB",
+  "phoneDisplay": "01782838997",
+  "phoneLink": "tel:01782838997",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=PBS%20Car%20Centre%20High%20Street%2C%20Tunstall%2C%20Stoke-On-Trent%2C%20Staffordshire%2C%20ST65EG%2C%20GB",
+  "logoPath": "https://www.pbscarcentre.co.uk/admin/uploaded_photos/site_logo.png?nc=23",
+  "faviconPath": "https://www.pbscarcentre.co.uk/favicon.ico?nc=26",
+  "instagram": "https://www.instagram.com/pbscarcentre/",
+  "facebook": "https://www.facebook.com/pbscarcentre/",
+  "allowIndexing": false
+}
