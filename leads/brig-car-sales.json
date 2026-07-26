@@ -1,0 +1,15 @@
+{
+  "companyName": "Brig Car Sales",
+  "website": "https://www.brigcarsales.co.uk/",
+  "email": "sales@brigcarsales.co.uk",
+  "address": "161 Cocklaw Street,, Kelty, Fife, KY4 0DH, GB",
+  "phoneDisplay": "01383 247228",
+  "phoneLink": "tel:01383247228",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=+44 7904268398&text=Hello%20Brig%20Car%20Sales%20",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brig%20Car%20Sales%20161%20Cocklaw%20Street%2C%2C%20Kelty%2C%20Fife%2C%20KY4%200DH%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/Brig-Car-Sales-Ltd-1796935350320277",
+  "allowIndexing": false
+}
