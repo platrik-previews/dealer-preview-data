@@ -1,0 +1,15 @@
+{
+  "companyName": "Maybury Car Sales",
+  "website": "https://mayburycarsales.co.uk/",
+  "email": "sales@mayburycarsales.co.uk",
+  "address": "60 St. Johns Road Edinburgh, EH12 8AT, GB",
+  "phoneDisplay": "01313395542",
+  "phoneLink": "tel:01313395542",
+  "whatsappLink": "https://wa.me/447341197706?text=%0AMake:%20Audi%0AModel:%20Q5%0ARegistration:%20DF70LTJ%0A%20%20%0A%F0%9F%94%96%20Unique%20Stock%20ID:%20202603250995363%0A%20%20%0AHello!%20I'm%20interested%20in%20the%20vehicle%20details%20provided%20above.%20Can%20you%20please%20provide%20more%20information%20about%20it?%20Thank%20you!",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Maybury%20Car%20Sales%2060%20St.%20Johns%20Road%20Edinburgh%2C%20EH12%208AT%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/Maybury-Car-Sales-Ltd-111211697733348/",
+  "allowIndexing": false
+}
