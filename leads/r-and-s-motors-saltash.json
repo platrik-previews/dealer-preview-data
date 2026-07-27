@@ -1,0 +1,15 @@
+{
+  "companyName": "R&S Motors Saltash",
+  "website": "https://www.rsmotorssaltash.co.uk/",
+  "email": "dave@rsmotorssaltash.co.uk",
+  "address": "R&S Motors Burraton Road Saltash Cornwall PL12 6LU",
+  "phoneDisplay": "01752845000",
+  "phoneLink": "tel:01752845000",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=R%26S%20Motors%20Saltash%20R%26S%20Motors%20Burraton%20Road%20Saltash%20Cornwall%20PL12%206LU",
+  "logoPath": "https://www.rsmotorssaltash.co.uk/`https://bluesky.sirv.com/Websites/cog_boilerplate/logos/${lCaseNoSpaces(tab)}.png?height=100`",
+  "faviconPath": "https://www.rsmotorssaltash.co.uk/assets/img/favicons/favicon-32-32.png",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
