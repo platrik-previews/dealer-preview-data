@@ -1,0 +1,15 @@
+{
+  "companyName": "The Oaks Motor Company",
+  "website": "https://www.theoaksmotorcompany.co.uk/",
+  "email": "sales@theoaksmotorcompany.co.uk",
+  "address": "Hylton Road Garage, 7 Hylton Road, Worcester, Worcestershire, WR25JN, GB",
+  "phoneDisplay": "01905419931",
+  "phoneLink": "tel:01905419931",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Oaks%20Motor%20Company%20Hylton%20Road%20Garage%2C%207%20Hylton%20Road%2C%20Worcester%2C%20Worcestershire%2C%20WR25JN%2C%20GB",
+  "logoPath": "https://www.theoaksmotorcompany.co.uk/admin/uploaded_photos/site_logo.png?nc=01",
+  "faviconPath": "https://www.theoaksmotorcompany.co.uk/favicon-32x32.png",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/theoaksmotorcompany",
+  "allowIndexing": false
+}
