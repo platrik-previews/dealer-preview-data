@@ -1,0 +1,15 @@
+{
+  "companyName": "Small Cars Direct",
+  "website": "http://www.smallcarsdirect.co.uk/",
+  "email": "info@smallcarsdirect.co.uk",
+  "address": "The Yard, Unit 5-7 Queensway, New Milton, Hampshire, BH25 5NR, GB",
+  "phoneDisplay": "+441425529559",
+  "phoneLink": "tel:+441425529559",
+  "whatsappLink": "https://wa.me/441425529559",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Small%20Cars%20Direct%20The%20Yard%2C%20Unit%205-7%20Queensway%2C%20New%20Milton%2C%20Hampshire%2C%20BH25%205NR%2C%20GB",
+  "logoPath": "http://www.smallcarsdirect.co.uk/img/logo.svg",
+  "faviconPath": "http://www.smallcarsdirect.co.uk/favicon.ico",
+  "instagram": "http://instagram.com/smallcarsdirect",
+  "facebook": "http://facebook.com/smallcarsdirect",
+  "allowIndexing": false
+}
