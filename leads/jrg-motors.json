@@ -1,0 +1,15 @@
+{
+  "companyName": "JRG Motors",
+  "website": "https://www.jrgmotors.co.uk/",
+  "email": "sales@jrgmotors.co.uk",
+  "address": "Ormskirk, Scarisbrick, Lancashire, L409RG, GB",
+  "phoneDisplay": "01704601070",
+  "phoneLink": "tel:01704601070",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=JRG%20Motors%20Ormskirk%2C%20Scarisbrick%2C%20Lancashire%2C%20L409RG%2C%20GB",
+  "logoPath": "https://www.jrgmotors.co.uk/admin/uploaded_photos/site_logo.png?nc=06",
+  "faviconPath": "https://www.jrgmotors.co.uk/favicon.ico?nc=27",
+  "instagram": "https://www.instagram.com/jrg_motors_ltd/",
+  "facebook": "https://www.facebook.com/jrgmotorcompany/",
+  "allowIndexing": false
+}
