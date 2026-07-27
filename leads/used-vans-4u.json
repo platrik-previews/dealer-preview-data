@@ -1,0 +1,15 @@
+{
+  "companyName": "Used Vans 4U",
+  "website": "https://www.usedvans4u.co.uk/",
+  "email": "info@usedvans4u.co.uk",
+  "address": "",
+  "phoneDisplay": "01902 914 617",
+  "phoneLink": "tel:01902914617",
+  "whatsappLink": "",
+  "mapsLink": "",
+  "logoPath": "https://www.usedvans4u.co.uk/Assets/App/img/logo.png",
+  "faviconPath": "https://www.usedvans4u.co.uk/Assets/App/img/favicon-16x16.png",
+  "instagram": "https://www.instagram.com/usedvans4u/",
+  "facebook": "https://www.facebook.com/usedvans4u",
+  "allowIndexing": false
+}
