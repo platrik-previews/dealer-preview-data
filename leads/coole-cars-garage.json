@@ -1,0 +1,15 @@
+{
+  "companyName": "Coole Cars Garage",
+  "website": "http://www.coolecars.co.uk/",
+  "email": "sales@coolecars.co.uk",
+  "address": "13 Newport Ind Estate Launceston Cornwall PL15 8EX",
+  "phoneDisplay": "01566248080",
+  "phoneLink": "tel:01566248080",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Coole%20Cars%20Garage%2013%20Newport%20Ind%20Estate%20Launceston%20Cornwall%20PL15%208EX",
+  "logoPath": "",
+  "faviconPath": "http://www.coolecars.co.uk/assets/img/favicons/favicon-32-32.png",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
