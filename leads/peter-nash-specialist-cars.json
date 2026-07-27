@@ -1,0 +1,15 @@
+{
+  "companyName": "Peter Nash Specialist Cars",
+  "website": "https://www.peternashcars.co.uk/",
+  "email": "sales@peter-nash-cars.co.uk",
+  "address": "1 Warsash Road",
+  "phoneDisplay": "01489 589898",
+  "phoneLink": "tel:01489589898",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Peter%20Nash%20Specialist%20Cars%201%20Warsash%20Road",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/NashSpecialistCars/",
+  "allowIndexing": false
+}
