@@ -1,0 +1,15 @@
+{
+  "companyName": "Nelsons Cars Ltd",
+  "website": "https://www.nelsonscars.co.uk/",
+  "email": "sales@nelsonscars.co.uk",
+  "address": "The Old Farmhouse, West Kingsmill, Landulph, Cornwall, PL12 6NB, GB",
+  "phoneDisplay": "01752 224466",
+  "phoneLink": "tel:01752224466",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=+447825138442&text=Hello%20Nelsons%20Cars%20Ltd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Nelsons%20Cars%20Ltd%20The%20Old%20Farmhouse%2C%20West%20Kingsmill%2C%20Landulph%2C%20Cornwall%2C%20PL12%206NB%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
