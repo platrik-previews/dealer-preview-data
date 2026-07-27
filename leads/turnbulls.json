@@ -1,0 +1,15 @@
+{
+  "companyName": "Turnbulls",
+  "website": "http://www.turnbulls.com/",
+  "email": "sales@turnbulls.com",
+  "address": "Weston Park Road Plymouth, England, PL3 4NU United Kingdom",
+  "phoneDisplay": "01752 665524",
+  "phoneLink": "tel:01752665524",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Turnbulls%20Weston%20Park%20Road%20Plymouth%2C%20England%2C%20PL3%204NU%20United%20Kingdom",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/aicampersplymouth/",
+  "facebook": "https://www.facebook.com/aicampers",
+  "allowIndexing": false
+}
