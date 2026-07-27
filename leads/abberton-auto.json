@@ -1,0 +1,15 @@
+{
+  "companyName": "Abberton Auto",
+  "website": "https://www.abbertonautos.com/",
+  "email": "sales@abbertonautos.com",
+  "address": "Layer Road Service Station, Layer Road, Colchester, Essex, CO2 7JP, GB",
+  "phoneDisplay": "01206 571 578",
+  "phoneLink": "tel:01206571578",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=447415797870&text=Hello%20Abberton%20Autos",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Abberton%20Auto%20Layer%20Road%20Service%20Station%2C%20Layer%20Road%2C%20Colchester%2C%20Essex%2C%20CO2%207JP%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
