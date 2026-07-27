@@ -1,0 +1,15 @@
+{
+  "companyName": "Lovells Garage",
+  "website": "https://www.lovellsgarage.co.uk/",
+  "email": "hello@lovellsgarage.co.uk",
+  "address": "Address:",
+  "phoneDisplay": "01404812007",
+  "phoneLink": "tel:01404812007",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lovells%20Garage%20Address%3A",
+  "logoPath": "https://www.lovellsgarage.co.uk/lghome/wp-content/uploads/2015/10/Logo1.png",
+  "faviconPath": "https://www.lovellsgarage.co.uk/lghome/wp-content/uploads/2022/03/cropped-favicon-minimal-32x32.png",
+  "instagram": "",
+  "facebook": "http://www.facebook.com/lovellsgarage",
+  "allowIndexing": false
+}
