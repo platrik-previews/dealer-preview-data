@@ -1,0 +1,15 @@
+{
+  "companyName": "Hamilton Motors",
+  "website": "http://www.hamiltonmotors.co.uk/",
+  "email": "enquiries@hamiltonmotors.co.uk",
+  "address": "Bridge House Stourport Road Kidderminster Worcestershire DY11 7QL",
+  "phoneDisplay": "01562865800",
+  "phoneLink": "tel:01562865800",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hamilton%20Motors%20Bridge%20House%20Stourport%20Road%20Kidderminster%20Worcestershire%20DY11%207QL",
+  "logoPath": "http://www.hamiltonmotors.co.uk/`https://bluesky.sirv.com/Websites/cog_boilerplate/logos/${lCaseNoSpaces(tab)}.png?height=100`",
+  "faviconPath": "http://www.hamiltonmotors.co.uk/assets/img/favicons/favicon-32-32.png",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
