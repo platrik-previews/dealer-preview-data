@@ -1,0 +1,15 @@
+{
+  "companyName": "Nash Cars",
+  "website": "https://www.nashcarsfareham.co.uk/",
+  "email": "sales@nashcarsfareham.co.uk",
+  "address": "Shore Road",
+  "phoneDisplay": "01329 282621",
+  "phoneLink": "tel:01329282621",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Nash%20Cars%20Shore%20Road",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
