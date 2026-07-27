@@ -1,19 +1,16 @@
 {
-  "renderer": "resin_driveway",
-  "companyName": "StoneFlow Resin",
-  "descriptor": "Resin & Surfacing",
-  "website": "",
-  "address": "Essex, United Kingdom",
-  "phoneDisplay": "01234 567 890",
-  "phoneLink": "tel:+441234567890",
-  "whatsappLink": "https://wa.me/441234567890",
   "email": "hello@stoneflowresin.co.uk",
-  "logoPath": "",
+  "address": "Essex, United Kingdom",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Essex,%20United%20Kingdom",
+  "renderer": "resin_driveway",
+  "phoneLink": "tel:01234567890",
+  "descriptor": "Resin & Surfacing",
+  "companyName": "StoneFlow Resin",
+  "phoneDisplay": "01234 567 890",
   "serviceAreas": [
-    "Essex",
-    "East London",
-    "Kent",
-    "Hertfordshire"
+    "Essex, United Kingdom"
   ],
-  "allowIndexing": false
+  "whatsappLink": "https://wa.me/01234567890",
+  "allowIndexing": false,
+  "schemaVersion": 1
 }
