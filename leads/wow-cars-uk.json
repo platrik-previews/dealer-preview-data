@@ -1,0 +1,15 @@
+{
+  "companyName": "WOW Cars UK",
+  "website": "https://www.wowcarsuk.co.uk/",
+  "email": "info@wowcarsuk.co.uk",
+  "address": "6 Haynes Road, Tividale, England, B69 2NG, GB",
+  "phoneDisplay": "+441214485388",
+  "phoneLink": "tel:+441214485388",
+  "whatsappLink": "https://api.whatsapp.com/send/?phone=447510551391&text&app_absent=0",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=WOW%20Cars%20UK%206%20Haynes%20Road%2C%20Tividale%2C%20England%2C%20B69%202NG%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/wowcarsuk",
+  "allowIndexing": false
+}
