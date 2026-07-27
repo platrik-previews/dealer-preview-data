@@ -1,0 +1,15 @@
+{
+  "companyName": "Howard Banks Cars Ltd",
+  "website": "https://www.howardbankscars.co.uk/",
+  "email": "info@howardbankscars.co.uk",
+  "address": "5 South Road,, Bishop's Stortford, Hertfordshire, CM23 3JG, GB",
+  "phoneDisplay": "01279 214006",
+  "phoneLink": "tel:01279214006",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=+447703196015 &text=Hello%20Howard%20Banks%20Cars%20Ltd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Howard%20Banks%20Cars%20Ltd%205%20South%20Road%2C%2C%20Bishop's%20Stortford%2C%20Hertfordshire%2C%20CM23%203JG%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/howardbankscars",
+  "facebook": "https://www.facebook.com/HowardBanksCars",
+  "allowIndexing": false
+}
