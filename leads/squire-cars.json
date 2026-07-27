@@ -1,0 +1,15 @@
+{
+  "companyName": "Squire Cars",
+  "website": "https://www.squirecars.co.uk/",
+  "email": "sales@squirecars.co.uk",
+  "address": "Warm Turn, Aberbeeg Road, Abertillery, Gwent, NP13 2EQ, GB",
+  "phoneDisplay": "01495 217 777",
+  "phoneLink": "tel:01495217777",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Squire%20Cars%20Warm%20Turn%2C%20Aberbeeg%20Road%2C%20Abertillery%2C%20Gwent%2C%20NP13%202EQ%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/squirecars",
+  "allowIndexing": false
+}
