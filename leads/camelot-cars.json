@@ -1,0 +1,15 @@
+{
+  "companyName": "Camelot Cars",
+  "website": "https://www.camelotcars.co.uk/",
+  "email": "sales@camelotcars.co.uk",
+  "address": "Ladysmith Road Business Park, Ladysmith Road, Grimsby, North East Lincolnshire, DN329SQ, GB",
+  "phoneDisplay": "01472488029",
+  "phoneLink": "tel:01472488029",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Camelot%20Cars%20Ladysmith%20Road%20Business%20Park%2C%20Ladysmith%20Road%2C%20Grimsby%2C%20North%20East%20Lincolnshire%2C%20DN329SQ%2C%20GB",
+  "logoPath": "https://www.camelotcars.co.uk/admin/uploaded_photos/site_logo.png?nc=15",
+  "faviconPath": "https://www.camelotcars.co.uk/favicon-32x32.png",
+  "instagram": "https://www.instagram.com/camelot.cars/",
+  "facebook": "https://www.facebook.com/camelotcars/",
+  "allowIndexing": false
+}
