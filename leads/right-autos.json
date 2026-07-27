@@ -1,0 +1,15 @@
+{
+  "companyName": "Right Autos",
+  "website": "https://www.right-autos.co.uk/",
+  "email": "luke.riche@right-autos.co.uk",
+  "address": "Unit 15 Graham Norris Business Centre, 114-118 Hampton Lane, Blackfield, Southampton, Hampshire, SO451UB, GB",
+  "phoneDisplay": "02380890600",
+  "phoneLink": "tel:02380890600",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Right%20Autos%20Unit%2015%20Graham%20Norris%20Business%20Centre%2C%20114-118%20Hampton%20Lane%2C%20Blackfield%2C%20Southampton%2C%20Hampshire%2C%20SO451UB%2C%20GB",
+  "logoPath": "https://www.right-autos.co.uk/admin/uploaded_photos/site_logo.png?nc=19",
+  "faviconPath": "https://www.right-autos.co.uk/favicon.ico?nc=27",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/rightautos",
+  "allowIndexing": false
+}
