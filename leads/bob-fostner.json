@@ -1,0 +1,15 @@
+{
+  "companyName": "Bob Fostner",
+  "website": "http://www.bobforstner.co.uk/",
+  "email": "contact@bobforstner.co.uk",
+  "address": "We couldn't get your current location, please enter it below:",
+  "phoneDisplay": "+44(0) 2076297020",
+  "phoneLink": "tel:+4402076297020",
+  "whatsappLink": "https://wa.me/4402076297020",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bob%20Fostner%20We%20couldn't%20get%20your%20current%20location%2C%20please%20enter%20it%20below%3A",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/bobforstner_official/",
+  "facebook": "https://de-de.facebook.com/BOBforstnerUK/",
+  "allowIndexing": false
+}
