@@ -1,0 +1,15 @@
+{
+  "companyName": "Parkwood Cars",
+  "website": "https://www.parkwoodcars.co.uk/",
+  "email": "alex@parkwoodcars.co.uk",
+  "address": "60 Liskeard Road, Callington, PL17 7JE, Cornwall, PL177JE, GB",
+  "phoneDisplay": "07384785607",
+  "phoneLink": "tel:07384785607",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Parkwood%20Cars%2060%20Liskeard%20Road%2C%20Callington%2C%20PL17%207JE%2C%20Cornwall%2C%20PL177JE%2C%20GB",
+  "logoPath": "https://www.parkwoodcars.co.uk/admin/uploaded_photos/site_logo.png?nc=16",
+  "faviconPath": "https://www.parkwoodcars.co.uk/favicon-32x32.png",
+  "instagram": "https://www.instagram.com/parkwoodcars/",
+  "facebook": "https://www.facebook.com/profile.php?id=100089028260647",
+  "allowIndexing": false
+}
