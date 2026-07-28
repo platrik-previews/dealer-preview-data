@@ -1,0 +1,15 @@
+{
+  "companyName": "Sturdy's",
+  "website": "http://www.sturdys.co.uk/",
+  "email": "sales@sturdys.co.uk",
+  "address": "Wheatley Car Centre, 138/144 London Road, Wheatley, Oxford, OX33 1JH, GB",
+  "phoneDisplay": "01865 874 046",
+  "phoneLink": "tel:01865874046",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=447947349339&text=Highfield%20Motor%20Group%20Wheatley%20Car%20Centre!",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sturdy's%20Wheatley%20Car%20Centre%2C%20138%2F144%20London%20Road%2C%20Wheatley%2C%20Oxford%2C%20OX33%201JH%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/highfieldmtrsltd",
+  "facebook": "https://www.facebook.com/HighfieldMtrsLtd",
+  "allowIndexing": false
+}
