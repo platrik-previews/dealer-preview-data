@@ -1,0 +1,15 @@
+{
+  "companyName": "Curtis Cars",
+  "website": "https://www.curtiscars.co.uk/",
+  "email": "info@curtiscars.co.uk",
+  "address": "Curtis Cars Ballymena Unit 16 Pennybridge Industrial Estate, Ballymena, BT42 3HB",
+  "phoneDisplay": "02825665555,02870327077",
+  "phoneLink": "tel:0282566555502870327077",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Curtis%20Cars%20Curtis%20Cars%20Ballymena%20Unit%2016%20Pennybridge%20Industrial%20Estate%2C%20Ballymena%2C%20BT42%203HB",
+  "logoPath": "https://www.curtiscars.co.uk/logo.png",
+  "faviconPath": "https://www.curtiscars.co.uk/images/favicons/favicon-96x96.png",
+  "instagram": "https://www.instagram.com/curtiscarscoleraine/?hl=en",
+  "facebook": "https://www.facebook.com/curtiscarscoleraine/",
+  "allowIndexing": false
+}
