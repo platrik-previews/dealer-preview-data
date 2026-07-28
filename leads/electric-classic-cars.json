@@ -1,0 +1,15 @@
+{
+  "companyName": "Electric Classic Cars",
+  "website": "https://www.electricclassiccars.co.uk/",
+  "email": "sales@electricclassiccars.co.uk",
+  "address": "",
+  "phoneDisplay": "+441686807307",
+  "phoneLink": "tel:+441686807307",
+  "whatsappLink": "https://wa.me/441686807307",
+  "mapsLink": "",
+  "logoPath": "https://www.electricclassiccars.co.uk/cdn/shop/files/logo_1.png?v=1706619151&width=500",
+  "faviconPath": "https://www.electricclassiccars.co.uk/cdn/shop/files/fav.svg?crop=center&height=32&v=1686573745&width=32",
+  "instagram": "https://www.instagram.com/electricclassiccars/",
+  "facebook": "https://www.facebook.com/electricclassiccars/",
+  "allowIndexing": false
+}
