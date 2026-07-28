@@ -1,0 +1,15 @@
+{
+  "companyName": "Kirkham Car Sales",
+  "website": "https://www.kirkhamcarsales.co.uk/",
+  "email": "info@kirkhamcarsales.co.uk",
+  "address": "",
+  "phoneDisplay": "01772672777",
+  "phoneLink": "tel:01772672777",
+  "whatsappLink": "",
+  "mapsLink": "",
+  "logoPath": "https://www.kirkhamcarsales.co.uk/wp-content/uploads/2020/12/kirkham-car-sales-og-image-1.jpg",
+  "faviconPath": "https://www.kirkhamcarsales.co.uk/wp-content/uploads/2020/12/kcs-fav.png",
+  "instagram": "https://www.instagram.com/kirkham_car_sales/",
+  "facebook": "https://www.facebook.com/kirkhamcarsale/",
+  "allowIndexing": false
+}
