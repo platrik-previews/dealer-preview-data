@@ -1,0 +1,15 @@
+{
+  "companyName": "Chequers Cars",
+  "website": "https://chequers-cars.co.uk/",
+  "email": "sales@chequerscars.com",
+  "address": "Station Road, Chobham, Woking, Surrey, GU24 8AL, GB",
+  "phoneDisplay": "01276 451050",
+  "phoneLink": "tel:01276451050",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=+447946073997&text=Hello%20Chequers%20Cars",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Chequers%20Cars%20Station%20Road%2C%20Chobham%2C%20Woking%2C%20Surrey%2C%20GU24%208AL%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/chequerscars",
+  "facebook": "https://www.facebook.com/chequerscarsltd",
+  "allowIndexing": false
+}
