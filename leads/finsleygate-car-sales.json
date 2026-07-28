@@ -1,0 +1,15 @@
+{
+  "companyName": "Finsleygate Car Sales",
+  "website": "https://www.finsleygatecarsales.co.uk/",
+  "email": "sales@finsleygatecarsales.co.uk",
+  "address": "",
+  "phoneDisplay": "01282428010",
+  "phoneLink": "tel:01282428010",
+  "whatsappLink": "https://api.whatsapp.com/send/?phone=447931644952",
+  "mapsLink": "",
+  "logoPath": "https://www.finsleygatecarsales.co.uk/images/brands/supagard-logo.png",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/profile.php?id=61553372564171",
+  "allowIndexing": false
+}
