@@ -1,0 +1,15 @@
+{
+  "companyName": "Merseyside Van Sales",
+  "website": "https://www.merseysidevansales.co.uk/",
+  "email": "contact@merseysidevansales.co.uk",
+  "address": "580 Haydock Cross Industrial Park, Kilburn Lane, Merseyside, WA11 9UX, GB",
+  "phoneDisplay": "0151 272 0326",
+  "phoneLink": "tel:01512720326",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=+447444849986&text=Hello%20Merseyside%20Van%20Sales",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Merseyside%20Van%20Sales%20580%20Haydock%20Cross%20Industrial%20Park%2C%20Kilburn%20Lane%2C%20Merseyside%2C%20WA11%209UX%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/merseyside_van_sales",
+  "facebook": "https://www.facebook.com/merseysidevansales",
+  "allowIndexing": false
+}
