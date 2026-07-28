@@ -1,0 +1,15 @@
+{
+  "companyName": "Chastons Motor Company",
+  "website": "https://www.chastonsmotorcompany.co.uk/",
+  "email": "sales@chastonsmotorcompany.co.uk",
+  "address": "5G Pentwyn Road, Blackwood, South Wales, NP121HN, GB",
+  "phoneDisplay": "01495225117",
+  "phoneLink": "tel:01495225117",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Chastons%20Motor%20Company%205G%20Pentwyn%20Road%2C%20Blackwood%2C%20South%20Wales%2C%20NP121HN%2C%20GB",
+  "logoPath": "https://www.chastonsmotorcompany.co.uk/admin/uploaded_photos/site_logo.png?nc=03",
+  "faviconPath": "https://www.chastonsmotorcompany.co.uk/favicon-32x32.png",
+  "instagram": "https://instagram.com/chastonsmotorcompany?igshid=YmMyMTA2M2Y=",
+  "facebook": "https://www.facebook.com/chastonsmotorcompany/",
+  "allowIndexing": false
+}
