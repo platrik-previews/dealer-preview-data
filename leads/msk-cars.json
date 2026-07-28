@@ -1,0 +1,15 @@
+{
+  "companyName": "MSK Cars",
+  "website": "https://www.mskcars.co.uk/",
+  "email": "sales@mskcars.co.uk",
+  "address": "1 Regis Road London, England, NW5 3EX United Kingdom",
+  "phoneDisplay": "+44 203 092 0425",
+  "phoneLink": "tel:+442030920425",
+  "whatsappLink": "https://wa.me/442030920425",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=MSK%20Cars%201%20Regis%20Road%20London%2C%20England%2C%20NW5%203EX%20United%20Kingdom",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "http://instagram.com/mskcarsltd",
+  "facebook": "",
+  "allowIndexing": false
+}
