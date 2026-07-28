@@ -1,0 +1,15 @@
+{
+  "companyName": "David Spear Commercial Vehicles",
+  "website": "https://www.david-spear.com/",
+  "email": "sales@david-spear.com",
+  "address": "Crown Business Park,, Tredegar, Gwent, NP22 4EF, GB",
+  "phoneDisplay": "01495 309 098",
+  "phoneLink": "tel:01495309098",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=447534372172&text=Hello%20David%20Spear%20Commercials",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=David%20Spear%20Commercial%20Vehicles%20Crown%20Business%20Park%2C%2C%20Tredegar%2C%20Gwent%2C%20NP22%204EF%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/davidspearcommercialvehicles",
+  "facebook": "https://www.facebook.com/David.Spear.Commercial.Vehicles",
+  "allowIndexing": false
+}
