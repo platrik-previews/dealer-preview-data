@@ -1,0 +1,15 @@
+{
+  "companyName": "Braithwaites Garage",
+  "website": "https://www.braithwaitesgarage.co.uk/",
+  "email": "enquiries@braithwaitesgarage.co.uk",
+  "address": "",
+  "phoneDisplay": "017684 83254",
+  "phoneLink": "tel:01768483254",
+  "whatsappLink": "https://wa.me/447776797645",
+  "mapsLink": "",
+  "logoPath": "https://www.braithwaitesgarage.co.uk/images/braithwaites-logo-white.png",
+  "faviconPath": "https://www.braithwaitesgarage.co.uk/favicon-32x32.png",
+  "instagram": "https://www.instagram.com",
+  "facebook": "https://www.facebook.com/braithwaitesgarage",
+  "allowIndexing": false
+}
