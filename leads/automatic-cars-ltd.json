@@ -1,0 +1,15 @@
+{
+  "companyName": "Automatic Cars Ltd",
+  "website": "https://www.automaticcarsltd.co.uk/",
+  "email": "sales@automaticcarsltd.co.uk",
+  "address": "Automatic Cars Ltd, 40-42 Welling High Street, Welling, Kent, DA16 1TQ, GB",
+  "phoneDisplay": "02083034030",
+  "phoneLink": "tel:02083034030",
+  "whatsappLink": "https://wa.me/442083034030?text=Hello!",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Automatic%20Cars%20Ltd%20Automatic%20Cars%20Ltd%2C%2040-42%20Welling%20High%20Street%2C%20Welling%2C%20Kent%2C%20DA16%201TQ%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/AutomaticCarsLtd",
+  "allowIndexing": false
+}
