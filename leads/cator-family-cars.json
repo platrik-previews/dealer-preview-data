@@ -1,0 +1,15 @@
+{
+  "companyName": "Cator Family Cars",
+  "website": "https://www.familycarsales.co.uk/",
+  "email": "hello@familycarsales.co.uk",
+  "address": "88 Ketts Oak, Hethersett, Norwich, Norfolk, NR93DJ, GB",
+  "phoneDisplay": "01953789504",
+  "phoneLink": "tel:01953789504",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cator%20Family%20Cars%2088%20Ketts%20Oak%2C%20Hethersett%2C%20Norwich%2C%20Norfolk%2C%20NR93DJ%2C%20GB",
+  "logoPath": "https://www.familycarsales.co.uk/admin/uploaded_photos/site_logo.png?nc=19",
+  "faviconPath": "https://www.familycarsales.co.uk/favicon.ico?nc=28",
+  "instagram": "https://www.instagram.com/familycarsales/",
+  "facebook": "https://www.facebook.com/catorfamilycarsales",
+  "allowIndexing": false
+}
