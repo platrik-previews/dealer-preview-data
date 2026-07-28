@@ -1,0 +1,15 @@
+{
+  "companyName": "Mark One Cars",
+  "website": "https://www.markonecars.co.uk/",
+  "email": "sales@markonecars.co.uk",
+  "address": "Lordsmill Street, Chesterfield, Derbyshire, S417RS, GB",
+  "phoneDisplay": "01246855241",
+  "phoneLink": "tel:01246855241",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Mark%20One%20Cars%20Lordsmill%20Street%2C%20Chesterfield%2C%20Derbyshire%2C%20S417RS%2C%20GB",
+  "logoPath": "https://www.markonecars.co.uk/admin/uploaded_photos/site_logo.png?nc=16",
+  "faviconPath": "https://www.markonecars.co.uk/favicon.ico?nc=28",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/Mark-One-Cars-100641088275030",
+  "allowIndexing": false
+}
