@@ -1,0 +1,15 @@
+{
+  "companyName": "Romsey Car Centre",
+  "website": "https://www.romseycarcentre.co.uk/",
+  "email": "sales@romseycarcentre.co.uk",
+  "address": "Budds Lane Industrial Estate, Stockbridge Road, Romsey, Hampshire, SO510HA, GB",
+  "phoneDisplay": "01794511288",
+  "phoneLink": "tel:01794511288",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Romsey%20Car%20Centre%20Budds%20Lane%20Industrial%20Estate%2C%20Stockbridge%20Road%2C%20Romsey%2C%20Hampshire%2C%20SO510HA%2C%20GB",
+  "logoPath": "https://www.romseycarcentre.co.uk/admin/uploaded_photos/site_logo.png?nc=13",
+  "faviconPath": "https://www.romseycarcentre.co.uk/favicon.ico?nc=28",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/RomseyCarCentre",
+  "allowIndexing": false
+}
