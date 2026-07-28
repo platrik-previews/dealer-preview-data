@@ -1,0 +1,15 @@
+{
+  "companyName": "Hilton Garage",
+  "website": "https://www.hiltongarage.co.uk/",
+  "email": "sales@hiltongarage.co.uk",
+  "address": "",
+  "phoneDisplay": "01283732527",
+  "phoneLink": "tel:01283732527",
+  "whatsappLink": "https://wa.me/+447485335437",
+  "mapsLink": "",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/hiltongarage/",
+  "facebook": "https://www.facebook.com/HiltonGarageCarSupermarket",
+  "allowIndexing": false
+}
