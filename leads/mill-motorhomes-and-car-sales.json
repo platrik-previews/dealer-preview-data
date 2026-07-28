@@ -1,0 +1,15 @@
+{
+  "companyName": "Mill Motorhomes & Car Sales",
+  "website": "https://www.millcarsales.co.uk/",
+  "email": "sales@millcarsales.co.uk",
+  "address": "",
+  "phoneDisplay": "01244316291",
+  "phoneLink": "tel:01244316291",
+  "whatsappLink": "https://api.whatsapp.com/send/?phone=447922300180&text=&app_absent=0",
+  "mapsLink": "",
+  "logoPath": "https://www.millcarsales.co.uk/images/logo.png",
+  "faviconPath": "/favicon.svg",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/millcarsales",
+  "allowIndexing": false
+}
