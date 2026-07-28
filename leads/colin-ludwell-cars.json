@@ -1,0 +1,15 @@
+{
+  "companyName": "Colin Ludwell Cars",
+  "website": "https://www.colinludwellcars.co.uk/",
+  "email": "sales@colinludwellcars.co.uk",
+  "address": "81-85 Two Mile Hill Road, Kingswood, Bristol, Avon, BS15 1BL, GB",
+  "phoneDisplay": "0117 915 9988",
+  "phoneLink": "tel:01179159988",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Colin%20Ludwell%20Cars%2081-85%20Two%20Mile%20Hill%20Road%2C%20Kingswood%2C%20Bristol%2C%20Avon%2C%20BS15%201BL%2C%20GB",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/colinludwellcarslimited",
+  "facebook": "https://www.facebook.com/ColinLudwellCars",
+  "allowIndexing": false
+}
