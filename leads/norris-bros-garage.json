@@ -1,0 +1,15 @@
+{
+  "companyName": "Norris Bros Garage",
+  "website": "https://www.norrisbros.co.uk/",
+  "email": "sales@norrisbros.co.uk",
+  "address": "105-108 Lichfield Street, Tamworth, Staffordshire, B797QB, GB",
+  "phoneDisplay": "0182761317",
+  "phoneLink": "tel:0182761317",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Norris%20Bros%20Garage%20105-108%20Lichfield%20Street%2C%20Tamworth%2C%20Staffordshire%2C%20B797QB%2C%20GB",
+  "logoPath": "https://www.norrisbros.co.uk/admin/uploaded_photos/site_logo.png?nc=23",
+  "faviconPath": "https://www.norrisbros.co.uk/favicon.ico?nc=28",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/p/Norris-Bros-Garage-100057394871751/",
+  "allowIndexing": false
+}
