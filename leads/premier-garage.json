@@ -1,0 +1,15 @@
+{
+  "companyName": "Premier Garage",
+  "website": "https://www.premiergarage.net/",
+  "email": "premiergarage@premiergarage.net",
+  "address": "Highway Garage, Nottingham Road,, Attenborough, Beeston, Nottinghamshire, NG96DP, GB",
+  "phoneDisplay": "01332671819",
+  "phoneLink": "tel:01332671819",
+  "whatsappLink": "",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Premier%20Garage%20Highway%20Garage%2C%20Nottingham%20Road%2C%2C%20Attenborough%2C%20Beeston%2C%20Nottinghamshire%2C%20NG96DP%2C%20GB",
+  "logoPath": "https://www.premiergarage.net/admin/uploaded_photos/site_logo.png?nc=13",
+  "faviconPath": "https://www.premiergarage.net/favicon.ico?nc=28",
+  "instagram": "",
+  "facebook": "",
+  "allowIndexing": false
+}
