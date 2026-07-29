@@ -1,0 +1,15 @@
+{
+  "companyName": "Rogers of Brock",
+  "website": "https://www.rogersofbrockpreston.co.uk/",
+  "email": "sales@rogersofbrockpreston.co.uk",
+  "address": "Claughton Garage",
+  "phoneDisplay": "01995 641200",
+  "phoneLink": "tel:01995641200",
+  "whatsappLink": "https://api.whatsapp.com/send?phone=447538143807",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rogers%20of%20Brock%20Claughton%20Garage",
+  "logoPath": "",
+  "faviconPath": "/favicon.svg",
+  "instagram": "https://www.instagram.com/rogersofbrock/",
+  "facebook": "https://www.facebook.com/rogerscarsales",
+  "allowIndexing": false
+}
