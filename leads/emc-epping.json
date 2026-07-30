@@ -1,0 +1,15 @@
+{
+  "email": "sales@emcepping.co.uk",
+  "address": "Unit 4 Shaftesbury Farm , Lindsey Street, Epping, Essex, CM166RE, GB",
+  "website": "https://www.emcepping.co.uk/",
+  "logoPath": "https://www.emcepping.co.uk/admin/uploaded_photos/site_logo.png?nc=1785452055",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%204%20Shaftesbury%20Farm%20,%20Lindsey%20Street,%20Epping,%20Essex,%20CM166RE,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01992678428",
+  "companyName": "EMC Epping",
+  "faviconPath": "https://www.emcepping.co.uk/default/favicon.ico",
+  "phoneDisplay": "01992678428",
+  "whatsappLink": "https://wa.me/01992678428",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
