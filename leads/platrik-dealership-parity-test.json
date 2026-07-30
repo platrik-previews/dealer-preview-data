@@ -1,0 +1,15 @@
+{
+  "email": "theplatrik@gmail.com",
+  "address": "Controlled Test Workspace, Karachi, PK",
+  "website": "https://raw.githubusercontent.com/platrik-previews/dealer-preview-data/main/parity-fixtures/platrik-dealership-parity-test.html",
+  "logoPath": "https://platrik-crm.platrik-work.workers.dev/brand/platrik-logo-light.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Controlled%20Test%20Workspace,%20Karachi,%20PK",
+  "renderer": "dealership",
+  "phoneLink": "tel:+923000000000",
+  "companyName": "Platrik Dealership Parity Test",
+  "faviconPath": "https://platrik-crm.platrik-work.workers.dev/brand/platrik-logo-light.webp",
+  "phoneDisplay": "+92 300 0000000",
+  "whatsappLink": "https://wa.me/923000000000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
