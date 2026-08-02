@@ -1,0 +1,8 @@
+{
+  "website": "https://cardock.ie/",
+  "renderer": "dealership",
+  "companyName": "Car Dock",
+  "faviconPath": "https://cardock.ie/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
