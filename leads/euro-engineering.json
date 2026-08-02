@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+441612488888",
+  "companyName": "Euro Engineering",
+  "phoneDisplay": "+44 161 248 8888",
+  "whatsappLink": "https://wa.me/441612488888",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
