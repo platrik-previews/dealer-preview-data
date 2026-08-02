@@ -1,0 +1,14 @@
+{
+  "address": "{{line}} ,",
+  "website": "https://www.westriding.co.uk/",
+  "logoPath": "https://www.westriding.co.uk/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query={{line}}%20,",
+  "renderer": "dealership",
+  "phoneLink": "tel:01282863896",
+  "companyName": "West Riding Hyundai",
+  "faviconPath": "https://www.westriding.co.uk/assets/img/favicons/favicon-vector.svg",
+  "phoneDisplay": "01282863896",
+  "whatsappLink": "https://wa.me/01282863896",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
