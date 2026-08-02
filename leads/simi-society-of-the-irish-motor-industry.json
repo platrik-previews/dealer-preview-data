@@ -1,0 +1,14 @@
+{
+  "email": "info@simi.ie",
+  "address": "The Society of the Irish Motor Industry 5 Upper Pembroke Street, Dublin 2.",
+  "website": "https://www.simi.ie/en",
+  "facebook": "https://www.facebook.com/SocietyOfTheIrishMotorIndustry/",
+  "logoPath": "https://www.simi.ie/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Society%20of%20the%20Irish%20Motor%20Industry%205%20Upper%20Pembroke%20Street,%20Dublin%202.",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/simi_ireland/",
+  "companyName": "SIMI (Society of the Irish Motor Industry)",
+  "faviconPath": "https://www.simi.ie/apple-icon-57x57.png",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
