@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+441612253900",
+  "companyName": "Delemere car centre",
+  "phoneDisplay": "+44 161 225 3900",
+  "whatsappLink": "https://wa.me/441612253900",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
