@@ -1,0 +1,15 @@
+{
+  "address": "The Red Cow Complex, Clondalkin, Dublin 22, D22 X2E9, GB",
+  "website": "https://cobyautos.ie/",
+  "facebook": "https://www.facebook.com/CobyAutos/",
+  "logoPath": "https://cobyautos.ie/wp-content/uploads/2024/06/Coby-Autos-Logo-04.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Red%20Cow%20Complex,%20Clondalkin,%20Dublin%2022,%20D22%20X2E9,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:014591308",
+  "companyName": "Coby Tyres & Auto Services",
+  "faviconPath": "https://cobyautos.ie/wp-content/uploads/2024/06/Coby-Autos-favicon-01-50x50.png",
+  "phoneDisplay": "014591308",
+  "whatsappLink": "https://wa.me/014591308",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
