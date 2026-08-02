@@ -1,0 +1,12 @@
+{
+  "email": "allregcars@hotmail.com",
+  "address": "375 Burnage Lane",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=375%20Burnage%20Lane",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447919865123",
+  "companyName": "All Registered Cars",
+  "phoneDisplay": "+447919865123",
+  "whatsappLink": "https://wa.me/447919865123",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
