@@ -1,0 +1,14 @@
+{
+  "email": "info@beshoffmotors.ie",
+  "website": "https://www.beshoffmotors.ie/",
+  "facebook": "https://www.facebook.com/beshoff.motors",
+  "logoPath": "https://www.beshoffmotors.ie/images/header/logo.svg",
+  "renderer": "dealership",
+  "phoneLink": "tel:018321222",
+  "companyName": "Beshoff Motors",
+  "faviconPath": "https://www.beshoffmotors.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01-8321222",
+  "whatsappLink": "https://wa.me/018321222",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
