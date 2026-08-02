@@ -1,0 +1,16 @@
+{
+  "address": "Unit 1, 70 Heather RoadSandyford Business Park, Dublin 18, D18 H7K7",
+  "website": "https://www.greenaer.ie/",
+  "facebook": "https://www.facebook.com/greenaer.ltd",
+  "logoPath": "https://www.greenaer.ie/sitespecific/customcontent/layout/generalLyout/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%201,%2070%20Heather%20RoadSandyford%20Business%20Park,%20Dublin%2018,%20D18%20H7K7",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/greenaer/#",
+  "phoneLink": "tel:015845975",
+  "companyName": "Greenaer",
+  "faviconPath": "https://www.greenaer.ie/favicon-96x96.png",
+  "phoneDisplay": "01 5845975",
+  "whatsappLink": "https://wa.me/015845975",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
