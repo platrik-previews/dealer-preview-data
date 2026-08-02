@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+441618333444",
+  "companyName": "Collingham Autos",
+  "phoneDisplay": "+44 161 833 3444",
+  "whatsappLink": "https://wa.me/441618333444",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
