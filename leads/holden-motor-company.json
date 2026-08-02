@@ -1,0 +1,15 @@
+{
+  "address": "--> Unit 1, Universal Business Park, Old Naas Road Bluebell",
+  "website": "https://www.holdenmotorcompany.ie/",
+  "facebook": "https://www.facebook.com/holdenmotorcompany.ie",
+  "logoPath": "https://www.holdenmotorcompany.ie/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%20Unit%201,%20Universal%20Business%20Park,%20Old%20Naas%20Road%20Bluebell",
+  "renderer": "dealership",
+  "phoneLink": "tel:014604434",
+  "companyName": "Holden Motor Company",
+  "faviconPath": "https://www.holdenmotorcompany.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01-460-4434",
+  "whatsappLink": "https://wa.me/014604434",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
