@@ -1,0 +1,17 @@
+{
+  "email": "sales@megabikes.ie",
+  "address": "22 Robinhood Road",
+  "website": "https://allmoto.ie/",
+  "facebook": "https://www.facebook.com/allmoto.ie/",
+  "logoPath": "https://allmoto.ie/media/wysiwyg/homepage/brand-logos/Alpinestars.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=22%20Robinhood%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/allmotoracing/",
+  "phoneLink": "tel:014784200",
+  "companyName": "Allmoto Online",
+  "faviconPath": "https://allmoto.ie/media/favicon/stores/1/Favicon.png",
+  "phoneDisplay": "01-4784200",
+  "whatsappLink": "https://wa.me/014784200",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
