@@ -1,0 +1,14 @@
+{
+  "address": "Dublin",
+  "website": "https://www.brightmotorgroup.ie/",
+  "logoPath": "https://d3rjkbj0efme5v.cloudfront.net/GroupLogos/c56ba5fe50cc86bb80da286721f65568de10c6ab.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dublin",
+  "renderer": "dealership",
+  "phoneLink": "tel:018708900",
+  "companyName": "Bright Motor Group",
+  "faviconPath": "https://d2638j3z8ek976.cloudfront.net/ccfdcb0e57be7769408d7aed6196ab706f4017d1/1779293477/images/ico/apple-touch-icon-144-precomposed.png",
+  "phoneDisplay": "018708900",
+  "whatsappLink": "https://wa.me/018708900",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
