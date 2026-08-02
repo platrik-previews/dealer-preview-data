@@ -1,15 +1,6 @@
 {
-  "address": "--> Fosters Avenue, Mount Merrion, Co. Dublin A94 V6T7",
-  "website": "https://www.mountmerrioncars.ie/",
-  "logoPath": "https://www.mountmerrioncars.ie/images/header/logo.svg",
-  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%20Fosters%20Avenue,%20Mount%20Merrion,%20Co.%20Dublin%20A94%20V6T7",
   "renderer": "dealership",
-  "instagram": "https://www.instagram.com/mountmerrioncars",
-  "phoneLink": "tel:012832044",
   "companyName": "Mount Merrion Cars",
-  "faviconPath": "https://www.mountmerrioncars.ie/images/favicon.ico?v=1.00",
-  "phoneDisplay": "01-2832044",
-  "whatsappLink": "https://wa.me/012832044",
   "allowIndexing": false,
   "schemaVersion": 1
 }
