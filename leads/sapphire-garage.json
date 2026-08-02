@@ -1,0 +1,11 @@
+{
+  "website": "https://www.sapphiregarage.com/",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441612028680",
+  "companyName": "Sapphire Garage",
+  "faviconPath": "https://www.sapphiregarage.com/favicon.ico",
+  "phoneDisplay": "+44 1612028680",
+  "whatsappLink": "https://wa.me/441612028680",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
