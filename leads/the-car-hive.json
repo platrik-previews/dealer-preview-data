@@ -1,0 +1,16 @@
+{
+  "email": "sales@thecarhive.co.uk",
+  "address": "364 Wellington Road North Heaton Chapel Stockport SK4 4QP",
+  "website": "https://thecarhive.co.uk/",
+  "facebook": "http://www.facebook.com",
+  "logoPath": "https://thecarhive.co.uk/wp-content/uploads/2021/01/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=364%20Wellington%20Road%20North%20Heaton%20Chapel%20Stockport%20SK4%204QP",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447556556665",
+  "companyName": "The Car Hive",
+  "faviconPath": "https://thecarhive.co.uk/favicon.ico",
+  "phoneDisplay": "+447556556665",
+  "whatsappLink": "https://wa.me/447556556665",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
