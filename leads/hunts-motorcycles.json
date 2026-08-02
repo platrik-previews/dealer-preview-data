@@ -1,0 +1,16 @@
+{
+  "email": "info@huntsmotorcycles.co.uk",
+  "address": "255 Kingsway",
+  "website": "https://huntsmotorcycles.co.uk/",
+  "facebook": "https://www.facebook.com/huntsmotorcycles/",
+  "logoPath": "https://huntsmotorcycles.co.uk/wp-content/uploads/2026/05/Hunts-Motorcycles-Web-Logo-2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=255%20Kingsway",
+  "renderer": "dealership",
+  "phoneLink": "tel:01614321303",
+  "companyName": "Hunts Motorcycles",
+  "faviconPath": "https://huntsmotorcycles.co.uk/wp-content/themes/mlo-hunts-multisite-child-theme/assets/icons/favicon.webp",
+  "phoneDisplay": "0161-4321303",
+  "whatsappLink": "https://wa.me/01614321303",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
