@@ -1,0 +1,12 @@
+{
+  "website": "https://www.mini-max.co.uk/",
+  "logoPath": "https://www.mini-max.co.uk/images/logo-mini-max.gif",
+  "renderer": "dealership",
+  "phoneLink": "tel:01614328011",
+  "companyName": "Mini-Max",
+  "faviconPath": "https://www.mini-max.co.uk/favicon.ico",
+  "phoneDisplay": "0161 432 8011",
+  "whatsappLink": "https://wa.me/01614328011",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
