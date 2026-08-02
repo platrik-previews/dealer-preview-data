@@ -1,0 +1,17 @@
+{
+  "email": "declan@lor.ie",
+  "address": "60 Dorset Street Lower",
+  "website": "http://lor.ie/",
+  "facebook": "https://www.facebook.com/leooreillymotorcycles/",
+  "logoPath": "http://lor.ie/Yamaha-Logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=60%20Dorset%20Street%20Lower",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/lormotorcycles?igshid=YmMyMTA2M2Y=",
+  "phoneLink": "tel:+35318307104",
+  "companyName": "Leo O'Reilly Motorcycles",
+  "faviconPath": "http://lor.ie/bike.ico",
+  "phoneDisplay": "+35318307104",
+  "whatsappLink": "https://wa.me/35318307104",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
