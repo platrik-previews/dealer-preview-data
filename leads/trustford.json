@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+441614527115",
+  "companyName": "TrustFord",
+  "phoneDisplay": "+44 161 452 7115",
+  "whatsappLink": "https://wa.me/441614527115",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
