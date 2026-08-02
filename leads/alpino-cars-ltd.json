@@ -1,0 +1,11 @@
+{
+  "address": "568 Wilmslow Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=568%20Wilmslow%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01614487000",
+  "companyName": "Alpino Cars Ltd.",
+  "phoneDisplay": "01614487000",
+  "whatsappLink": "https://wa.me/01614487000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
