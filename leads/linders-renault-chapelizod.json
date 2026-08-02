@@ -1,0 +1,14 @@
+{
+  "website": "https://www.linders.ie/",
+  "facebook": "https://www.facebook.com/Linders.ie",
+  "logoPath": "https://www.linders.ie/images/header/logo.svg",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/linders.ie/",
+  "phoneLink": "tel:018648212",
+  "companyName": "Linders Renault Chapelizod",
+  "faviconPath": "https://www.linders.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01-8648212",
+  "whatsappLink": "https://wa.me/018648212",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
