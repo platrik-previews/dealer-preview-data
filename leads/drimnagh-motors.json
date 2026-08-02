@@ -1,0 +1,16 @@
+{
+  "address": "01-4099508",
+  "website": "https://www.drimnaghmotors.com/",
+  "facebook": "https://www.facebook.com/drimnaghmotors",
+  "logoPath": "https://www.drimnaghmotors.com/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=01-4099508",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/drimnagh_motors/",
+  "phoneLink": "tel:014099508",
+  "companyName": "Drimnagh Motors",
+  "faviconPath": "https://www.drimnaghmotors.com/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01-4099508",
+  "whatsappLink": "https://wa.me/014099508",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
