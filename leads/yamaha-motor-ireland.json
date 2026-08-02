@@ -1,0 +1,11 @@
+{
+  "email": "sales@danfay.ie",
+  "address": "The Trim Bin Barbers - Sallynoggin, 45 Woodpark",
+  "website": "https://www.yamaha-motor.eu/ie/en/home/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Trim%20Bin%20Barbers%20-%20Sallynoggin,%2045%20Woodpark",
+  "renderer": "dealership",
+  "companyName": "Yamaha Motor Ireland",
+  "faviconPath": "https://www.yamaha-motor.eu/etc.clientlibs/yme/clientlibs/clientlib-react/resources/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
