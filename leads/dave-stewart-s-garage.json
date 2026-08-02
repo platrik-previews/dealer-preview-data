@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+35318680929",
+  "companyName": "Dave Stewart's Garage",
+  "phoneDisplay": "+353 1 868 0929",
+  "whatsappLink": "https://wa.me/35318680929",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
