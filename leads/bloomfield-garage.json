@@ -1,0 +1,16 @@
+{
+  "address": "--> 57 Bloomfield Ave, South Circular Road, Dublin 8 Co. Dublin",
+  "website": "https://bloomfieldgarage.ie/",
+  "facebook": "https://www.facebook.com/bloomfieldgarage/",
+  "logoPath": "https://bloomfieldgarage.ie/images/header/logo-bloomfield-garage.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%2057%20Bloomfield%20Ave,%20South%20Circular%20Road,%20Dublin%208%20Co.%20Dublin",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/bloomfieldgarage",
+  "phoneLink": "tel:014531433",
+  "companyName": "Bloomfield Garage",
+  "faviconPath": "https://bloomfieldgarage.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01 - 4531433",
+  "whatsappLink": "https://wa.me/014531433",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
