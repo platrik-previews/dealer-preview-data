@@ -1,0 +1,12 @@
+{
+  "website": "http://www.langworthymot.co.uk/",
+  "logoPath": "http://www.langworthymot.co.uk/wp-content/uploads/2018/01/Langworthy-MOT-Logo-1-300x288.png",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441618725756",
+  "companyName": "Langworthy MOT Centre",
+  "faviconPath": "http://www.langworthymot.co.uk/wp-content/uploads/2018/01/cropped-Langworthy-MOT-Logo-1-32x32.png",
+  "phoneDisplay": "+44 161 872 5756",
+  "whatsappLink": "https://wa.me/441618725756",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
