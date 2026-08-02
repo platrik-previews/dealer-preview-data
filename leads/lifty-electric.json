@@ -1,0 +1,15 @@
+{
+  "email": "hello@lifty.co",
+  "address": "157 Capel Street, Dublin 1, D01 F5P1, IE",
+  "website": "https://liftyelectric.com/",
+  "logoPath": "https://liftyelectric.com/cdn/shop/files/LIFTYLOGO2027BLACK.png?v=1775171920&width=600",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=157%20Capel%20Street,%20Dublin%201,%20D01%20F5P1,%20IE",
+  "renderer": "dealership",
+  "phoneLink": "tel:+35314434946",
+  "companyName": "Lifty Electric",
+  "faviconPath": "https://liftyelectric.com/cdn/shop/t/81/assets/lifty-favicon-racing-v2.png?v=25756486769042722271785490919",
+  "phoneDisplay": "+35314434946",
+  "whatsappLink": "https://wa.me/35314434946",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
