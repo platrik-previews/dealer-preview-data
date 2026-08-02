@@ -1,0 +1,15 @@
+{
+  "email": "fitzautos@gmail.com",
+  "address": "9 Kenilworth Lane East",
+  "website": "https://fitzautos.ie/",
+  "logoPath": "https://fitzautos.ie/wp-content/uploads/2019/01/JFitz.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=9%20Kenilworth%20Lane%20East",
+  "renderer": "dealership",
+  "phoneLink": "tel:+35314963690",
+  "companyName": "Fitz Autos",
+  "faviconPath": "https://fitzautos.ie/wp-content/uploads/2019/01/JFitz-2.jpg",
+  "phoneDisplay": "+(353)(1)4963690",
+  "whatsappLink": "https://wa.me/35314963690",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
