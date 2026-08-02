@@ -1,0 +1,17 @@
+{
+  "email": "like@3x.png",
+  "address": "260 Harolds Cross Road, Harolds Cross, Dublin 6W, Co. Dublin, D6W VN50",
+  "website": "https://www.mr500.ie/",
+  "facebook": "https://www.facebook.com/mrfiat500",
+  "logoPath": "https://www.mr500.ie/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=260%20Harolds%20Cross%20Road,%20Harolds%20Cross,%20Dublin%206W,%20Co.%20Dublin,%20D6W%20VN50",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mr500.ie/",
+  "phoneLink": "tel:0872771816",
+  "companyName": "MR500.ie",
+  "faviconPath": "https://www.mr500.ie/favicon.ico",
+  "phoneDisplay": "087-2771816",
+  "whatsappLink": "https://wa.me/0872771816",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
