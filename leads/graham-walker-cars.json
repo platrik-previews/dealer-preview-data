@@ -1,0 +1,15 @@
+{
+  "address": "Burton Hall Park, Dublin 18",
+  "website": "https://www.grahamwalkercars.ie/",
+  "facebook": "https://www.facebook.com/grahamwalkercars/",
+  "logoPath": "https://www.grahamwalkercars.ie/images/header/logo.png?v=2",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Burton%20Hall%20Park,%20Dublin%2018",
+  "renderer": "dealership",
+  "phoneLink": "tel:014973333",
+  "companyName": "Graham Walker Cars",
+  "faviconPath": "https://www.grahamwalkercars.ie/images/favicon.ico",
+  "phoneDisplay": "01-4973333",
+  "whatsappLink": "https://wa.me/014973333",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
