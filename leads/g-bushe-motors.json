@@ -1,0 +1,12 @@
+{
+  "website": "http://gbushemotors.ie/",
+  "logoPath": "http://gbushemotors.ie/img/banner.jpg",
+  "renderer": "dealership",
+  "phoneLink": "tel:+35314534535",
+  "companyName": "G Bushe Motors",
+  "faviconPath": "http://gbushemotors.ie/favicon.ico",
+  "phoneDisplay": "+353 1 453 4535",
+  "whatsappLink": "https://wa.me/35314534535",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
