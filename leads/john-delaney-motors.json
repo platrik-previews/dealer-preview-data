@@ -1,0 +1,14 @@
+{
+  "website": "https://www.delany-motors.co.uk/",
+  "facebook": "https://en-gb.facebook.com/JohnDelanyMotors/",
+  "logoPath": "https://www.delany-motors.co.uk/wp-content/uploads/2021/04/untitled2-1.png",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/delanymotors/",
+  "phoneLink": "tel:01614776266",
+  "companyName": "John Delaney Motors",
+  "faviconPath": "https://www.delany-motors.co.uk/wp-content/themes/john-delany/library/images/favicons/apple-touch-icon.png",
+  "phoneDisplay": "0161 477 6266",
+  "whatsappLink": "https://wa.me/01614776266",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
