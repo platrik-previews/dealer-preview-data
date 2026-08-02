@@ -1,0 +1,12 @@
+{
+  "website": "http://www.nolanscars.ie/",
+  "logoPath": "http://www.nolanscars.ie/images/logo_bmw.jpg",
+  "renderer": "dealership",
+  "phoneLink": "tel:+35318478504",
+  "companyName": "Nolan's Car Service Centre",
+  "faviconPath": "http://www.nolanscars.ie/favicon.ico",
+  "phoneDisplay": "+35318478504",
+  "whatsappLink": "https://wa.me/35318478504",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
