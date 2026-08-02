@@ -1,0 +1,12 @@
+{
+  "website": "https://car-service-manchester.co.uk/",
+  "logoPath": "https://images.squarespace-cdn.com/content/v1/5e85a5e09b1a9d5ddff7a515/4c38d309-4f51-4b83-a39d-00adfa9b1b87/Lodge-Transparent-Logo-White.png",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441613703014",
+  "companyName": "Lodge Service Station",
+  "faviconPath": "https://images.squarespace-cdn.com/content/v1/5e85a5e09b1a9d5ddff7a515/75027a53-8ba5-453f-a4a6-45d949f522a8/favicon.ico?format=100w",
+  "phoneDisplay": "+441613703014",
+  "whatsappLink": "https://wa.me/441613703014",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
