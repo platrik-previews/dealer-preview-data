@@ -1,0 +1,15 @@
+{
+  "address": "Rathgar Avenue, Rathgar Dublin 6 Dublin",
+  "website": "https://www.murphyandgunn.ie/",
+  "facebook": "https://www.facebook.com/MurphyGunn",
+  "logoPath": "https://donedealdealer-live.s3.eu-west-1.amazonaws.com/323/logo/3aebb7502a12e8fa2b0dbc008e170f06.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rathgar%20Avenue,%20Rathgar%20Dublin%206%20Dublin",
+  "renderer": "dealership",
+  "phoneLink": "tel:0862555703",
+  "companyName": "Murphy & Gunn",
+  "faviconPath": "https://www.murphyandgunn.ie/android-chrome-192x192.png",
+  "phoneDisplay": "0862555703",
+  "whatsappLink": "https://wa.me/0862555703",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
