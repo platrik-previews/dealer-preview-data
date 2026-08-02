@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+35314508514",
+  "companyName": "Pat Igoe",
+  "phoneDisplay": "+353 1 450 8514",
+  "whatsappLink": "https://wa.me/35314508514",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
