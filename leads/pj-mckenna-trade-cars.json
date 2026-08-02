@@ -1,0 +1,12 @@
+{
+  "website": "https://pjmckennacars.ie/",
+  "logoPath": "https://pjmckennacars.ie/logo.webp",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353862554170",
+  "companyName": "PJ McKenna Trade Cars",
+  "faviconPath": "https://pjmckennacars.ie/favicon.ico",
+  "phoneDisplay": "+353862554170",
+  "whatsappLink": "https://wa.me/353862554170",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
