@@ -1,0 +1,13 @@
+{
+  "email": "sales@dalymounttyre.ie",
+  "website": "http://dalymounttyre.ie/",
+  "logoPath": "http://dalymounttyre.ie/images/simi.jpg",
+  "renderer": "dealership",
+  "phoneLink": "tel:018680712",
+  "companyName": "FirstStop",
+  "faviconPath": "http://dalymounttyre.ie/favicon.ico",
+  "phoneDisplay": "018680712",
+  "whatsappLink": "https://wa.me/018680712",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
