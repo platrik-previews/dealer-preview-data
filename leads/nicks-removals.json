@@ -1,0 +1,13 @@
+{
+  "address": "15 Widgeon Close",
+  "website": "http://www.nicksremovals.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Widgeon%20Close",
+  "renderer": "dealership",
+  "phoneLink": "tel:07944079878",
+  "companyName": "Nicks Removals",
+  "faviconPath": "http://www.nicksremovals.co.uk/favicon.ico",
+  "phoneDisplay": "07944079878",
+  "whatsappLink": "https://wa.me/07944079878",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
