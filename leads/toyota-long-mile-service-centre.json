@@ -1,0 +1,14 @@
+{
+  "website": "https://www.toyotalongmile.ie/aftersales",
+  "facebook": "https://www.facebook.com/ToyotaLongMile",
+  "logoPath": "https://static.dealers.toyota.deveire.network/dims4/default/d73a0a5/2147483647/strip/true/crop/500x500+0+0/resize/60x60!/quality/95/?url=https%3A%2F%2Fs3.ops.deveire.com%2Fe2%2Fcf%2Fe0d59bcb4e1ab276f0ac6ca47fba%2Ftoyota-logo.png",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/ToyotaLongMile/",
+  "phoneLink": "tel:014606070",
+  "companyName": "Toyota Long Mile Service Centre",
+  "faviconPath": "https://www.toyotalongmile.ie/favicon.ico",
+  "phoneDisplay": "(01) 460 6070",
+  "whatsappLink": "https://wa.me/014606070",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
