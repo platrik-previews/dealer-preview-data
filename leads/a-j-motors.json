@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+353868801050+353863316100",
+  "companyName": "A&J Motors",
+  "phoneDisplay": "+353868801050;+353863316100",
+  "whatsappLink": "https://wa.me/353868801050353863316100",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
