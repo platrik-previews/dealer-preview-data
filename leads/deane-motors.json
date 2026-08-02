@@ -1,0 +1,17 @@
+{
+  "email": "info@deanemotors.ie",
+  "address": "Harlockestown, Summerhill Road",
+  "website": "https://deanemotors.ie/",
+  "facebook": "https://www.facebook.com/deanemotorsdublin",
+  "logoPath": "https://deanemotors.ie/wp-content/uploads/dm-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Harlockestown,%20Summerhill%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/deanemotorsdublin/",
+  "phoneLink": "tel:+35316607809",
+  "companyName": "Deane Motors",
+  "faviconPath": "https://deanemotors.ie/wp-content/uploads/DM-Monogram-Red.png",
+  "phoneDisplay": "+35316607809",
+  "whatsappLink": "https://wa.me/35316607809",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
