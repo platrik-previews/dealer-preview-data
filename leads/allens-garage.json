@@ -1,0 +1,14 @@
+{
+  "website": "https://www.allensgarage.ie/",
+  "facebook": "https://m.facebook.com/allensgaragedublin/",
+  "logoPath": "https://images.squarespace-cdn.com/content/v1/5bcd9c0829f2cc3b382cdc36/1615207941416-QDFNG8VEH3USCVFTTWII/AllensGarage-Logo-Web.jpg",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/allensgaragedublin/?hl=en",
+  "phoneLink": "tel:+35314543744",
+  "companyName": "Allens Garage",
+  "faviconPath": "https://assets.squarespace.com/universal/default-favicon.ico",
+  "phoneDisplay": "+353 1 4543744",
+  "whatsappLink": "https://wa.me/35314543744",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
