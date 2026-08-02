@@ -1,0 +1,14 @@
+{
+  "email": "info@automaintenance.ie",
+  "website": "https://www.automaintenance.ie/",
+  "facebook": "https://www.facebook.com/Auto.Maintenance.Services/",
+  "logoPath": "https://www.automaintenance.ie/images/logo.jpg",
+  "renderer": "dealership",
+  "phoneLink": "tel:+35318643422",
+  "companyName": "Auto Maintenance Services",
+  "faviconPath": "https://www.automaintenance.ie/favicon.ico",
+  "phoneDisplay": "+353 1 8643422",
+  "whatsappLink": "https://wa.me/35318643422",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
