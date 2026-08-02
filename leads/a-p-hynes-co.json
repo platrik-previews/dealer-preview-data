@@ -1,0 +1,16 @@
+{
+  "address": "Hale Road, Hale Barns, Altrincham, Cheshire, WA158SX, GB",
+  "website": "https://www.aphynes.com/",
+  "facebook": "https://www.facebook.com/aphynescars/",
+  "logoPath": "https://www.aphynes.com/admin/uploaded_photos/site_logo.png?nc=21",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hale%20Road,%20Hale%20Barns,%20Altrincham,%20Cheshire,%20WA158SX,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/aphynes.cars",
+  "phoneLink": "tel:01619805767",
+  "companyName": "A P Hynes & Co",
+  "faviconPath": "https://www.aphynes.com/favicon.ico?nc=02",
+  "phoneDisplay": "01619805767",
+  "whatsappLink": "https://wa.me/01619805767",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
