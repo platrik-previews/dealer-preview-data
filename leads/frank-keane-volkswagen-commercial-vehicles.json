@@ -1,0 +1,15 @@
+{
+  "email": "sandyford@frankkeanevolkswagen.ie",
+  "address": "Liffey Valley Motor Mall, Dublin 22 - Furze Road, Sandyford, Dublin 18",
+  "website": "https://www.frankkeanevolkswagen.ie/en",
+  "logoPath": "https://vw.assets.keyelement.cloud/assets/renditions/ratio/original/width/1920/height/1080/image/assets/1/mydealer-images/jkeane-sons-16x9.jpg?15445",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Liffey%20Valley%20Motor%20Mall,%20Dublin%2022%20-%20Furze%20Road,%20Sandyford,%20Dublin%2018",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353165646000",
+  "companyName": "Frank Keane Volkswagen Commercial Vehicles",
+  "faviconPath": "https://www.frankkeanevolkswagen.ie/images/favicon.ico",
+  "phoneDisplay": "+353165646000",
+  "whatsappLink": "https://wa.me/353165646000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
