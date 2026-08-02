@@ -1,0 +1,17 @@
+{
+  "email": "info@firstchoiceautos.ie",
+  "address": "55 Patrick Street, Dun Laoghaire, Co. Dublin A96 PW31",
+  "website": "https://www.firstchoiceautos.ie/",
+  "facebook": "https://www.facebook.com/profile.php?id=100049682757094",
+  "logoPath": "https://www.firstchoiceautos.ie/images/header/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=55%20Patrick%20Street,%20Dun%20Laoghaire,%20Co.%20Dublin%20A96%20PW31",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/firstchoiceautosirl/",
+  "phoneLink": "tel:012844448",
+  "companyName": "First Choice Autos",
+  "faviconPath": "https://www.firstchoiceautos.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01 284 4448",
+  "whatsappLink": "https://wa.me/012844448",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
