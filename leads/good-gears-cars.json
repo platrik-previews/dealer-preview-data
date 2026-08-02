@@ -1,0 +1,14 @@
+{
+  "address": "364 Wellington Road North, Stockport, SK4 4QP, GB",
+  "website": "https://www.goodgearscars.co.uk/",
+  "logoPath": "https://www.goodgearscars.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=364%20Wellington%20Road%20North,%20Stockport,%20SK4%204QP,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:07526559000",
+  "companyName": "Good Gears Cars",
+  "faviconPath": "https://www.goodgearscars.co.uk/favicon.png",
+  "phoneDisplay": "07526 559000",
+  "whatsappLink": "https://wa.me/07526559000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
