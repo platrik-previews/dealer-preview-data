@@ -1,0 +1,11 @@
+{
+  "website": "https://ecutechtune.co.uk/",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447950000113",
+  "companyName": "ECU Tech Tune",
+  "faviconPath": "https://ecutechtune.co.uk/favicon.ico",
+  "phoneDisplay": "+44 7950 000113",
+  "whatsappLink": "https://wa.me/447950000113",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
