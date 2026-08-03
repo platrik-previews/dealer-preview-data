@@ -1,0 +1,16 @@
+{
+  "email": "info@amtrailers.co.uk",
+  "address": "76 Hill Street",
+  "website": "https://amtrailers.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=100063478636140",
+  "logoPath": "https://amtrailers.co.uk/wp-content/uploads/AM-Trailers-logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=76%20Hill%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:07821074879",
+  "companyName": "A and M Trailers and Trailer Parts",
+  "faviconPath": "https://amtrailers.co.uk/wp-content/uploads/cropped-AM-trailers-favicon-32x32.png",
+  "phoneDisplay": "07821074879",
+  "whatsappLink": "https://wa.me/07821074879",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
