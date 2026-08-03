@@ -1,0 +1,16 @@
+{
+  "email": "info@martinmcaleenanmotors.co.uk",
+  "address": "57 Bridge Street",
+  "website": "https://www.martinmcaleenanmotors.co.uk/",
+  "facebook": "https://www.facebook.com/stefan.bailie/posts/1918547021496995:0",
+  "logoPath": "https://cdn.prod.website-files.com/5e2daa8986f41723202276c6/5e2de0a78c2b17a742c76753_logo_nav.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=57%20Bridge%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447977507295",
+  "companyName": "Martin McAleenan Motors",
+  "faviconPath": "https://cdn.prod.website-files.com/5e2daa8986f41723202276c6/5f209b27dba076ee8f436940_favicon1.png",
+  "phoneDisplay": "+447977507295",
+  "whatsappLink": "https://wa.me/447977507295",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
