@@ -1,0 +1,16 @@
+{
+  "email": "info@kellytrailers.co.uk",
+  "address": "18 Derryleckagh Road",
+  "website": "https://www.kellytrailers.co.uk/",
+  "facebook": "https://facebook.com/kellytrailers",
+  "logoPath": "https://www.kellytrailers.co.uk/images/logos/logo-kt-400x80.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Derryleckagh%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07521311660",
+  "companyName": "Kelly Trailers",
+  "faviconPath": "https://www.kellytrailers.co.uk/images/logo/favicon/favicon.ico",
+  "phoneDisplay": "07521311660",
+  "whatsappLink": "https://wa.me/07521311660",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
