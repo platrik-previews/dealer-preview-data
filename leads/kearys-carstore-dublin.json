@@ -1,14 +1,6 @@
 {
-  "website": "https://www.carstore.ie/",
-  "facebook": "https://www.facebook.com/KearysCarStore",
-  "logoPath": "https://www.carstore.ie/sites/automotive/images/logo.webp",
   "renderer": "dealership",
-  "instagram": "https://www.instagram.com/kearyscarstore/?hl=en",
-  "phoneLink": "tel:014851273",
   "companyName": "Kearys Carstore Dublin",
-  "faviconPath": "https://www.carstore.ie/sites/automotive/images/favicons/apple-touch-icon.png",
-  "phoneDisplay": "014851273",
-  "whatsappLink": "https://wa.me/014851273",
   "allowIndexing": false,
   "schemaVersion": 1
 }
