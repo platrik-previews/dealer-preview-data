@@ -1,0 +1,12 @@
+{
+  "email": "dathimacrath@gmail.com",
+  "address": "nursery road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=nursery%20road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447876596363",
+  "companyName": "David Car Sales Crawford",
+  "phoneDisplay": "+447876596363",
+  "whatsappLink": "https://wa.me/447876596363",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
