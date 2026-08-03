@@ -1,0 +1,11 @@
+{
+  "address": "18 Dunnamore Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Dunnamore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447706622499",
+  "companyName": "Loughran Commercials",
+  "phoneDisplay": "+447706622499",
+  "whatsappLink": "https://wa.me/447706622499",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
