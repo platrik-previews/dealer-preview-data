@@ -1,0 +1,16 @@
+{
+  "email": "weborders@phillipmccallen.com",
+  "address": "Phillip McCallen Motorcycles Ltd. Unit 10/11 Portman Business Park, Lissue Industrial Estate West Moira Road Lisburn, BT28 2XF United Kingdom",
+  "website": "https://www.phillipmccallen.com/",
+  "facebook": "https://www.facebook.com/PhillipMcCallenMotorcycles",
+  "logoPath": "https://www.phillipmccallen.com/media/logo/default/pmc-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Phillip%20McCallen%20Motorcycles%20Ltd.%20Unit%2010/11%20Portman%20Business%20Park,%20Lissue%20Industrial%20Estate%20West%20Moira%20Road%20Lisburn,%20BT28%202XF%20United%20Kingdom",
+  "renderer": "dealership",
+  "phoneLink": "tel:24402892622886",
+  "companyName": "Phillip McCallen Motorcycles",
+  "faviconPath": "https://www.phillipmccallen.com/media/favicon/default/favicon-32x32-mccallen.png",
+  "phoneDisplay": "&#x2B;4402892622886",
+  "whatsappLink": "https://wa.me/24402892622886",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
