@@ -1,0 +1,15 @@
+{
+  "address": "Mount View Business Park Unit 1",
+  "website": "https://www.newrycaravans.com/",
+  "facebook": "https://www.facebook.com/Newrycaravan?ref=ts&fref=ts",
+  "logoPath": "https://www.newrycaravans.com/images/general/Caravan_Dealers_Northern_Ireland_logo1.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Mount%20View%20Business%20Park%20Unit%201",
+  "renderer": "dealership",
+  "phoneLink": "tel:00442830835747",
+  "companyName": "Newry Caravans",
+  "faviconPath": "https://www.newrycaravans.com/favicon.ico",
+  "phoneDisplay": "00442830835747",
+  "whatsappLink": "https://wa.me/00442830835747",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
