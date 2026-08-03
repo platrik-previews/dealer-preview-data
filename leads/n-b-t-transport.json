@@ -1,0 +1,11 @@
+{
+  "address": "1 Glenavon Park",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Glenavon%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:02886769343",
+  "companyName": "N B T Transport",
+  "phoneDisplay": "02886769343",
+  "whatsappLink": "https://wa.me/02886769343",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
