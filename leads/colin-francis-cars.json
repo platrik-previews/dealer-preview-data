@@ -1,0 +1,14 @@
+{
+  "address": "48 Shore Rd",
+  "website": "http://www.colinfranciscars.com/",
+  "logoPath": "http://www.colinfranciscars.com/images/motonova-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=48%20Shore%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02879418817",
+  "companyName": "Colin Francis Cars",
+  "faviconPath": "http://www.colinfranciscars.com/favicon.ico",
+  "phoneDisplay": "028 7941 8817",
+  "whatsappLink": "https://wa.me/02879418817",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
