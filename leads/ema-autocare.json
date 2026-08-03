@@ -1,0 +1,14 @@
+{
+  "address": "Drumar",
+  "website": "https://www.emkoindustrial.ie/",
+  "logoPath": "https://www.emkoindustrial.ie/cdn/shop/files/EMKO_Logo_New.png?v=1784922167&width=954",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Drumar",
+  "renderer": "dealership",
+  "phoneLink": "tel:0879019973",
+  "companyName": "EMA Autocare",
+  "faviconPath": "https://www.emkoindustrial.ie/cdn/shop/files/Favicon_Logo.png?crop=center&height=48&v=1784922306&width=48",
+  "phoneDisplay": "087 901 9973",
+  "whatsappLink": "https://wa.me/0879019973",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
