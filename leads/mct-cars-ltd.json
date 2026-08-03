@@ -1,0 +1,15 @@
+{
+  "email": "sales@mctcars.co.uk",
+  "address": "Nuttscorner BT29 4YP",
+  "website": "https://mctcars.co.uk/",
+  "facebook": "https://www.facebook.com/mctcars.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Nuttscorner%20BT29%204YP",
+  "renderer": "dealership",
+  "phoneLink": "tel:07710532365",
+  "companyName": "Mct Cars Ltd",
+  "faviconPath": "https://mctcars.co.uk/wp-content/uploads/2020/12/cropped-icon-v-32x32.png",
+  "phoneDisplay": "07710532365",
+  "whatsappLink": "https://wa.me/07710532365",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
