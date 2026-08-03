@@ -1,0 +1,14 @@
+{
+  "address": "15 Back Road",
+  "website": "https://www.anthonymurchancars.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/225/227/309/16272956392f3a3ac4a1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Back%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830886683",
+  "companyName": "Anthony Murchan Cars",
+  "faviconPath": "https://www.anthonymurchancars.co.uk/favicon.ico",
+  "phoneDisplay": "+442830886683",
+  "whatsappLink": "https://wa.me/442830886683",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
