@@ -1,0 +1,16 @@
+{
+  "address": "Brookmount, 18 Dungannon Rd",
+  "website": "https://www.tjhamilton.com/",
+  "facebook": "https://www.facebook.com/tjhamilton.volkswagen",
+  "logoPath": "https://www.tjhamilton.com/static/images/unity-aw-logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brookmount,%2018%20Dungannon%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/tjhamiltonvolkswagen/",
+  "phoneLink": "tel:02886762488",
+  "companyName": "Volkswagen Group UK",
+  "faviconPath": "https://www.tjhamilton.com/media/images/208603812/p2255.tj-hamilton-and-co.png",
+  "phoneDisplay": "028 8676 2488",
+  "whatsappLink": "https://wa.me/02886762488",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
