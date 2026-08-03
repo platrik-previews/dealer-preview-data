@@ -1,0 +1,14 @@
+{
+  "address": "10 Main St",
+  "website": "http://www.mcknightmotors.com/",
+  "logoPath": "https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/spaceship-logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=10%20Main%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:02886737583",
+  "companyName": "McKnight Motors",
+  "faviconPath": "https://forsale.spaceship-cdn.com/static/latest/3.latest/assets/fonts/apple-touch-icon-57x57.png",
+  "phoneDisplay": "028 8673 7583",
+  "whatsappLink": "https://wa.me/02886737583",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
