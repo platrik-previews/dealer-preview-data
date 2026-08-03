@@ -1,0 +1,11 @@
+{
+  "address": "73 Rowantree Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=73%20Rowantree%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447730533587",
+  "companyName": "Ashfield Autos Ltd",
+  "phoneDisplay": "+447730533587",
+  "whatsappLink": "https://wa.me/447730533587",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
