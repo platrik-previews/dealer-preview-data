@@ -1,0 +1,13 @@
+{
+  "address": "Scarva Filling Station, 5b Scarva Road",
+  "website": "http://banbridgecars.com/cgi-sys/suspendedpage.cgi",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Scarva%20Filling%20Station,%205b%20Scarva%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442840669020",
+  "companyName": "Bann Caravans",
+  "faviconPath": "http://banbridgecars.com/favicon.ico",
+  "phoneDisplay": "+442840669020",
+  "whatsappLink": "https://wa.me/442840669020",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
