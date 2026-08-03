@@ -1,0 +1,17 @@
+{
+  "email": "customer.information@bmw.co.uk",
+  "address": "Seagoe Road",
+  "website": "https://www.prenticebmw.co.uk/",
+  "facebook": "https://www.facebook.com/PrenticeBMW/",
+  "logoPath": "https://images.ctfassets.net/hrsqy01523sg/4xXIQOZsW7citnRDaMOPpx/bc2a702b6c8af0ccb8590b194e4f3251/JH_square_crop_.jpg?w=97&h=97&fl=progressive",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Seagoe%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/prenticebmw/?hl=en",
+  "phoneLink": "tel:02838338833",
+  "companyName": "Prentice Portadown",
+  "faviconPath": "https://www.prenticebmw.co.uk/favicon.ico",
+  "phoneDisplay": "02838 338833",
+  "whatsappLink": "https://wa.me/02838338833",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
