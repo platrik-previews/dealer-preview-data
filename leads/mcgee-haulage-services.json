@@ -1,0 +1,13 @@
+{
+  "address": "30 Moghan Road",
+  "website": "https://mcgeehaulageservices.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=30%20Moghan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02887767185",
+  "companyName": "McGee Haulage Services",
+  "faviconPath": "https://mcgeehaulageservices.com/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png",
+  "phoneDisplay": "02887767185",
+  "whatsappLink": "https://wa.me/02887767185",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
