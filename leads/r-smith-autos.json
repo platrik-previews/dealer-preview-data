@@ -1,0 +1,16 @@
+{
+  "email": "rob.smith1@hotmail.co.uk",
+  "address": "695a Oldpark Road",
+  "website": "https://www.rsmithautos.co.uk/",
+  "facebook": "https://www.facebook.com/rsmithautos/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/030/161/011/17508523089c83f3b7fa.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=695a%20Oldpark%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447764412370",
+  "companyName": "R Smith Autos",
+  "faviconPath": "https://www.rsmithautos.co.uk/favicon.ico",
+  "phoneDisplay": "+447764412370",
+  "whatsappLink": "https://wa.me/447764412370",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
