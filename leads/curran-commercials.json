@@ -1,0 +1,17 @@
+{
+  "email": "info@currancommercials.com",
+  "address": "130 Markethill Road",
+  "website": "https://www.currancommercials.com/",
+  "facebook": "https://www.facebook.com/currancommercials1",
+  "logoPath": "https://www.currancommercials.com/img/logo-rev.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=130%20Markethill%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/",
+  "phoneLink": "tel:+447739611533",
+  "companyName": "Curran Commercials",
+  "faviconPath": "https://www.currancommercials.com/docs/4.0/img/favicons/favicon.ico",
+  "phoneDisplay": "+44 7739611533",
+  "whatsappLink": "https://wa.me/447739611533",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
