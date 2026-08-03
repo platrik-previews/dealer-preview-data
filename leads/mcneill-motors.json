@@ -1,0 +1,15 @@
+{
+  "email": "graham_mcneill@icloud.com",
+  "address": "209 Gilford Road",
+  "website": "https://www.mcneillmotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/046/743/265/1612869895196f545cdb.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=209%20Gilford%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838321600",
+  "companyName": "McNeill Motors",
+  "faviconPath": "https://www.mcneillmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442838321600",
+  "whatsappLink": "https://wa.me/442838321600",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
