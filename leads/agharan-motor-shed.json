@@ -1,0 +1,16 @@
+{
+  "email": "admin@agharanmotorshed.co.uk",
+  "address": "Dungannon, NIR, GB",
+  "website": "https://www.agharanmotorshed.co.uk/",
+  "facebook": "https://www.facebook.com/Agharan-Motor-Shed-105792431530708",
+  "logoPath": "https://www.agharanmotorshed.co.uk/wp-content/uploads/2021/05/site_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dungannon,%20NIR,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:00442887746363",
+  "companyName": "Agharan Motor Shed",
+  "faviconPath": "https://www.agharanmotorshed.co.uk/wp-content/uploads/2021/11/favicon-100x100.png",
+  "phoneDisplay": "00442887746363",
+  "whatsappLink": "https://wa.me/00442887746363",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
