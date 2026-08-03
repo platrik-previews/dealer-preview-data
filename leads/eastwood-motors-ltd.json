@@ -1,0 +1,17 @@
+{
+  "email": "sales@eastwoodmotors.com",
+  "address": "197 Moira Road, Lisburn, County Antrim, BT28 2SN, United Kingdom",
+  "website": "https://dealerships.subaru.co.uk/desmond-eastwood-motors-ltd",
+  "facebook": "https://www.facebook.com/OfficialSubaruUK",
+  "logoPath": "https://dealerships.subaru.co.uk/images/logo-subaru-modal.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=197%20Moira%20Road,%20Lisburn,%20County%20Antrim,%20BT28%202SN,%20United%20Kingdom",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/subaruuk",
+  "phoneLink": "tel:02892621293",
+  "companyName": "Eastwood Motors Ltd",
+  "faviconPath": "https://dealerships.subaru.co.uk/images/icon/apple-touch-icon.png",
+  "phoneDisplay": "02892621293",
+  "whatsappLink": "https://wa.me/02892621293",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
