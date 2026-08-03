@@ -1,0 +1,10 @@
+{
+  "address": "Belfast, NIR, GB",
+  "website": "http://www.delorean.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Belfast,%20NIR,%20GB",
+  "renderer": "dealership",
+  "companyName": "Delorean Motor Company",
+  "faviconPath": "http://www.delorean.com/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
