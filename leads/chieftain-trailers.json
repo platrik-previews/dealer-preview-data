@@ -1,0 +1,14 @@
+{
+  "email": "sales@chieftaintrailers.com",
+  "address": "203 Coalisland Road",
+  "website": "http://www.chieftaintrailers.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=203%20Coalisland%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442887747531",
+  "companyName": "Chieftain Trailers",
+  "faviconPath": "http://www.chieftaintrailers.com/favicon.ico",
+  "phoneDisplay": "+442887747531",
+  "whatsappLink": "https://wa.me/442887747531",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
