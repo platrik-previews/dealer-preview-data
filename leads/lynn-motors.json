@@ -1,0 +1,15 @@
+{
+  "email": "don@lynnmotors.ie",
+  "address": "NEWRY ROAD, DUNDALK, CO. LOUTH, A91 YF75, ie",
+  "website": "https://www.lynnmotors.ie/",
+  "logoPath": "https://www.lynnmotors.ie/assets/peugeot/favicon.ico",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=NEWRY%20ROAD,%20DUNDALK,%20CO.%20LOUTH,%20A91%20YF75,%20ie",
+  "renderer": "dealership",
+  "phoneLink": "tel:353429326250",
+  "companyName": "Lynn Motors",
+  "faviconPath": "https://www.lynnmotors.ie/assets/peugeot/apple-touch-icon.png",
+  "phoneDisplay": "353 429326250",
+  "whatsappLink": "https://wa.me/353429326250",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
