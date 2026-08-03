@@ -1,0 +1,16 @@
+{
+  "email": "sales@slstrailers.com",
+  "address": "29a Shanless Road",
+  "website": "https://slstrailers.com/",
+  "facebook": "https://www.facebook.com/slstrailers",
+  "logoPath": "https://slstrailers.com/wp-content/uploads/2021/03/SLS-Web_Logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=29a%20Shanless%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447565294549",
+  "companyName": "SLS Trailers",
+  "faviconPath": "https://slstrailers.com/wp-content/uploads/2021/04/cropped-SLS-Favicon2-32x32.png",
+  "phoneDisplay": "+447565294549",
+  "whatsappLink": "https://wa.me/447565294549",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
