@@ -1,0 +1,16 @@
+{
+  "address": "Unit 20 Granville Industrial Estate, 90 Granville Road",
+  "website": "https://www.bmitrailers.com/",
+  "facebook": "https://www.facebook.com/thebmigroup",
+  "logoPath": "https://www.bmitrailers.com/images/bmi-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2020%20Granville%20Industrial%20Estate,%2090%20Granville%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/bmi_trailers/",
+  "phoneLink": "tel:+442887753999",
+  "companyName": "B M I Trailers Ltd.",
+  "faviconPath": "https://www.bmitrailers.com/images/favicon-32x32.png",
+  "phoneDisplay": "+442887753999",
+  "whatsappLink": "https://wa.me/442887753999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
