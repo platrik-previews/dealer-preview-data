@@ -1,0 +1,16 @@
+{
+  "email": "sales@fleet4u.com",
+  "address": "Shelbourne Motors, 135 Armagh Road, Newry, Co. Armagh, BT35 6PU, GB",
+  "website": "https://www.fleet4u.com/",
+  "facebook": "https://www.facebook.com/fleet4u",
+  "logoPath": "https://www.fleet4u.com/gfx/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shelbourne%20Motors,%20135%20Armagh%20Road,%20Newry,%20Co.%20Armagh,%20BT35%206PU,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838396869",
+  "companyName": "Fleet4U",
+  "faviconPath": "https://www.fleet4u.com/favicon.png",
+  "phoneDisplay": "02838396869",
+  "whatsappLink": "https://wa.me/02838396869",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
