@@ -1,0 +1,16 @@
+{
+  "email": "matthew@ballylisk.co.uk",
+  "address": "{{line}} ,",
+  "website": "https://www.ballylisk.co.uk/",
+  "facebook": "https://www.facebook.com/ballylisk",
+  "logoPath": "https://bluesky.sirv.com/Websites/Ballylisk/Logos/mitsubishi-header-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query={{line}}%20,",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838840268",
+  "companyName": "Ballylisk Car Sales",
+  "faviconPath": "https://www.ballylisk.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "+442838840268",
+  "whatsappLink": "https://wa.me/442838840268",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
