@@ -1,0 +1,15 @@
+{
+  "email": "meehan620@aol.com",
+  "address": "Armagh road",
+  "website": "https://www.meehanmotors.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/148/967/993/156439749929e0e1cb45.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Armagh%20road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447894336789",
+  "companyName": "Meehan motors ltd",
+  "faviconPath": "https://www.meehanmotors.com/favicon.ico",
+  "phoneDisplay": "+447894336789",
+  "whatsappLink": "https://wa.me/447894336789",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
