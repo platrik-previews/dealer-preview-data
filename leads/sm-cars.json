@@ -1,0 +1,15 @@
+{
+  "email": "smcarsltd@gmail.com",
+  "address": "43a Forkhill Road",
+  "website": "https://www.smcarsltdni.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/211/267/866/15245660865062328e2f.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=43a%20Forkhill%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830257386",
+  "companyName": "SM Cars",
+  "faviconPath": "https://www.smcarsltdni.com/favicon.ico",
+  "phoneDisplay": "+442830257386",
+  "whatsappLink": "https://wa.me/442830257386",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
