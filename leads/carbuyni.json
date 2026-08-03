@@ -1,0 +1,14 @@
+{
+  "address": "40 Old Coach Road",
+  "website": "https://www.carbuyni.com/",
+  "logoPath": "https://www.carbuyni.com/ea-content/uploads//easyauction_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=40%20Old%20Coach%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07525898982",
+  "companyName": "CarBuyNI",
+  "faviconPath": "https://www.carbuyni.com/favicon.ico",
+  "phoneDisplay": "07525898982",
+  "whatsappLink": "https://wa.me/07525898982",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
