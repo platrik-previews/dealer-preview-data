@@ -1,0 +1,16 @@
+{
+  "address": "107 Ballyneill Rd",
+  "website": "https://mcnichollcaravans.com/",
+  "facebook": "https://www.facebook.com/caravansmcnichollltd",
+  "logoPath": "https://mcnichollcaravans.com/wp-content/uploads/2024/08/417704539_982408356579767_8655871994652218023_n.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=107%20Ballyneill%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mcnichollcaravans/",
+  "phoneLink": "tel:1234567890",
+  "companyName": "McNicholl Caravans",
+  "faviconPath": "https://mcnichollcaravans.com/wp-content/uploads/2024/09/cropped-McNicholl-Caravans-Website-Imagery-32x32.webp",
+  "phoneDisplay": "123-456-7890",
+  "whatsappLink": "https://wa.me/1234567890",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
