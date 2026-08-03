@@ -1,0 +1,16 @@
+{
+  "address": "547 Antrim Road",
+  "website": "https://www.renault.co.uk/",
+  "facebook": "https://www.facebook.com/renaultuk",
+  "logoPath": "https://www.renault.co.uk/renault/apple-icon-144x144.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=547%20Antrim%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/renaultuk/",
+  "phoneLink": "tel:+442890843816",
+  "companyName": "Charles Hurst Renault",
+  "faviconPath": "https://www.renault.co.uk/renault/apple-icon-57x57.png?ck=8",
+  "phoneDisplay": "+442890843816",
+  "whatsappLink": "https://wa.me/442890843816",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
