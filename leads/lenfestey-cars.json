@@ -1,0 +1,12 @@
+{
+  "email": "paullenfestey147@hotmail.co.uk",
+  "address": "2 Enterprise Crescent",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Enterprise%20Crescent",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442892671619",
+  "companyName": "Lenfestey Cars",
+  "phoneDisplay": "+442892671619",
+  "whatsappLink": "https://wa.me/442892671619",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
