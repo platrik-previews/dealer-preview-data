@@ -1,0 +1,15 @@
+{
+  "email": "sales@sraffertycarsales.com",
+  "address": "6 Upper Dromore Road",
+  "website": "https://www.sraffertycarsales.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/138/156/305/152594605561460d0731.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=6%20Upper%20Dromore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447425589542",
+  "companyName": "S Rafferty",
+  "faviconPath": "https://www.sraffertycarsales.com/favicon.ico",
+  "phoneDisplay": "+447425589542",
+  "whatsappLink": "https://wa.me/447425589542",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
