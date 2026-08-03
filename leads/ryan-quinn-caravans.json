@@ -1,0 +1,12 @@
+{
+  "email": "sales@ryanquinncaravans.com",
+  "address": "197 Dublin Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=197%20Dublin%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447563152306",
+  "companyName": "Ryan Quinn Caravans",
+  "phoneDisplay": "+447563152306",
+  "whatsappLink": "https://wa.me/447563152306",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
