@@ -1,0 +1,16 @@
+{
+  "address": "7-13 Boucher Rd, Belfast, BT12 6HR",
+  "website": "https://www.seremotors.com/",
+  "facebook": "https://www.facebook.com/SereMotorsNI/?ref=ts",
+  "logoPath": "https://www.seremotors.com/img/header/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7-13%20Boucher%20Rd,%20Belfast,%20BT12%206HR",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/seremotorsni/",
+  "phoneLink": "tel:02890205100",
+  "companyName": "SERE Motors Belfast",
+  "faviconPath": "https://bluesky.sirv.com/Websites/seremotors_com/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "028 9020 5100",
+  "whatsappLink": "https://wa.me/02890205100",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
