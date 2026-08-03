@@ -1,0 +1,11 @@
+{
+  "address": "Belfast, NIR, GB",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Belfast,%20NIR,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447715885681",
+  "companyName": "Used Car sales",
+  "phoneDisplay": "+447715885681",
+  "whatsappLink": "https://wa.me/447715885681",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
