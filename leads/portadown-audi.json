@@ -1,0 +1,14 @@
+{
+  "email": "info.aup@agnews.co.uk",
+  "address": "7 Carn Court Road",
+  "website": "https://www.agnewcars.com/audi/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Carn%20Court%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838633521",
+  "companyName": "Portadown Audi",
+  "faviconPath": "https://www.agnewcars.com/favicon.ico",
+  "phoneDisplay": "+442838633521",
+  "whatsappLink": "https://wa.me/442838633521",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
