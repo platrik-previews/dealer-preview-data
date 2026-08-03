@@ -1,0 +1,13 @@
+{
+  "address": "Auto House 39-43 Church St",
+  "website": "http://www.rjtinsley.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Auto%20House%2039-43%20Church%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:02892692404",
+  "companyName": "R J Tinsley",
+  "faviconPath": "http://www.rjtinsley.com/favicon.ico",
+  "phoneDisplay": "028 9269 2404",
+  "whatsappLink": "https://wa.me/02892692404",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
