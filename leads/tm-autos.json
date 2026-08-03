@@ -1,0 +1,16 @@
+{
+  "email": "tom@tmautosni.com",
+  "address": "Banbridge, NIR, GB",
+  "website": "https://tmautosni.com/",
+  "facebook": "https://www.facebook.com/profile.php?id=61557461825386&locale=en_GB",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Banbridge,%20NIR,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/tm_autos_ni/?hl=en-gb",
+  "phoneLink": "tel:+447729641670",
+  "companyName": "TM Autos",
+  "faviconPath": "https://tmautosni.com/favicon.ico",
+  "phoneDisplay": "+447729641670",
+  "whatsappLink": "https://wa.me/447729641670",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
