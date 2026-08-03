@@ -1,0 +1,15 @@
+{
+  "email": "info.lurgan@roadsidemotors.com",
+  "address": "Roadside Motors",
+  "website": "https://roadsidemotors.com/",
+  "logoPath": "https://roadsidemotors.com/sites/roadside.com/files/styles/100x100_whitespace/public/Citroen-2D-logo-2016_0.png?itok=Br7G-rGD",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Roadside%20Motors",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838323232",
+  "companyName": "Roadside Motors",
+  "faviconPath": "https://roadsidemotors.com/favicon.ico",
+  "phoneDisplay": "028 3832 3232",
+  "whatsappLink": "https://wa.me/02838323232",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
