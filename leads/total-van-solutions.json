@@ -1,0 +1,15 @@
+{
+  "email": "info@totalvansolutions.co.uk",
+  "address": "2 Mallusk Road",
+  "website": "https://totalvansolutions.co.uk/",
+  "logoPath": "https://totalvansolutions.co.uk/admin/resources/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Mallusk%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890832300",
+  "companyName": "Total Van Solutions",
+  "faviconPath": "https://totalvansolutions.co.uk/favicon.ico",
+  "phoneDisplay": "+442890832300",
+  "whatsappLink": "https://wa.me/442890832300",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
