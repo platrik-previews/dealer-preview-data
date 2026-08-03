@@ -1,0 +1,14 @@
+{
+  "address": "Hillhall Road",
+  "website": "https://www.mcguigganmotors.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/264/915/335/1583837698b83c5f0b76.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hillhall%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447849662763",
+  "companyName": "McGuiggan Motors",
+  "faviconPath": "https://www.mcguigganmotors.com/favicon.ico",
+  "phoneDisplay": "+447849662763",
+  "whatsappLink": "https://wa.me/447849662763",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
