@@ -1,0 +1,16 @@
+{
+  "email": "frazermotorsales@gmail.com",
+  "address": "15 Loughbrickland Rd, Newry, BT34 5AA, United Kingdom",
+  "website": "https://www.frazermotorsales.com/",
+  "facebook": "https://www.facebook.com/FrazerMotorSales/",
+  "logoPath": "https://www.frazermotorsales.com/build/assets/img/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Loughbrickland%20Rd,%20Newry,%20BT34%205AA,%20United%20Kingdom",
+  "renderer": "dealership",
+  "phoneLink": "tel:02840631496",
+  "companyName": "Frazer Motor Sales",
+  "faviconPath": "https://www.frazermotorsales.com/build/assets/img/favicon.png",
+  "phoneDisplay": "02840631496",
+  "whatsappLink": "https://wa.me/02840631496",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
