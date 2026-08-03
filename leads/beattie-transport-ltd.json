@@ -1,0 +1,11 @@
+{
+  "address": "13A Cross Lane",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=13A%20Cross%20Lane",
+  "renderer": "dealership",
+  "phoneLink": "tel:02892621487",
+  "companyName": "Beattie Transport Ltd.",
+  "phoneDisplay": "02892621487",
+  "whatsappLink": "https://wa.me/02892621487",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
