@@ -1,0 +1,16 @@
+{
+  "email": "sales@northerntruckandtrailer.com",
+  "address": "99 Ballyards Road",
+  "website": "https://northerntruckandtrailer.com/",
+  "facebook": "https://facebook.com/Northern-truck-and-trailer-ltd-278571369479767",
+  "logoPath": "https://northerntruckandtrailer.com/wp-content/uploads/2019/05/box-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=99%20Ballyards%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02837511335",
+  "companyName": "Northern Truck and Trailer",
+  "faviconPath": "https://northerntruckandtrailer.com/favicon.ico",
+  "phoneDisplay": "028 37 511335",
+  "whatsappLink": "https://wa.me/02837511335",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
