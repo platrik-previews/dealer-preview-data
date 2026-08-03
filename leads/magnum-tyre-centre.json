@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+35314551131",
+  "companyName": "Magnum Tyre Centre",
+  "phoneDisplay": "+353 1 4551131",
+  "whatsappLink": "https://wa.me/35314551131",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
