@@ -1,0 +1,16 @@
+{
+  "email": "atvwizard-quadsalesni@outlook.com",
+  "address": "12 Killysorrell Road",
+  "website": "https://www.quadsalesni.com/",
+  "facebook": "https://www.facebook.com/ATVWizard/",
+  "logoPath": "https://www.quadsalesni.com/wp-content/uploads/ATV-Wizard-Quad-Sales-NI-Logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%20Killysorrell%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02892789275",
+  "companyName": "Quad Sales NI",
+  "faviconPath": "https://www.quadsalesni.com/wp-content/uploads/cropped-ATV-Wizard-Quad-Sales-NI-Logo-Favicon-32x32.png",
+  "phoneDisplay": "02892789275",
+  "whatsappLink": "https://wa.me/02892789275",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
