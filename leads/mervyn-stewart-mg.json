@@ -1,0 +1,16 @@
+{
+  "address": "11 Boucher Crescent, Belfast, BT12 6HU",
+  "website": "http://www.mervynstewart.com/",
+  "facebook": "https://www.facebook.com/mervynstewartcars",
+  "logoPath": "http://www.mervynstewart.com/images/mervyn-logo-svg.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11%20Boucher%20Crescent,%20Belfast,%20BT12%206HU",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mervynstewartcars/",
+  "phoneLink": "tel:02890682255",
+  "companyName": "Mervyn Stewart MG",
+  "faviconPath": "http://www.mervynstewart.com/favicon/apple-touch-icon.png",
+  "phoneDisplay": "028 9068 2255",
+  "whatsappLink": "https://wa.me/02890682255",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
