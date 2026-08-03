@@ -1,0 +1,12 @@
+{
+  "email": "normanmcalistercars@mail.com",
+  "address": "13a Aghalee Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=13a%20Aghalee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442892652587",
+  "companyName": "Norman McAlister Cars",
+  "phoneDisplay": "+442892652587",
+  "whatsappLink": "https://wa.me/442892652587",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
