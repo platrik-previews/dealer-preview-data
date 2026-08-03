@@ -1,0 +1,11 @@
+{
+  "address": "27 Salisbury Avenue",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=27%20Salisbury%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447711204855",
+  "companyName": "Brian Austin Cars",
+  "phoneDisplay": "+447711204855",
+  "whatsappLink": "https://wa.me/447711204855",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
