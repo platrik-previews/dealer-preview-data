@@ -1,0 +1,17 @@
+{
+  "email": "sales@cormacleonard.com",
+  "address": "8 Loughgall Road",
+  "website": "https://www.cormacleonard.com/",
+  "facebook": "https://www.facebook.com/cormacleonardcommercials",
+  "logoPath": "https://www.cormacleonard.com/images/home/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=8%20Loughgall%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/cormacleonard_commercial",
+  "phoneLink": "tel:02837524731",
+  "companyName": "Cormac Leonard Commercials",
+  "faviconPath": "https://www.cormacleonard.com/apple-touch-icon.png",
+  "phoneDisplay": "02837524731",
+  "whatsappLink": "https://wa.me/02837524731",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
