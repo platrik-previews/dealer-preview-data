@@ -1,0 +1,13 @@
+{
+  "address": "19a Drumconvis Road",
+  "website": "http://fergusonmotors.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=19a%20Drumconvis%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442886737390",
+  "companyName": "Ferguson Motors",
+  "faviconPath": "http://fergusonmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442886737390",
+  "whatsappLink": "https://wa.me/442886737390",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
