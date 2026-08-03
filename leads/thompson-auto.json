@@ -1,0 +1,15 @@
+{
+  "email": "thompsonauto777@gmail.com",
+  "address": "40 Old Coach Road",
+  "website": "https://www.thompsonauto.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/289/414/545/1755611655da532a2c8d.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=40%20Old%20Coach%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447525898980",
+  "companyName": "Thompson Auto",
+  "faviconPath": "https://www.thompsonauto.co.uk/favicon.ico",
+  "phoneDisplay": "+447525898980",
+  "whatsappLink": "https://wa.me/447525898980",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
