@@ -1,0 +1,11 @@
+{
+  "address": "5 Upper Darkley Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Upper%20Darkley%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447849155533",
+  "companyName": "Haughey Motors",
+  "phoneDisplay": "+447849155533",
+  "whatsappLink": "https://wa.me/447849155533",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
