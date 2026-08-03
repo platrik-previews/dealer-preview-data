@@ -1,0 +1,17 @@
+{
+  "email": "info@evomotorworks.com",
+  "address": "25 Annaloist Road",
+  "website": "https://www.evomotorworks.com/",
+  "facebook": "https://www.facebook.com/EvolutionMW/",
+  "logoPath": "https://evomotorworks.com/image/catalog/Logos/Evo-Pinstripe-website.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=25%20Annaloist%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/evolutionmotorworks",
+  "phoneLink": "tel:+442838327402",
+  "companyName": "Evolution Motor Works",
+  "faviconPath": "https://evomotorworks.com/image/catalog/cart.png",
+  "phoneDisplay": "+442838327402",
+  "whatsappLink": "https://wa.me/442838327402",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
