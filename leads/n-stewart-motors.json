@@ -1,0 +1,15 @@
+{
+  "email": "nigel.stewart30@gmail.com",
+  "address": "100 Plantation Road",
+  "website": "https://www.nigelstewartmotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/089/539/973/1544627185e070438600.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=100%20Plantation%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838831788",
+  "companyName": "N Stewart Motors",
+  "faviconPath": "https://www.nigelstewartmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442838831788",
+  "whatsappLink": "https://wa.me/442838831788",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
