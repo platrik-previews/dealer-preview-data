@@ -1,0 +1,16 @@
+{
+  "address": "Commercial Way",
+  "website": "https://www.diamondtrucks.co.uk/",
+  "facebook": "https://www.facebook.com/DiamondTrucks",
+  "logoPath": "https://static.wixstatic.com/media/23b945_a89c1e335ae44cd89183cb0592b6d1f2~mv2.png/v1/fill/w_176,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23b945_a89c1e335ae44cd89183cb0592b6d1f2~mv2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Commercial%20Way",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/diamond.trucks/",
+  "phoneLink": "tel:+441925972710",
+  "companyName": "Diamond Trucks",
+  "faviconPath": "https://static.wixstatic.com/media/23b945_29d87da00e3d42799250b2a38d2adfdf%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/23b945_29d87da00e3d42799250b2a38d2adfdf%7Emv2.png",
+  "phoneDisplay": "+441925972710",
+  "whatsappLink": "https://wa.me/441925972710",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
