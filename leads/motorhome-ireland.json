@@ -1,0 +1,13 @@
+{
+  "address": "17 Valley Rd",
+  "website": "http://www.motorhome.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=17%20Valley%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02897519519",
+  "companyName": "Motorhome Ireland",
+  "faviconPath": "http://www.motorhome.co.uk/favicon.ico",
+  "phoneDisplay": "028 9751 9519",
+  "whatsappLink": "https://wa.me/02897519519",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
