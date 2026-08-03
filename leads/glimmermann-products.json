@@ -1,0 +1,17 @@
+{
+  "email": "orders@glimmermannproducts.co.uk",
+  "address": "7 Lissue Road",
+  "website": "https://www.glimmermannproducts.co.uk/",
+  "facebook": "https://www.facebook.com/GlimmermannProducts/",
+  "logoPath": "https://www.glimmermannproducts.co.uk/wp-content/uploads/2021/09/logo-1-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Lissue%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/glimmermannuk/",
+  "phoneLink": "tel:+442892611839",
+  "companyName": "Glimmermann Products",
+  "faviconPath": "https://www.glimmermannproducts.co.uk/wp-content/uploads/2021/09/cropped-glimmerman-favicon-32x32.png",
+  "phoneDisplay": "+442892611839",
+  "whatsappLink": "https://wa.me/442892611839",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
