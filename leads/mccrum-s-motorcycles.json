@@ -1,0 +1,17 @@
+{
+  "email": "wes@mccrums.co.uk",
+  "address": "McCrums Motorcycles 34 Steps Road, Magheralin, County Armagh BT670QZ",
+  "website": "http://www.mccrums.co.uk/",
+  "facebook": "https://www.facebook.com/MccrumsMotorcycles",
+  "logoPath": "http://www.mccrums.co.uk/images/logos/vogeblack.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=McCrums%20Motorcycles%2034%20Steps%20Road,%20Magheralin,%20County%20Armagh%20BT670QZ",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/motorcyclesmccrums/?hl=en",
+  "phoneLink": "tel:02838868004",
+  "companyName": "Mccrum's Motorcycles",
+  "faviconPath": "http://www.mccrums.co.uk/images/favicons/apple-touch-icon.png",
+  "phoneDisplay": "02838868004",
+  "whatsappLink": "https://wa.me/02838868004",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
