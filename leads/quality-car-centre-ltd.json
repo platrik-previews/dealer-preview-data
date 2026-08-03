@@ -1,0 +1,11 @@
+{
+  "address": "1C Station Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1C%20Station%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02892613470",
+  "companyName": "Quality Car Centre Ltd.",
+  "phoneDisplay": "02892613470",
+  "whatsappLink": "https://wa.me/02892613470",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
