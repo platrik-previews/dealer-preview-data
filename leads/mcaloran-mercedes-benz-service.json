@@ -1,0 +1,12 @@
+{
+  "email": "chrismcaloran@gmail.com",
+  "address": "5 Drumnevan Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Drumnevan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838331362",
+  "companyName": "McAloran Mercedes-Benz Service",
+  "phoneDisplay": "+442838331362",
+  "whatsappLink": "https://wa.me/442838331362",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
