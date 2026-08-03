@@ -1,0 +1,15 @@
+{
+  "email": "alloyclinic@prenticegroup.co.uk",
+  "address": "Seagoe Industrial Area, Portadown",
+  "website": "https://www.prenticealloyclinic.co.uk/",
+  "logoPath": "https://www.prenticealloyclinic.co.uk/wp-content/uploads/2018/07/prenticealloycliniclogo2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Seagoe%20Industrial%20Area,%20Portadown",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838333000",
+  "companyName": "Prentice Alloy Clinic",
+  "faviconPath": "https://www.prenticealloyclinic.co.uk/wp-content/uploads/2018/07/favicon.png",
+  "phoneDisplay": "028 3833 3000",
+  "whatsappLink": "https://wa.me/02838333000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
