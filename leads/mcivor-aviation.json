@@ -1,0 +1,16 @@
+{
+  "email": "info@mcivoraviation.com",
+  "address": "101 Mullaghmore Road",
+  "website": "https://mcivoraviation.com/",
+  "facebook": "https://www.facebook.com/mcivoraviation",
+  "logoPath": "https://mcivoraviation.com//wp-content/uploads/2024/11/PNG_1-247w.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=101%20Mullaghmore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:00447774112007",
+  "companyName": "McIvor Aviation",
+  "faviconPath": "https://mcivoraviation.com/wp-content/uploads/2025/06/favicon-150x150.png",
+  "phoneDisplay": "00447774112007",
+  "whatsappLink": "https://wa.me/00447774112007",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
