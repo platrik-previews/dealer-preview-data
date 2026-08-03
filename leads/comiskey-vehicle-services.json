@@ -1,0 +1,11 @@
+{
+  "address": "2 Tievenamara Road, Keady",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Tievenamara%20Road,%20Keady",
+  "renderer": "dealership",
+  "phoneLink": "tel:02837538277",
+  "companyName": "Comiskey Vehicle Services",
+  "phoneDisplay": "02837538277",
+  "whatsappLink": "https://wa.me/02837538277",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
