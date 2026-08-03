@@ -1,0 +1,14 @@
+{
+  "email": "info@mcelvaney.com",
+  "address": "7 North Road",
+  "website": "http://www.mcelvaneymotors.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20North%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+3534781596",
+  "companyName": "McElvaney Motors Ltd",
+  "faviconPath": "http://www.mcelvaneymotors.com/favicon.ico",
+  "phoneDisplay": "+3534781596",
+  "whatsappLink": "https://wa.me/3534781596",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
