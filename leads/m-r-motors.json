@@ -1,0 +1,11 @@
+{
+  "address": "Killymoon",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Killymoon",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447563410880",
+  "companyName": "M.R Motors",
+  "phoneDisplay": "+447563410880",
+  "whatsappLink": "https://wa.me/447563410880",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
