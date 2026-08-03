@@ -1,0 +1,9 @@
+{
+  "email": "newlinecarsales@hotmail.com",
+  "address": "24 New Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=24%20New%20Road",
+  "renderer": "dealership",
+  "companyName": "Newline Car Sales",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
