@@ -1,0 +1,16 @@
+{
+  "email": "info@kearnsmurtagh.com",
+  "address": "3a Derryboy Road",
+  "website": "http://www.kearnsmurtagh.com/",
+  "facebook": "https://www.facebook.com/Kearns-and-Murtagh-commercials-ltd-348524069201729/",
+  "logoPath": "http://www.kearnsmurtagh.com/wp-content/uploads/2021/04/kearns_murtagh.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=3a%20Derryboy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830265720",
+  "companyName": "Kearns & Murtagh",
+  "faviconPath": "http://www.kearnsmurtagh.com/favicon.ico",
+  "phoneDisplay": "+442830265720",
+  "whatsappLink": "https://wa.me/442830265720",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
