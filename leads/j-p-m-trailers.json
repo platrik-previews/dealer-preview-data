@@ -1,0 +1,13 @@
+{
+  "address": "60B Killyharry Road",
+  "website": "http://www.jpmtrailers.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=60B%20Killyharry%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02887767337",
+  "companyName": "J P M Trailers",
+  "faviconPath": "http://www.jpmtrailers.com/favicon.ico",
+  "phoneDisplay": "02887767337",
+  "whatsappLink": "https://wa.me/02887767337",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
