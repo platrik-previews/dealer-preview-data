@@ -1,0 +1,17 @@
+{
+  "email": "sales@dalysgarage.co.uk",
+  "address": "249-255 Falls Road, Belfast, BT12 6FB",
+  "website": "https://retailer.hyundai.co.uk/dalys-belfast",
+  "facebook": "https://www.facebook.com/dalysgarage/",
+  "logoPath": "https://webmaster1.blob.core.windows.net/live/hyundai/logo/hyundai_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=249-255%20Falls%20Road,%20Belfast,%20BT12%206FB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/dalyshyundai/",
+  "phoneLink": "tel:+442890326037",
+  "companyName": "Daly's Hyundai",
+  "faviconPath": "https://webmaster1.blob.core.windows.net/live/hyundai/favicon/favicon-32x32.png",
+  "phoneDisplay": "+442890326037",
+  "whatsappLink": "https://wa.me/442890326037",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
