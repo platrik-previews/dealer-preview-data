@@ -1,0 +1,11 @@
+{
+  "address": "18 Derrylard Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Derrylard%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07970808129",
+  "companyName": "Ireland Cars",
+  "phoneDisplay": "07970808129",
+  "whatsappLink": "https://wa.me/07970808129",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
