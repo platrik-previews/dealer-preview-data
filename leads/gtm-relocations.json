@@ -1,0 +1,13 @@
+{
+  "address": "City Business Park",
+  "website": "https://gtmrelocations.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=City%20Business%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890611888",
+  "companyName": "Gtm Relocations",
+  "faviconPath": "https://gtmrelocations.co.uk/favicon.ico",
+  "phoneDisplay": "02890611888",
+  "whatsappLink": "https://wa.me/02890611888",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
