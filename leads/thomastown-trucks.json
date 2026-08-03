@@ -1,0 +1,17 @@
+{
+  "email": "info@thomastowntrucks.com",
+  "address": "Unit 9 Centrepoint Business Park Carrickcarnon Dundalk Co Louth",
+  "website": "https://www.thomastowntrucks.com/",
+  "facebook": "https://www.facebook.com/ThomastownTrucks",
+  "logoPath": "https://www.thomastowntrucks.com/images/home/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%209%20Centrepoint%20Business%20Park%20Carrickcarnon%20Dundalk%20Co%20Louth",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/thomastowntrucks/",
+  "phoneLink": "tel:+353429380605",
+  "companyName": "Thomastown Trucks",
+  "faviconPath": "https://www.thomastowntrucks.com/favicon.ico",
+  "phoneDisplay": "+353429380605",
+  "whatsappLink": "https://wa.me/353429380605",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
