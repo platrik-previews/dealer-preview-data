@@ -1,0 +1,16 @@
+{
+  "email": "info@grancotrucks.com",
+  "address": "60 Tandragee Road",
+  "website": "https://www.grancotrucks.com/",
+  "facebook": "https://www.facebook.com/GrancoLtd",
+  "logoPath": "https://www.grancotrucks.com/wp-content/uploads/Granco-trucks-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=60%20Tandragee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02830821115",
+  "companyName": "Granco Ltd",
+  "faviconPath": "https://www.grancotrucks.com/wp-content/uploads/cropped-Granco-trucks-favicon-32x32.png",
+  "phoneDisplay": "02830821115",
+  "whatsappLink": "https://wa.me/02830821115",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
