@@ -1,0 +1,16 @@
+{
+  "address": "Motis House 9 Downshire Place",
+  "website": "https://www.motis.com/",
+  "facebook": "https://www.facebook.com/motisireland/",
+  "logoPath": "https://www.motis.com/images/general/logo-mobile-new.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Motis%20House%209%20Downshire%20Place",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/motisireland/",
+  "phoneLink": "tel:02830252500",
+  "companyName": "Motis Ireland Ltd.",
+  "faviconPath": "https://www.motis.com/favicon.ico",
+  "phoneDisplay": "02830252500",
+  "whatsappLink": "https://wa.me/02830252500",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
