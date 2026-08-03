@@ -1,0 +1,16 @@
+{
+  "email": "sales@kelsocarsales.co.uk",
+  "address": "135 Dungannon Road",
+  "website": "https://www.kelsocarsales.co.uk/",
+  "facebook": "https://www.facebook.com/kelso.carsales",
+  "logoPath": "https://s3-eu-west-1.amazonaws.com/carlover/vehicle_images/3f8df4e7-4590-49f8-ac19-625f08510b1b/sm-41b8518178bf56e99a42.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=135%20Dungannon%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02886767711",
+  "companyName": "Kelso Car Sales",
+  "faviconPath": "https://www.kelsocarsales.co.uk/assets/img/favicon.png",
+  "phoneDisplay": "028 8676 7711",
+  "whatsappLink": "https://wa.me/02886767711",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
