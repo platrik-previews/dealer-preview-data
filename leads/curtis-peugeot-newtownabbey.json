@@ -1,0 +1,16 @@
+{
+  "address": "310 Ballyclare Road",
+  "website": "http://www.curtiscars.co.uk/",
+  "facebook": "https://www.facebook.com/curtiscarscoleraine/",
+  "logoPath": "https://www.curtiscars.co.uk/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=310%20Ballyclare%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/curtiscarscoleraine/?hl=en",
+  "phoneLink": "tel:02825665555",
+  "companyName": "Curtis Peugeot Newtownabbey",
+  "faviconPath": "http://www.curtiscars.co.uk/images/favicons/favicon-96x96.png",
+  "phoneDisplay": "02825665555",
+  "whatsappLink": "https://wa.me/02825665555",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
