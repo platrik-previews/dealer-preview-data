@@ -1,0 +1,14 @@
+{
+  "email": "reception@burkes-ltd.co.uk",
+  "address": "151 Markethill Road",
+  "website": "http://www.burkesni.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=151%20Markethill%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838840225",
+  "companyName": "Burkes of Cornascriebe",
+  "faviconPath": "http://www.burkesni.co.uk/favicon.ico",
+  "phoneDisplay": "+442838840225",
+  "whatsappLink": "https://wa.me/442838840225",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
