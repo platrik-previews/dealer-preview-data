@@ -1,0 +1,14 @@
+{
+  "address": "77 Killycolpy Road",
+  "website": "https://www.quinnmotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/039/949/515/175084634416770068e7.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=77%20Killycolpy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442887738659",
+  "companyName": "Quinn Motors",
+  "faviconPath": "https://www.quinnmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442887738659",
+  "whatsappLink": "https://wa.me/442887738659",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
