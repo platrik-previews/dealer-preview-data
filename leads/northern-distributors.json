@@ -1,0 +1,14 @@
+{
+  "address": "124 New Forge Rd",
+  "website": "http://www.northerndistributors.co.uk/",
+  "logoPath": "http://www.northerndistributors.co.uk/wp-content/uploads/2014/06/logo-retina.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=124%20New%20Forge%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838882146",
+  "companyName": "Northern Distributors",
+  "faviconPath": "http://www.northerndistributors.co.uk/favicon.ico",
+  "phoneDisplay": "028 3888 2146",
+  "whatsappLink": "https://wa.me/02838882146",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
