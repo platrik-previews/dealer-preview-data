@@ -1,0 +1,16 @@
+{
+  "email": "office@bridgecommercials.co.uk",
+  "address": "165 Dromore Road",
+  "website": "https://bridgecommercials.co.uk/",
+  "facebook": "https://www.facebook.com/bridgecommercials/",
+  "logoPath": "https://bridgecommercials.co.uk/wp-content/themes/websiteni-stripped/images/bridge-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=165%20Dromore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02892689000",
+  "companyName": "Bridge Commercials Ltd",
+  "faviconPath": "https://bridgecommercials.co.uk/favicon.ico",
+  "phoneDisplay": "02892689000",
+  "whatsappLink": "https://wa.me/02892689000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
