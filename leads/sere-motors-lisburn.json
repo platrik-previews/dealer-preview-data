@@ -1,0 +1,16 @@
+{
+  "address": "Lissue Ind Estate, 3-4 Moira Road",
+  "website": "https://www.dacia.co.uk/",
+  "facebook": "https://www.facebook.com/DaciaUK",
+  "logoPath": "https://www.dacia.co.uk/dacia/apple-icon-144x144.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lissue%20Ind%20Estate,%203-4%20Moira%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/dacia_uk",
+  "phoneLink": "tel:03443351111",
+  "companyName": "SERE Motors Lisburn",
+  "faviconPath": "https://www.dacia.co.uk/dacia/apple-icon-57x57.png?ck=8",
+  "phoneDisplay": "03443351111",
+  "whatsappLink": "https://wa.me/03443351111",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
