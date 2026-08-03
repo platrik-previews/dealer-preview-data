@@ -1,0 +1,16 @@
+{
+  "email": "customer.information@bmw.co.uk",
+  "address": "2 Boucher Crescent",
+  "website": "https://www.bavarianbmw.co.uk/",
+  "logoPath": "https://images.ctfassets.net/jtte2c5pc8iq/417FfLE22FqFW9UgYD3K6s/181d9cfd0b65a45f4c22f800b9f1726b/Joe_Rogers_.jpg.png?w=97&h=97&fl=progressive",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Boucher%20Crescent",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/bavarianbmwbelfast/",
+  "phoneLink": "tel:02890097257",
+  "companyName": "Bavarian BMW",
+  "faviconPath": "https://www.bavarianbmw.co.uk/favicon.ico",
+  "phoneDisplay": "02890 097257",
+  "whatsappLink": "https://wa.me/02890097257",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
