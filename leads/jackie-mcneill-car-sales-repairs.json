@@ -1,0 +1,11 @@
+{
+  "address": "27 Eglish Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=27%20Eglish%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838851046",
+  "companyName": "Jackie McNeill Car Sales & Repairs",
+  "phoneDisplay": "02838851046",
+  "whatsappLink": "https://wa.me/02838851046",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
