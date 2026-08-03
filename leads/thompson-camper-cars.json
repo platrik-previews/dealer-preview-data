@@ -1,0 +1,17 @@
+{
+  "email": "info@thompsonleisure.com",
+  "address": "Thompson Leisure Ltd 21 Rowantree Road Dromore Co. Down BT25 1NN Northern Ireland",
+  "website": "http://www.thompsonleisure.com/",
+  "facebook": "https://www.facebook.com/THOMPSONLEISURE/",
+  "logoPath": "http://www.thompsonleisure.com/images/tll-logo-stroke-web.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Thompson%20Leisure%20Ltd%2021%20Rowantree%20Road%20Dromore%20Co.%20Down%20BT25%201NN%20Northern%20Ireland",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/thompsonleisure/",
+  "phoneLink": "tel:+442892693999",
+  "companyName": "Thompson Camper Cars",
+  "faviconPath": "http://www.thompsonleisure.com/favicon.ico",
+  "phoneDisplay": "+442892693999",
+  "whatsappLink": "https://wa.me/442892693999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
