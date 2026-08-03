@@ -1,0 +1,13 @@
+{
+  "address": "52 Armagh Rd",
+  "website": "http://www.gcautocarsales.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=52%20Armagh%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:07522826106",
+  "companyName": "GC Autos",
+  "faviconPath": "http://www.gcautocarsales.co.uk/favicon.ico",
+  "phoneDisplay": "07522 826106",
+  "whatsappLink": "https://wa.me/07522826106",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
