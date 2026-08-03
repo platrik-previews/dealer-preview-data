@@ -1,0 +1,14 @@
+{
+  "email": "info@lexusblackrock.ie",
+  "address": "75 Rock Road",
+  "website": "http://www.lexusblackrock.ie/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=75%20Rock%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+35312885220",
+  "companyName": "Lexus Blackrock",
+  "faviconPath": "http://www.lexusblackrock.ie/favicon.ico",
+  "phoneDisplay": "+35312885220",
+  "whatsappLink": "https://wa.me/35312885220",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
