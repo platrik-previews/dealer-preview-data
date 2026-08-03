@@ -1,0 +1,9 @@
+{
+  "renderer": "dealership",
+  "phoneLink": "tel:+35314538555",
+  "companyName": "Mr. Windscreen",
+  "phoneDisplay": "+35314538555",
+  "whatsappLink": "https://wa.me/35314538555",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
