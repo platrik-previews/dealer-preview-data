@@ -1,0 +1,14 @@
+{
+  "address": "18 Boucher Way",
+  "website": "http://www.agnewcorporate.com/",
+  "logoPath": "http://www.agnewcorporate.com/assets/fasthosts-logo-secondary.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Boucher%20Way",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890386600",
+  "companyName": "Agnew Corporate",
+  "faviconPath": "https://static.fasthosts.co.uk/icons/favicon.ico",
+  "phoneDisplay": "028 9038 6600",
+  "whatsappLink": "https://wa.me/02890386600",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
