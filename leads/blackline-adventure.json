@@ -1,0 +1,15 @@
+{
+  "email": "sales@blacklineadventure.co.uk",
+  "address": "Unit 3, Trummery Industrial Park, Meadow Rd",
+  "website": "https://blacklineadventure.co.uk/",
+  "logoPath": "https://blacklineadventure.co.uk/wp-content/uploads/2022/02/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%203,%20Trummery%20Industrial%20Park,%20Meadow%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442892528202",
+  "companyName": "Blackline Adventure",
+  "faviconPath": "https://blacklineadventure.co.uk/wp-content/uploads/2022/02/cropped-Frame-1-32x32.png",
+  "phoneDisplay": "+442892528202",
+  "whatsappLink": "https://wa.me/442892528202",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
