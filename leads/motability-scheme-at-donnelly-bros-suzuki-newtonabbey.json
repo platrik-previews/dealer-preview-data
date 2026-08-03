@@ -1,0 +1,16 @@
+{
+  "address": "Mallusk Way",
+  "website": "https://www.motability.co.uk/find-a-dealer",
+  "facebook": "https://www.facebook.com/motability/",
+  "logoPath": "https://images.ctfassets.net/eius13aoebbj/5707BXsqYfcifSxOMY9Noe/b4c57d1bfa79a38557ae9897d2f3533d/motability-logo",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Mallusk%20Way",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/motabilityscheme/",
+  "phoneLink": "tel:03004564566",
+  "companyName": "Motability Scheme at Donnelly Bros Suzuki Newtonabbey",
+  "faviconPath": "https://www.motability.co.uk/favicon.png",
+  "phoneDisplay": "03004564566",
+  "whatsappLink": "https://wa.me/03004564566",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
