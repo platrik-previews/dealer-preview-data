@@ -1,0 +1,17 @@
+{
+  "email": "hello@giraffecars.com",
+  "address": "5 Sentry Lane",
+  "website": "https://giraffe-group.com/",
+  "facebook": "https://www.facebook.com/Giraffecars",
+  "logoPath": "https://giraffe-group.com/cdn/shop/files/Giraffe_Group_Logo_Wht_Text.png?v=1738655524&width=500",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Sentry%20Lane",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/giraffe_cars/",
+  "phoneLink": "tel:02890842685",
+  "companyName": "Giraffe Group - Giraffe Cars",
+  "faviconPath": "https://giraffe-group.com/cdn/shop/files/download_1.png?crop=center&height=32&v=1744704156&width=32",
+  "phoneDisplay": "02890842685",
+  "whatsappLink": "https://wa.me/02890842685",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
