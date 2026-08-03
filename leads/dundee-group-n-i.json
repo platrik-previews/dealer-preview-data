@@ -1,0 +1,14 @@
+{
+  "address": "55 Millbank Rd",
+  "website": "https://www.dundeegroup.co.uk/",
+  "logoPath": "https://images.squarespace-cdn.com/content/v1/66656f724c29433747ff715b/10de9c1b-f4a1-4751-86ae-7b1aee24a38d/Dundee+group+no+background.png?format=1500w",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=55%20Millbank%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02894433657",
+  "companyName": "Dundee Group N I",
+  "faviconPath": "https://images.squarespace-cdn.com/content/v1/66656f724c29433747ff715b/361dccd3-abea-474c-a545-59b4e2156331/favicon.ico?format=100w",
+  "phoneDisplay": "02894433657",
+  "whatsappLink": "https://wa.me/02894433657",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
