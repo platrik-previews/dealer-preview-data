@@ -1,0 +1,14 @@
+{
+  "address": "8 Bog Road",
+  "website": "https://www.mckinleymotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/039/979/705/17508486709e809d01d5.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=8%20Bog%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830888349",
+  "companyName": "McKinley Motors",
+  "faviconPath": "https://www.mckinleymotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442830888349",
+  "whatsappLink": "https://wa.me/442830888349",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
