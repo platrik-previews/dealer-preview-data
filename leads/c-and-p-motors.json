@@ -1,0 +1,15 @@
+{
+  "email": "pcullen@candpmotors.co.uk",
+  "address": "9 Whitesides Hill",
+  "website": "https://www.candpmotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/168/926/694/1624353014f0cd15b0e1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=9%20Whitesides%20Hill",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447860696699",
+  "companyName": "C and P Motors",
+  "faviconPath": "https://www.candpmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+447860696699",
+  "whatsappLink": "https://wa.me/447860696699",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
