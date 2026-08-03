@@ -1,0 +1,11 @@
+{
+  "address": "41 Summerisland Road, Loughgall",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=41%20Summerisland%20Road,%20Loughgall",
+  "renderer": "dealership",
+  "phoneLink": "tel:02887788093",
+  "companyName": "Annard Ltd.",
+  "phoneDisplay": "02887788093",
+  "whatsappLink": "https://wa.me/02887788093",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
