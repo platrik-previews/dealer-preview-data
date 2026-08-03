@@ -1,0 +1,12 @@
+{
+  "email": "pwlautosales@gmail.com",
+  "address": "22 Malcolm Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=22%20Malcolm%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447733081514",
+  "companyName": "PWL Auto Sales",
+  "phoneDisplay": "+447733081514",
+  "whatsappLink": "https://wa.me/447733081514",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
