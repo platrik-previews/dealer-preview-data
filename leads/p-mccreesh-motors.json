@@ -1,0 +1,11 @@
+{
+  "address": "52 Killylea Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=52%20Killylea%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02837525898",
+  "companyName": "P McCreesh Motors",
+  "phoneDisplay": "02837525898",
+  "whatsappLink": "https://wa.me/02837525898",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
