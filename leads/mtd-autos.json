@@ -1,0 +1,15 @@
+{
+  "address": "9 Corrycroar Road",
+  "website": "https://www.mtdautos.com/",
+  "facebook": "http://www.facebook.com/MTDautobodyandsalvage",
+  "logoPath": "https://static.wixstatic.com/media/ad841e_917afec2b9c149b7838198d10f417071~mv2.jpg/v1/crop/x_0,y_0,w_424,h_300/fill/w_156,h_110,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/mtdlogo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=9%20Corrycroar%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07776216459",
+  "companyName": "MTD Autos",
+  "faviconPath": "https://static.parastorage.com/client/pfavico.ico",
+  "phoneDisplay": "07776216459",
+  "whatsappLink": "https://wa.me/07776216459",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
