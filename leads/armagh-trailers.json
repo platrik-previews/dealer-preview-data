@@ -1,0 +1,15 @@
+{
+  "email": "armaghtrailers@hotmail.co.uk",
+  "address": "11 Derryhale Rd, Portadown, Craigavon BT62 4HE",
+  "website": "http://www.armaghtrailers.com/",
+  "logoPath": "http://www.armaghtrailers.com/wp-content/uploads/2015/10/logo7.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11%20Derryhale%20Rd,%20Portadown,%20Craigavon%20BT62%204HE",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447808152833",
+  "companyName": "Armagh Trailers",
+  "faviconPath": "http://www.armaghtrailers.com/favicon.ico",
+  "phoneDisplay": "+447808152833",
+  "whatsappLink": "https://wa.me/447808152833",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
