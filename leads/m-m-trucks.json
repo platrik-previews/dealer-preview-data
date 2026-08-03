@@ -1,0 +1,15 @@
+{
+  "email": "sales@mmtrucks.com",
+  "address": "M&M Trucks and Plant Ltd 234 Dublin Road Newry BT35 8RL",
+  "website": "https://www.mmtrucks.com/",
+  "logoPath": "https://www.mmtrucks.com/wp-content/uploads/2024/09/logo-7.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=M&M%20Trucks%20and%20Plant%20Ltd%20234%20Dublin%20Road%20Newry%20BT35%208RL",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830889212213",
+  "companyName": "M&M Trucks",
+  "faviconPath": "https://www.mmtrucks.com/wp-content/uploads/2020/12/cropped-icon-v-32x32.png",
+  "phoneDisplay": "+442830889212or213",
+  "whatsappLink": "https://wa.me/442830889212213",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
