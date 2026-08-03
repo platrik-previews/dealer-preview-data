@@ -1,0 +1,16 @@
+{
+  "email": "m.mcaliskey@hotmail.co.uk",
+  "address": "27 Ballybeg Road",
+  "website": "https://www.mmacvans.com/",
+  "facebook": "https://www.facebook.com/MMACVans/?pnref=story",
+  "logoPath": "https://www.mmacvans.com/imgs/MMACVANS.JPG",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=27%20Ballybeg%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02887747239",
+  "companyName": "M MAC Vans",
+  "faviconPath": "https://www.mmacvans.com/imgs/Logo/M-MAC-Vans-Thumbnail.png",
+  "phoneDisplay": "02887747239",
+  "whatsappLink": "https://wa.me/02887747239",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
