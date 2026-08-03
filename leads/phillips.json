@@ -1,0 +1,17 @@
+{
+  "email": "sales@phillips.volkswagen.co.uk",
+  "address": "58 Saintfield Road, Lisburn, Co. Antrim, BT27 5BE",
+  "website": "http://www.phillipsvolkswagen.co.uk/",
+  "facebook": "https://www.facebook.com/phillipsLisburn",
+  "logoPath": "http://www.phillipsvolkswagen.co.uk/images/vw-service-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=58%20Saintfield%20Road,%20Lisburn,%20Co.%20Antrim,%20BT27%205BE",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/phillipsvolkswagen",
+  "phoneLink": "tel:02892664354",
+  "companyName": "Phillips",
+  "faviconPath": "http://www.phillipsvolkswagen.co.uk/images/favicons/apple-touch-icon.png",
+  "phoneDisplay": "028 9266 4354",
+  "whatsappLink": "https://wa.me/02892664354",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
