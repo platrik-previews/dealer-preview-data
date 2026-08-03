@@ -1,0 +1,12 @@
+{
+  "email": "marktinneny@hotmail.co.uk",
+  "address": "Unit 65",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2065",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890492744",
+  "companyName": "SIA Car Sales",
+  "phoneDisplay": "+442890492744",
+  "whatsappLink": "https://wa.me/442890492744",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
