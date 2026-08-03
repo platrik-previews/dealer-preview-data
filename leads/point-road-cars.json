@@ -1,0 +1,12 @@
+{
+  "email": "pointroadcars2018@yahoo.com",
+  "address": "old Warrenpoint Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=old%20Warrenpoint%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447342933567",
+  "companyName": "Point Road Cars",
+  "phoneDisplay": "+447342933567",
+  "whatsappLink": "https://wa.me/447342933567",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
