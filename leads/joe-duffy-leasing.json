@@ -1,0 +1,16 @@
+{
+  "email": "example@email.com",
+  "address": "7 North Road",
+  "website": "https://www.joeduffyleasing.ie/",
+  "facebook": "https://www.facebook.com/joeduffyleasing",
+  "logoPath": "https://www.joeduffyleasing.ie/uploads/images/homepage/more-from-desktop/1632496673303.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20North%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:018647711",
+  "companyName": "Joe Duffy Leasing",
+  "faviconPath": "https://www.joeduffyleasing.ie/sites/automotive/images/favicons/apple-touch-icon.png",
+  "phoneDisplay": "018647711",
+  "whatsappLink": "https://wa.me/018647711",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
