@@ -1,0 +1,15 @@
+{
+  "address": "Tamnamore, 203 Ballynakilly Road",
+  "website": "https://www.honda.co.uk/",
+  "facebook": "https://www.facebook.com/hondauk",
+  "logoPath": "https://www.honda.co.uk/etc/designs/honda/theme_inclusive/img/portal/portal_2019/honda-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tamnamore,%20203%20Ballynakilly%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442887723376",
+  "companyName": "Saltmarine",
+  "faviconPath": "https://www.honda.co.uk/favicon.ico",
+  "phoneDisplay": "+442887723376",
+  "whatsappLink": "https://wa.me/442887723376",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
