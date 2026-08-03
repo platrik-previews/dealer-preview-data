@@ -1,0 +1,17 @@
+{
+  "email": "osullivanmotorsdublin@hotmail.com",
+  "address": "9 North Road",
+  "website": "http://osullivanmotorsdublin.ie/",
+  "facebook": "https://www.facebook.com/osullivanmotors",
+  "logoPath": "https://osullivanmotorsdublin.ie/wp-content/uploads/2022/08/osullivan_motors_dublin_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=9%20North%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/osullivanmotorsdublin/",
+  "phoneLink": "tel:+35312241065",
+  "companyName": "O'Sullivan Motors Dublin",
+  "faviconPath": "https://osullivanmotorsdublin.ie/wp-content/uploads/2022/08/Osullivan_motors_dublin_favicon-100x100.png",
+  "phoneDisplay": "+35312241065",
+  "whatsappLink": "https://wa.me/35312241065",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
