@@ -1,0 +1,14 @@
+{
+  "address": "37 New Rd",
+  "website": "https://www.breelmotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/137/708/860/1725461695538ff43f89.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=37%20New%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830861331",
+  "companyName": "B Reel Motors",
+  "faviconPath": "https://www.breelmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442830861331",
+  "whatsappLink": "https://wa.me/442830861331",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
