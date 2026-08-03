@@ -1,0 +1,16 @@
+{
+  "address": "34 Creevy Road",
+  "website": "https://www.mastercraftireland.com/",
+  "facebook": "https://www.facebook.com/MasterCraftIreland",
+  "logoPath": "https://www.mastercraftireland.com/wp-content/themes/mastercraft/assets/img/icons/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=34%20Creevy%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mastercraftireland/",
+  "phoneLink": "tel:+442892638823",
+  "companyName": "Mastercraft Ireland",
+  "faviconPath": "https://www.mastercraftireland.com/wp-content/themes/mastercraft/assets/img/icons/favicon.png",
+  "phoneDisplay": "+442892638823",
+  "whatsappLink": "https://wa.me/442892638823",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
