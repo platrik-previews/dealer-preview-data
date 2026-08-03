@@ -1,0 +1,14 @@
+{
+  "email": "francis@thevehiclesource.co.uk",
+  "address": "5 Mallusk Drive",
+  "website": "http://www.jandftrucks.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Mallusk%20Drive",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447973130422",
+  "companyName": "J&F Trucks & Vans / F.J.W The Vehicle Source",
+  "faviconPath": "http://www.jandftrucks.com/favicon.ico",
+  "phoneDisplay": "+447973130422",
+  "whatsappLink": "https://wa.me/447973130422",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
