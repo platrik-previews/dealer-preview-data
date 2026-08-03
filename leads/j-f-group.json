@@ -1,0 +1,17 @@
+{
+  "email": "sales@jandfgroup.co.uk",
+  "address": "12 Mayfield Link",
+  "website": "http://jandfgroup.co.uk/",
+  "facebook": "https://www.facebook.com/jandfgroup",
+  "logoPath": "http://jandfgroup.co.uk/wp-content/uploads/2025/08/LOGO-1.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%20Mayfield%20Link",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/jandfgroup/",
+  "phoneLink": "tel:+442890342019",
+  "companyName": "J&F Group",
+  "faviconPath": "http://jandfgroup.co.uk/wp-content/uploads/2016/12/favicon.png",
+  "phoneDisplay": "+44-2890-342019",
+  "whatsappLink": "https://wa.me/442890342019",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
