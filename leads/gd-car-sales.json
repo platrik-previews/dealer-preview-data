@@ -1,0 +1,12 @@
+{
+  "email": "gd.carsales2022@gmail.com",
+  "address": "Tullyard Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tullyard%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447719230425",
+  "companyName": "GD Car Sales",
+  "phoneDisplay": "+447719230425",
+  "whatsappLink": "https://wa.me/447719230425",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
