@@ -1,0 +1,15 @@
+{
+  "email": "sales@euroautoexporter.com",
+  "address": "Euro Auto Commercials, 127 Ballymaguire Road",
+  "website": "https://www.euroautoexporter.com/",
+  "logoPath": "https://www.euroautoexporter.com/my-images/header.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Euro%20Auto%20Commercials,%20127%20Ballymaguire%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447588734602",
+  "companyName": "Auto Exporter Market",
+  "faviconPath": "https://www.euroautoexporter.com/my-images/favicon.ico",
+  "phoneDisplay": "+447588734602",
+  "whatsappLink": "https://wa.me/447588734602",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
