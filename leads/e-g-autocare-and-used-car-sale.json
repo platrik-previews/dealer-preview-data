@@ -1,0 +1,12 @@
+{
+  "email": "egautocare42@yahoo.com",
+  "address": "42 Belfast Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=42%20Belfast%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447525264372",
+  "companyName": "E&G autocare and used car sale",
+  "phoneDisplay": "+447525264372",
+  "whatsappLink": "https://wa.me/447525264372",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
