@@ -1,0 +1,15 @@
+{
+  "email": "info@newryautocentre.com",
+  "address": "6 Hilltown Road",
+  "website": "http://www.newryautocentre.com/",
+  "logoPath": "http://www.newryautocentre.com/newry-auto.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=6%20Hilltown%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442830833004",
+  "companyName": "Newry Auto Centre",
+  "faviconPath": "http://www.newryautocentre.com/favicon.ico",
+  "phoneDisplay": "+442830833004",
+  "whatsappLink": "https://wa.me/442830833004",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
