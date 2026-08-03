@@ -1,0 +1,16 @@
+{
+  "email": "info@m-btruckandvan.co.uk",
+  "address": "47-49 Mallusk Road, Newtownabbey, BT36 4PJ",
+  "website": "https://www.mbtvni.co.uk/",
+  "facebook": "https://www.facebook.com/mercedesbenztruckandvan/",
+  "logoPath": "https://bluesky.sirv.com/Websites/MBNI/Images/Logo/mbni-logo.png?scale.width=250",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=47-49%20Mallusk%20Road,%20Newtownabbey,%20BT36%204PJ",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890342411",
+  "companyName": "MBNI Truck & Van",
+  "faviconPath": "https://www.mbtvni.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "02890342411",
+  "whatsappLink": "https://wa.me/02890342411",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
