@@ -1,0 +1,13 @@
+{
+  "address": "14 Raffertys Hill",
+  "website": "http://www.mcmurraytractors.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=14%20Raffertys%20Hill",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442892682957",
+  "companyName": "McMurray Tractors",
+  "faviconPath": "http://www.mcmurraytractors.com/favicon.ico",
+  "phoneDisplay": "+442892682957",
+  "whatsappLink": "https://wa.me/442892682957",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
