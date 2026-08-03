@@ -1,0 +1,17 @@
+{
+  "email": "info@mulliganmotors.co.uk",
+  "address": "112 Camlough Road Newry BT35 7EE",
+  "website": "https://mulliganmotors.co.uk/",
+  "facebook": "https://www.facebook.com/MulliganMotors/",
+  "logoPath": "https://mulliganmotors.co.uk/wp-content/uploads/2021/05/Blue.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=112%20Camlough%20Road%20Newry%20BT35%207EE",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mulligan.motors",
+  "phoneLink": "tel:02830838999",
+  "companyName": "Mulligan Motors",
+  "faviconPath": "https://mulliganmotors.co.uk/wp-content/uploads/2021/06/2-Ms-100x100.png",
+  "phoneDisplay": "02830838999",
+  "whatsappLink": "https://wa.me/02830838999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
