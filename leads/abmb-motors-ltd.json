@@ -1,0 +1,16 @@
+{
+  "email": "abmbmotors@gmail.com",
+  "address": "20a Moor Road",
+  "website": "https://abmbmotors.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=61552285414670",
+  "logoPath": "https://abmbmotors.co.uk/wp-content/uploads/2025/07/Mercedes-Benz_free_logo.svg-removebg-preview.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=20a%20Moor%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07874865399",
+  "companyName": "ABMB Motors Ltd",
+  "faviconPath": "https://abmbmotors.co.uk/favicon.ico",
+  "phoneDisplay": "07874865399Arnoldas",
+  "whatsappLink": "https://wa.me/07874865399",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
