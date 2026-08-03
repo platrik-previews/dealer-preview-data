@@ -1,0 +1,14 @@
+{
+  "address": "43 Dobbin Rd",
+  "website": "http://www.drumnasoocarsales.co.uk/",
+  "logoPath": "http://www.drumnasoocarsales.co.uk/images/drumnasoo-logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=43%20Dobbin%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838350476",
+  "companyName": "Drumnasoo Car Sales",
+  "faviconPath": "http://www.drumnasoocarsales.co.uk/faviconnew.png",
+  "phoneDisplay": "028 3835 0476",
+  "whatsappLink": "https://wa.me/02838350476",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
