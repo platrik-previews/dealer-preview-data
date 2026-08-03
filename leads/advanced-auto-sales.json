@@ -1,0 +1,16 @@
+{
+  "email": "brian@advancedautosales.co.uk",
+  "address": "200 Stewartstown Road",
+  "website": "https://www.advancedautosales.co.uk/",
+  "facebook": "https://en-gb.facebook.com/advancesautosales/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/754/749/17508537630dc9bff127.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=200%20Stewartstown%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442895882926",
+  "companyName": "Advanced Auto Sales",
+  "faviconPath": "https://www.advancedautosales.co.uk/favicon.ico",
+  "phoneDisplay": "+442895882926",
+  "whatsappLink": "https://wa.me/442895882926",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
