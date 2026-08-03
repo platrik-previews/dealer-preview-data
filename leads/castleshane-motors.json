@@ -1,0 +1,15 @@
+{
+  "email": "info@castleshanemotors.com",
+  "address": "Castleshane, IE",
+  "website": "http://www.castleshanemotors.com/contactus.asp",
+  "logoPath": "http://www.castleshanemotors.com/images/vehicles/28_Beetle_2005/front_t.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Castleshane,%20IE",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353866067710",
+  "companyName": "Castleshane Motors",
+  "faviconPath": "http://www.castleshanemotors.com/favicon.ico",
+  "phoneDisplay": "+353866067710",
+  "whatsappLink": "https://wa.me/353866067710",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
