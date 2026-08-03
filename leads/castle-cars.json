@@ -1,0 +1,15 @@
+{
+  "email": "mcgrathmotors@hotmail.co.uk",
+  "address": "51a Castle Road",
+  "website": "https://www.castlecarscookstown.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/030/016/935/1732543848a4c76f9e9a.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=51a%20Castle%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442886766127",
+  "companyName": "Castle Cars",
+  "faviconPath": "https://www.castlecarscookstown.co.uk/favicon.ico",
+  "phoneDisplay": "+442886766127",
+  "whatsappLink": "https://wa.me/442886766127",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
