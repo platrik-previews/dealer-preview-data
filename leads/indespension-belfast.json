@@ -1,0 +1,17 @@
+{
+  "email": "belfast@indespension.co.uk",
+  "address": "7-11 Scullions Road",
+  "website": "https://indespension.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=61589932942268",
+  "logoPath": "https://indespension.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.238d04f7.svg&w=640&q=75",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7-11%20Scullions%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/indespension_central_sales/",
+  "phoneLink": "tel:01204478500",
+  "companyName": "Indespension Belfast",
+  "faviconPath": "https://indespension.co.uk/favicon/favicon-32x32.png",
+  "phoneDisplay": "01204478500",
+  "whatsappLink": "https://wa.me/01204478500",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
