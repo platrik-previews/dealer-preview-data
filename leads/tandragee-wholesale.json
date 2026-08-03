@@ -1,0 +1,11 @@
+{
+  "address": "Scarva road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Scarva%20road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447518631800",
+  "companyName": "Tandragee Wholesale",
+  "phoneDisplay": "+447518631800",
+  "whatsappLink": "https://wa.me/447518631800",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
