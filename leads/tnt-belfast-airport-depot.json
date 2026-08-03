@@ -1,0 +1,11 @@
+{
+  "address": "Servisair Cargo, Cargo Village Belfast Int Airport",
+  "website": "https://www.tnt.com/express/en_gb/site/company/tnt-depot-locator.html",
+  "logoPath": "https://www.tnt.com/dam/campaign/iccampaign/logo-ipfs-2-01.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Servisair%20Cargo,%20Cargo%20Village%20Belfast%20Int%20Airport",
+  "renderer": "dealership",
+  "companyName": "TNT Belfast Airport Depot",
+  "faviconPath": "https://www.tnt.com/assets/favicons/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
