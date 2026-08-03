@@ -1,0 +1,17 @@
+{
+  "email": "roxfordeoffice@gmail.com",
+  "address": "Unit 47, City Business Park",
+  "website": "https://www.roxfordecars.com/",
+  "facebook": "https://www.facebook.com/roxforde/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/161/062/1578308425b669b02288.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2047,%20City%20Business%20Park",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/roxforde_cars",
+  "phoneLink": "tel:+442895085002",
+  "companyName": "Roxforde Cars",
+  "faviconPath": "https://www.roxfordecars.com/favicon.ico",
+  "phoneDisplay": "+442895085002",
+  "whatsappLink": "https://wa.me/442895085002",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
