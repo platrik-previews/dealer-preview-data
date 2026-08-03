@@ -1,0 +1,15 @@
+{
+  "email": "jbautosalesni@hotmail.com",
+  "address": "27 Drum Road",
+  "website": "https://www.jbautosalesni.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/287/361/842/1775658892fe07f19218.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=27%20Drum%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447594279945",
+  "companyName": "JB Auto Sales",
+  "faviconPath": "https://www.jbautosalesni.co.uk/favicon.ico",
+  "phoneDisplay": "+447594279945",
+  "whatsappLink": "https://wa.me/447594279945",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
