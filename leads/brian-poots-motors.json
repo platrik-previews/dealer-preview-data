@@ -1,0 +1,12 @@
+{
+  "email": "brianpootsmotors@hotmail.co.uk",
+  "address": "32b Coronation Place",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=32b%20Coronation%20Place",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838349757",
+  "companyName": "Brian Poots Motors",
+  "phoneDisplay": "+442838349757",
+  "whatsappLink": "https://wa.me/442838349757",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
