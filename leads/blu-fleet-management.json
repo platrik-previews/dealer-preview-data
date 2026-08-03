@@ -1,0 +1,15 @@
+{
+  "email": "louise@blufleet.ie",
+  "address": "unit 5 Glenview Industrial Estate,  Harberton Road, Rialto,  Dublin 12",
+  "website": "http://www.blufleet.ie/",
+  "logoPath": "https://www.blufleet.ie/wp-content/uploads/2020/06/cropped-BLU-Logo-for-website.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=unit%205%20Glenview%20Industrial%20Estate,%20%20Harberton%20Road,%20Rialto,%20%20Dublin%2012",
+  "renderer": "dealership",
+  "phoneLink": "tel:015252724",
+  "companyName": "BLU Fleet Management",
+  "faviconPath": "https://www.blufleet.ie/wp-content/uploads/2020/06/cropped-512x512-BLUE-Fleet-32x32.jpg",
+  "phoneDisplay": "015252724",
+  "whatsappLink": "https://wa.me/015252724",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
