@@ -1,0 +1,13 @@
+{
+  "address": "47 Moy Road",
+  "website": "https://unipartnercarcare.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=47%20Moy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838338581",
+  "companyName": "Unipart Car Care Centre",
+  "faviconPath": "https://unipartnercarcare.com/favicon.ico",
+  "phoneDisplay": "028 3833 8581",
+  "whatsappLink": "https://wa.me/02838338581",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
