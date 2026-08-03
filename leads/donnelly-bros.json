@@ -1,0 +1,17 @@
+{
+  "email": "dealerprincipal@donnellybros.dealers.mitsubishi-cars.co.uk",
+  "address": "57 Moy Road",
+  "website": "https://www.mitsubishi-motors.co.jp/",
+  "facebook": "https://www.facebook.com/MitsubishiMotors.jp/",
+  "logoPath": "https://www.mitsubishi-motors.co.jp/img/lineup_logo_outlander_phev.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=57%20Moy%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mitsubishimotorsjpn/",
+  "phoneLink": "tel:+442887440403",
+  "companyName": "Donnelly Bros",
+  "faviconPath": "https://www.mitsubishi-motors.co.jp/favicon.ico",
+  "phoneDisplay": "+442887440403",
+  "whatsappLink": "https://wa.me/442887440403",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
