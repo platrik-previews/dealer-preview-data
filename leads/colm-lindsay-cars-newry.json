@@ -1,0 +1,16 @@
+{
+  "email": "info@colmlindsaycars.co.uk",
+  "address": "Unit 4, Greenbank Industrial Estate, Warrenpoint Rd, Newry, Down, BT34 2QX",
+  "website": "https://www.colmlindsaycars.co.uk/",
+  "facebook": "https://www.facebook.com/colmlindsaycars",
+  "logoPath": "https://www.colmlindsaycars.co.uk/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%204,%20Greenbank%20Industrial%20Estate,%20Warrenpoint%20Rd,%20Newry,%20Down,%20BT34%202QX",
+  "renderer": "dealership",
+  "phoneLink": "tel:02830825609",
+  "companyName": "Colm Lindsay Cars Newry",
+  "faviconPath": "https://www.colmlindsaycars.co.uk/images/favicon.ico",
+  "phoneDisplay": "028-3082-5609",
+  "whatsappLink": "https://wa.me/02830825609",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
