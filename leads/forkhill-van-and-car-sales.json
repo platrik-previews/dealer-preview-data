@@ -1,0 +1,14 @@
+{
+  "email": "forkhillvans@aol.co.uk",
+  "address": "76 Main Street",
+  "website": "https://forkhillvanandcarsales.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=76%20Main%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447765463627",
+  "companyName": "Forkhill Van and Car Sales",
+  "faviconPath": "https://forkhillvanandcarsales.com/favicon.ico",
+  "phoneDisplay": "+447765463627",
+  "whatsappLink": "https://wa.me/447765463627",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
