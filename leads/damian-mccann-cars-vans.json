@@ -1,0 +1,14 @@
+{
+  "address": "11a Portlee Rd",
+  "website": "https://www.damianmccanncarsandvansltd.co.uk/",
+  "logoPath": "https://www.damianmccanncarsandvansltd.co.uk/assets/img/web.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11a%20Portlee%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02879651991",
+  "companyName": "Damian McCann Cars & Vans",
+  "faviconPath": "https://www.damianmccanncarsandvansltd.co.uk/assets/img/favicon.png",
+  "phoneDisplay": "028 7965 1991",
+  "whatsappLink": "https://wa.me/02879651991",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
