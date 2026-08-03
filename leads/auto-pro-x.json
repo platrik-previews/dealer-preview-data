@@ -1,0 +1,15 @@
+{
+  "email": "autopro.x@hotmail.com",
+  "address": "2a Lissue Road",
+  "website": "https://www.autoprox.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/337/680/585/17506760691d86959c7f.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2a%20Lissue%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447394801230",
+  "companyName": "Auto Pro X",
+  "faviconPath": "https://www.autoprox.co.uk/favicon.ico",
+  "phoneDisplay": "+447394801230",
+  "whatsappLink": "https://wa.me/447394801230",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
