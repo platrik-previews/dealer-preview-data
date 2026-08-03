@@ -1,0 +1,11 @@
+{
+  "address": "250A Armagh Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=250A%20Armagh%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07774727121",
+  "companyName": "Paul McArdle Car Sales",
+  "phoneDisplay": "07774727121",
+  "whatsappLink": "https://wa.me/07774727121",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
