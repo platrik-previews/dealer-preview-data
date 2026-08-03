@@ -1,0 +1,16 @@
+{
+  "email": "info@tricamcaravans.com",
+  "address": "21 Rowantree Road",
+  "website": "https://www.tricamcaravans.com/",
+  "facebook": "https://en-gb.facebook.com/TricamCaravans/",
+  "logoPath": "https://www.tricamcaravans.com/images/general/logoResponsive1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=21%20Rowantree%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442892690172",
+  "companyName": "Tricam Caravans Dromore",
+  "faviconPath": "https://www.tricamcaravans.com/favicon.ico",
+  "phoneDisplay": "+442892690172",
+  "whatsappLink": "https://wa.me/442892690172",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
