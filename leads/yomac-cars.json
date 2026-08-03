@@ -1,0 +1,17 @@
+{
+  "email": "sales@yomaccars.ie",
+  "address": "--> 103B Barrow Road, Dublin Ind. Estate , Glasnevin Dublin",
+  "website": "https://www.yomaccars.com/",
+  "facebook": "https://www.facebook.com/yomac.cars",
+  "logoPath": "https://www.yomaccars.com/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%20103B%20Barrow%20Road,%20Dublin%20Ind.%20Estate%20,%20Glasnevin%20Dublin",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/yccars",
+  "phoneLink": "tel:018307822",
+  "companyName": "Yomac Cars",
+  "faviconPath": "https://www.yomaccars.com/images/favicon.ico?v=1.00",
+  "phoneDisplay": "01-8307822",
+  "whatsappLink": "https://wa.me/018307822",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
