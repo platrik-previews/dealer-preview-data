@@ -1,0 +1,17 @@
+{
+  "email": "sales@sandsmarine.co.uk",
+  "address": "Kinnego Marina, 37 Annaloist Road",
+  "website": "https://www.sandsmarineonline.co.uk/",
+  "facebook": "https://www.facebook.com/sandsmarineleisure/",
+  "logoPath": "https://www.sandsmarineonline.co.uk/Graphics/SandsMarineLogo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kinnego%20Marina,%2037%20Annaloist%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/sands_marine/",
+  "phoneLink": "tel:02838343911",
+  "companyName": "Sands Marine",
+  "faviconPath": "https://www.sandsmarineonline.co.uk/Graphics/favicon.ico",
+  "phoneDisplay": "02838 343911",
+  "whatsappLink": "https://wa.me/02838343911",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
