@@ -1,0 +1,11 @@
+{
+  "address": "4a Ballynafoy Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=4a%20Ballynafoy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442840651400",
+  "companyName": "Sentry Motors Ltd",
+  "phoneDisplay": "+442840651400",
+  "whatsappLink": "https://wa.me/442840651400",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
