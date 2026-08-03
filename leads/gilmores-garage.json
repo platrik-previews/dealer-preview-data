@@ -1,0 +1,16 @@
+{
+  "email": "info@gilmoresgarage.co.uk",
+  "address": "1a Kilkeel Road",
+  "website": "https://gilmoresgarage.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=100048542903545",
+  "logoPath": "https://sb7.402.myftpupload.com/wp-content/uploads/2022/10/Gilmores-Garage-Logo-02.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1a%20Kilkeel%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442840630511",
+  "companyName": "Gilmores Garage",
+  "faviconPath": "https://gilmoresgarage.co.uk/wp-content/uploads/2022/10/Gilmores-Garage-Favcon-01.png",
+  "phoneDisplay": "+442840630511",
+  "whatsappLink": "https://wa.me/442840630511",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
