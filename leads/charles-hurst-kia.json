@@ -1,0 +1,11 @@
+{
+  "address": "547 Antrim Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=547%20Antrim%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890845271",
+  "companyName": "Charles Hurst Kia",
+  "phoneDisplay": "+442890845271",
+  "whatsappLink": "https://wa.me/442890845271",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
