@@ -1,0 +1,15 @@
+{
+  "email": "jphughes10@icloud.com",
+  "address": "50 Clonfeacle Road",
+  "website": "https://www.hughesatvltd.com/",
+  "logoPath": "https://donedealdealer-live.s3.eu-west-1.amazonaws.com/4913/logo/297e076695384100e3892f5ed0d523bb.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=50%20Clonfeacle%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:00447864316638",
+  "companyName": "Hughes ATV",
+  "faviconPath": "https://www.hughesatvltd.com/android-chrome-192x192.png",
+  "phoneDisplay": "00447864316638",
+  "whatsappLink": "https://wa.me/00447864316638",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
