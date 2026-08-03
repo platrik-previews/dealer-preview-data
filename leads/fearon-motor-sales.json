@@ -1,0 +1,12 @@
+{
+  "email": "oisinfearon40@gmail.com",
+  "address": "40 Keggall Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=40%20Keggall%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447871763675",
+  "companyName": "Fearon Motor Sales",
+  "phoneDisplay": "+447871763675",
+  "whatsappLink": "https://wa.me/447871763675",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
