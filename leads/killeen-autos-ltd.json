@@ -1,0 +1,12 @@
+{
+  "email": "sales@killeenautos.co.uk",
+  "address": "5 Killeen School Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Killeen%20School%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447503770046",
+  "companyName": "Killeen autos ltd",
+  "phoneDisplay": "+447503770046",
+  "whatsappLink": "https://wa.me/447503770046",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
