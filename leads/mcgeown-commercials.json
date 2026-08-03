@@ -1,0 +1,15 @@
+{
+  "email": "sales@mcgeowngroup.com",
+  "address": "57 Cashel Road",
+  "website": "http://www.mcgeowncommercials.com/",
+  "logoPath": "http://www.mcgeowncommercials.com/wp-content/uploads/2017/05/cropped-logo-2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=57%20Cashel%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442837539975",
+  "companyName": "mcgeown commercials",
+  "faviconPath": "http://www.mcgeowncommercials.com/favicon.ico",
+  "phoneDisplay": "+442837539975",
+  "whatsappLink": "https://wa.me/442837539975",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
