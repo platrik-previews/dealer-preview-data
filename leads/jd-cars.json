@@ -1,0 +1,16 @@
+{
+  "email": "sales@jdcarsni.co.uk",
+  "address": "15 Ryan Road",
+  "website": "https://www.jdcarsni.co.uk/",
+  "facebook": "https://www.facebook.com/J.DCarsni",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/297/987/250/175084848255cec7a502.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Ryan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447707961532",
+  "companyName": "JD Cars",
+  "faviconPath": "https://www.jdcarsni.co.uk/favicon.ico",
+  "phoneDisplay": "+447707961532",
+  "whatsappLink": "https://wa.me/447707961532",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
