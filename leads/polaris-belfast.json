@@ -1,0 +1,16 @@
+{
+  "address": "5 Sentry Lane",
+  "website": "https://www.polaris-belfast.co.uk/",
+  "facebook": "https://www.facebook.com/PolarisBritain",
+  "logoPath": "https://www.polaris-belfast.co.uk/fileadmin/templates/pol_MY18/img/logo-polaris-black.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Sentry%20Lane",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/polarisbritain/",
+  "phoneLink": "tel:02890123605",
+  "companyName": "Polaris Belfast",
+  "faviconPath": "https://www.polaris-belfast.co.uk/favicons/favicon.ico",
+  "phoneDisplay": "02890 123605",
+  "whatsappLink": "https://wa.me/02890123605",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
