@@ -1,0 +1,16 @@
+{
+  "email": "abcautosni@gmail.com",
+  "address": "80B Charles Street, Portadown, BT62 1DQ, GB",
+  "website": "https://www.abcautosales.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=61555616760395",
+  "logoPath": "https://www.abcautosales.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=80B%20Charles%20Street,%20Portadown,%20BT62%201DQ,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838702098",
+  "companyName": "abc auto sales ni",
+  "faviconPath": "https://www.abcautosales.co.uk/favicon.png",
+  "phoneDisplay": "0283 870 2098",
+  "whatsappLink": "https://wa.me/02838702098",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
