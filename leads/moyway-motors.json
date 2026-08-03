@@ -1,0 +1,15 @@
+{
+  "address": "80a Moy Road, Dungannon, BT71 7DU, United Kingdom",
+  "website": "https://www.moywaymotors.co.uk/",
+  "facebook": "https://www.facebook.com/moywaypage/",
+  "logoPath": "https://www.moywaymotors.co.uk/build/assets/img/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=80a%20Moy%20Road,%20Dungannon,%20BT71%207DU,%20United%20Kingdom",
+  "renderer": "dealership",
+  "phoneLink": "tel:02887727272",
+  "companyName": "Moyway Motors",
+  "faviconPath": "https://www.moywaymotors.co.uk/build/assets/img/favicon.png",
+  "phoneDisplay": "028 87727272",
+  "whatsappLink": "https://wa.me/02887727272",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
