@@ -1,0 +1,12 @@
+{
+  "email": "corrbrothersmotors@outlook.com",
+  "address": "241 Derrylee Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=241%20Derrylee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447789758578",
+  "companyName": "Corr Brothers Motors",
+  "phoneDisplay": "+447789758578",
+  "whatsappLink": "https://wa.me/447789758578",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
