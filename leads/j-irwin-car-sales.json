@@ -1,0 +1,14 @@
+{
+  "address": "48 Maytown Rd",
+  "website": "https://www.jirwincarsales.co.uk/",
+  "logoPath": "https://www.jirwincarsales.co.uk/images/jiwin-logo-light.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=48%20Maytown%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447938178640",
+  "companyName": "J Irwin Car Sales",
+  "faviconPath": "https://www.jirwincarsales.co.uk/apple-touch-icon.png",
+  "phoneDisplay": "+447938178640",
+  "whatsappLink": "https://wa.me/447938178640",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
