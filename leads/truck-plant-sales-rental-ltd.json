@@ -1,0 +1,11 @@
+{
+  "address": "607 Antrim Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=607%20Antrim%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890848858",
+  "companyName": "Truck & Plant Sales & Rental Ltd.",
+  "phoneDisplay": "02890848858",
+  "whatsappLink": "https://wa.me/02890848858",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
