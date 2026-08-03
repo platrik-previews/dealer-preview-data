@@ -1,0 +1,16 @@
+{
+  "email": "sales@mckinneymotors.org",
+  "address": "18 Charlemont Road, Moy, BT71 7HQ, United Kingdom",
+  "website": "https://www.mckinneymotors.co.uk/",
+  "facebook": "https://www.facebook.com/Armagh1/",
+  "logoPath": "https://www.mckinneymotors.co.uk/build/assets/img/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Charlemont%20Road,%20Moy,%20BT71%207HQ,%20United%20Kingdom",
+  "renderer": "dealership",
+  "phoneLink": "tel:02837525040",
+  "companyName": "Mc Kinney Motors",
+  "faviconPath": "https://www.mckinneymotors.co.uk/build/assets/img/favicon.png",
+  "phoneDisplay": "02837525040",
+  "whatsappLink": "https://wa.me/02837525040",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
