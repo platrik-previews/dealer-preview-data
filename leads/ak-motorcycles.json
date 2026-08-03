@@ -1,0 +1,12 @@
+{
+  "email": "ak_motorcycles@yahoo.co.uk",
+  "address": "1 Chestnut Terrace",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Chestnut%20Terrace",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447889867773",
+  "companyName": "AK Motorcycles",
+  "phoneDisplay": "+447889867773",
+  "whatsappLink": "https://wa.me/447889867773",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
