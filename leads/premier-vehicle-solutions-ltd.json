@@ -1,0 +1,16 @@
+{
+  "email": "mail@pvsltd.com",
+  "address": "40 Killycanavan Road",
+  "website": "https://pvsltd.com/",
+  "facebook": "https://www.facebook.com/172229562979535",
+  "logoPath": "https://pvsltd.com/wp-content/uploads/2026/03/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=40%20Killycanavan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02886736969",
+  "companyName": "Premier Vehicle Solutions Ltd",
+  "faviconPath": "https://pvsltd.com/wp-content/uploads/2026/03/favicoon-150x150.png",
+  "phoneDisplay": "(028)86736969",
+  "whatsappLink": "https://wa.me/02886736969",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
