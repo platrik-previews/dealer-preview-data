@@ -1,0 +1,14 @@
+{
+  "address": "125 Saintfield Road",
+  "website": "https://www.rdcars.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/046/743/276/16523888782a9b3ecd0e.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=125%20Saintfield%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442897520999",
+  "companyName": "Ryan Donnelly Cars",
+  "faviconPath": "https://www.rdcars.co.uk/favicon.ico",
+  "phoneDisplay": "+442897520999",
+  "whatsappLink": "https://wa.me/442897520999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
