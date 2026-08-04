@@ -1,0 +1,13 @@
+{
+  "address": "7 West Bank Road",
+  "website": "http://www.johnsonstevens.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20West%20Bank%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890781762",
+  "companyName": "Johnson Stevens N I Ltd.",
+  "faviconPath": "http://www.johnsonstevens.co.uk/favicon.ico",
+  "phoneDisplay": "02890781762",
+  "whatsappLink": "https://wa.me/02890781762",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
