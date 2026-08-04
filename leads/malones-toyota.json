@@ -1,0 +1,16 @@
+{
+  "email": "reception@toyota.ie",
+  "address": "M1 Retail Park Exit 10 on, M1",
+  "website": "https://drogheda.malones.ie/",
+  "facebook": "https://www.facebook.com/MalonesToyotaDrogheda/",
+  "logoPath": "https://static.dealers.toyota.deveire.network/dims4/default/d73a0a5/2147483647/strip/true/crop/500x500+0+0/resize/60x60!/quality/95/?url=https%3A%2F%2Fs3.ops.deveire.com%2Fe2%2Fcf%2Fe0d59bcb4e1ab276f0ac6ca47fba%2Ftoyota-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=M1%20Retail%20Park%20Exit%2010%20on,%20M1",
+  "renderer": "dealership",
+  "phoneLink": "tel:0419802420",
+  "companyName": "Malones Toyota",
+  "faviconPath": "https://drogheda.malones.ie/favicon.ico",
+  "phoneDisplay": "041-980 2420",
+  "whatsappLink": "https://wa.me/0419802420",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
