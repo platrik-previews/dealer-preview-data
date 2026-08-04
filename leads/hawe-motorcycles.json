@@ -1,0 +1,12 @@
+{
+  "email": "hawemotorcycles@gmail.com",
+  "address": "9 Dawson St",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=9%20Dawson%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:+3534782744",
+  "companyName": "Hawe Motorcycles",
+  "phoneDisplay": "+3534782744",
+  "whatsappLink": "https://wa.me/3534782744",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
