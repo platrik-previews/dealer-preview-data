@@ -1,0 +1,17 @@
+{
+  "email": "kennedy-motorcycles-blue-@1.png",
+  "address": "6 Dyer Street",
+  "website": "https://www.kennedymotorcycles.com/",
+  "facebook": "https://www.facebook.com/kennedymotorcycles/",
+  "logoPath": "https://www.kennedymotorcycles.com/wp-content/uploads/2020/04/kennedy-motorcycles-blue-@1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=6%20Dyer%20Street",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/kennedy_motorcycles/",
+  "phoneLink": "tel:00353419838117",
+  "companyName": "Kennedy Motorcycles",
+  "faviconPath": "https://www.kennedymotorcycles.com/wp-content/uploads/2020/04/32.png",
+  "phoneDisplay": "00353419838117",
+  "whatsappLink": "https://wa.me/00353419838117",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
