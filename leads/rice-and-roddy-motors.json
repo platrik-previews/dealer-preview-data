@@ -1,0 +1,16 @@
+{
+  "email": "workshop@riceroddy.ie",
+  "address": "--> Newry Road, Dundalk, Co. Louth A91 D25W",
+  "website": "https://www.riceroddymotors.ie/",
+  "facebook": "https://www.facebook.com/RiceRoddy/",
+  "logoPath": "https://www.riceroddymotors.ie/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%20Newry%20Road,%20Dundalk,%20Co.%20Louth%20A91%20D25W",
+  "renderer": "dealership",
+  "phoneLink": "tel:0429334603",
+  "companyName": "Rice and Roddy Motors",
+  "faviconPath": "https://www.riceroddymotors.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "042-9334603",
+  "whatsappLink": "https://wa.me/0429334603",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
