@@ -1,0 +1,14 @@
+{
+  "email": "info@fastlaneni.com",
+  "address": "81 Dromore Road",
+  "website": "http://www.fastlanemotorsni.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=81%20Dromore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447785508050",
+  "companyName": "Fast Lane Motors NI",
+  "faviconPath": "http://www.fastlanemotorsni.co.uk/favicon.ico",
+  "phoneDisplay": "+447785508050",
+  "whatsappLink": "https://wa.me/447785508050",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
