@@ -1,0 +1,15 @@
+{
+  "email": "jmmcarsales@gmail.com",
+  "address": "Green Rd",
+  "website": "https://www.jmmcarsales.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/300/978/291/1652090432c2e35814ab.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Green%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447875537045",
+  "companyName": "JMM Car Sales",
+  "faviconPath": "https://www.jmmcarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+447875537045",
+  "whatsappLink": "https://wa.me/447875537045",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
