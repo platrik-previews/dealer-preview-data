@@ -1,0 +1,16 @@
+{
+  "address": "101 Airport Rd West",
+  "website": "https://www.graham.co.uk/",
+  "facebook": "https://www.facebook.com/GRAHAMGroupUK/",
+  "logoPath": "https://graham-media.s3.eu-west-1.amazonaws.com/app/uploads/2025/05/15130318/homebanner-image.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=101%20Airport%20Rd%20West",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/grahamgroup_uk/",
+  "phoneLink": "tel:02890731133",
+  "companyName": "GRAHAM",
+  "faviconPath": "https://graham-media.s3.eu-west-1.amazonaws.com/app/uploads/2025/05/07094527/GRAHAM-Favicon-150x150.png",
+  "phoneDisplay": "02890731133",
+  "whatsappLink": "https://wa.me/02890731133",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
