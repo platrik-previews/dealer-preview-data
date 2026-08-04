@@ -1,0 +1,16 @@
+{
+  "address": "Quarry Corner",
+  "website": "https://www.hyundai.com/uk/en.html",
+  "facebook": "https://www.facebook.com/hyundaiuk/",
+  "logoPath": "https://www.hyundai.com/eu/dam/hpp/hway/hmuk/logo/Hyundai%20Logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Quarry%20Corner",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/hyundaiuk/",
+  "phoneLink": "tel:02890484850",
+  "companyName": "Charles Hurst",
+  "faviconPath": "https://www.hyundai.com/content/dam/hyundai/faviconlogos/favicon.ico",
+  "phoneDisplay": "028 9048 4850",
+  "whatsappLink": "https://wa.me/02890484850",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
