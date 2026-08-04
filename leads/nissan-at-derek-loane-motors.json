@@ -1,0 +1,16 @@
+{
+  "email": "services@derekloanemotors.co.uk",
+  "address": "Derek Loane Motors 31 Sydney Street Aughnacloy Tyrone BT69 6AE",
+  "website": "https://www.derekloanemotors.co.uk/",
+  "facebook": "https://www.facebook.com/derekloanemotors.co.uk/",
+  "logoPath": "https://www.derekloanemotors.co.uk/images/noimage.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Derek%20Loane%20Motors%2031%20Sydney%20Street%20Aughnacloy%20Tyrone%20BT69%206AE",
+  "renderer": "dealership",
+  "phoneLink": "tel:02885557263",
+  "companyName": "Nissan at Derek Loane Motors",
+  "faviconPath": "https://www.derekloanemotors.co.uk/apple-touch-icon.png",
+  "phoneDisplay": "02885557263",
+  "whatsappLink": "https://wa.me/02885557263",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
