@@ -1,0 +1,15 @@
+{
+  "address": "30 Saintfield Road",
+  "website": "https://www.budgetcarsni.com/",
+  "facebook": "https://www.facebook.com/BudgetCarsNI",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/311/541/772/1674598015c50e592290.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=30%20Saintfield%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447507872135",
+  "companyName": "Budget Cars NI",
+  "faviconPath": "https://www.budgetcarsni.com/favicon.ico",
+  "phoneDisplay": "+447507872135",
+  "whatsappLink": "https://wa.me/447507872135",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
