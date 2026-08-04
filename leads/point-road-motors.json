@@ -1,0 +1,12 @@
+{
+  "email": "mmcopt@gmail.com",
+  "address": "Point Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Point%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353878177070",
+  "companyName": "Point Road Motors",
+  "phoneDisplay": "+353878177070",
+  "whatsappLink": "https://wa.me/353878177070",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
