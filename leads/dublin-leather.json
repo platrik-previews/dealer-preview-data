@@ -1,0 +1,17 @@
+{
+  "email": "hello@dublinleather.com",
+  "address": "Colpe Storage",
+  "website": "https://www.dublinleather.com/",
+  "facebook": "https://www.facebook.com/DublinLeatherOnline/?ref=aymt_homepage_panel",
+  "logoPath": "https://www.dublinleather.com/cdn/shop/files/Dublin_Leather_Logo_495x.png?v=1613517655",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Colpe%20Storage",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/dublinleather/",
+  "phoneLink": "tel:+353899557117",
+  "companyName": "Dublin Leather",
+  "faviconPath": "https://www.dublinleather.com/cdn/shop/files/Dublin_Leather_Logo_32x32.png?v=1613517655",
+  "phoneDisplay": "+353899557117",
+  "whatsappLink": "https://wa.me/353899557117",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
