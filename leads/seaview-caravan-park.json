@@ -1,0 +1,15 @@
+{
+  "email": "info@seaviewcaravansales.com",
+  "address": "1 Donaghadee Road",
+  "website": "https://www.seaviewcaravansales.com/",
+  "logoPath": "https://www.seaviewcaravansales.com/wp-content/uploads/2020/08/seaview-logo-2-e1623882156532.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Donaghadee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891861248",
+  "companyName": "Seaview Caravan Park",
+  "faviconPath": "https://www.seaviewcaravansales.com/favicon.ico",
+  "phoneDisplay": "+442891861248",
+  "whatsappLink": "https://wa.me/442891861248",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
