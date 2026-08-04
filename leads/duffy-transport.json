@@ -1,0 +1,16 @@
+{
+  "address": "Rakeeragh",
+  "website": "https://duffytransport.ie/",
+  "facebook": "https://www.facebook.com/duffytransportmonaghan/",
+  "logoPath": "https://duffytransport.ie/wp-content/uploads/2022/01/DuffyTransport-Logo-white-01.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rakeeragh",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/duffy.transport/",
+  "phoneLink": "tel:04772711",
+  "companyName": "Duffy Transport",
+  "faviconPath": "https://duffytransport.ie/wp-content/uploads/2022/02/cropped-Favicon-01-1-32x32.png",
+  "phoneDisplay": "04772711",
+  "whatsappLink": "https://wa.me/04772711",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
