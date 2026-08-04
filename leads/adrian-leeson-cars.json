@@ -1,0 +1,16 @@
+{
+  "email": "adrian.leeson@yahoo.com",
+  "address": "34a Montgomery Road",
+  "website": "https://www.adrianleesoncars.co.uk/",
+  "facebook": "https://www.facebook.com/adrianleesoncars",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/183/433/431/175084294881f42ceac7.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=34a%20Montgomery%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890132288",
+  "companyName": "Adrian Leeson Cars",
+  "faviconPath": "https://www.adrianleesoncars.co.uk/favicon.ico",
+  "phoneDisplay": "+442890132288",
+  "whatsappLink": "https://wa.me/442890132288",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
