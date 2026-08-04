@@ -1,0 +1,11 @@
+{
+  "address": "26 Longlands Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=26%20Longlands%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447500888769",
+  "companyName": "Moon Lee Autos",
+  "phoneDisplay": "+447500888769",
+  "whatsappLink": "https://wa.me/447500888769",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
