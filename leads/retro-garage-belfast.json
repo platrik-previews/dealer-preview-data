@@ -1,0 +1,12 @@
+{
+  "email": "retro.garage.belfast@gmail.com",
+  "address": "67 Drumcullan Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=67%20Drumcullan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447590518089",
+  "companyName": "RETRO Garage Belfast",
+  "phoneDisplay": "+447590518089",
+  "whatsappLink": "https://wa.me/447590518089",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
