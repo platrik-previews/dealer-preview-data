@@ -1,0 +1,15 @@
+{
+  "address": "30a Jubilee Road",
+  "website": "http://www.jhairmotors.co.uk/",
+  "facebook": "https://www.facebook.com/JHairMotors",
+  "logoPath": "http://www.jhairmotors.co.uk/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=30a%20Jubilee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07799718998",
+  "companyName": "J Hair Motors",
+  "faviconPath": "http://www.jhairmotors.co.uk/favicon.ico",
+  "phoneDisplay": "077 9971 8998",
+  "whatsappLink": "https://wa.me/07799718998",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
