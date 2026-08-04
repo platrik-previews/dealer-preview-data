@@ -1,0 +1,12 @@
+{
+  "email": "pauldaggphone@gmail.com",
+  "address": "8 Copper Close",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=8%20Copper%20Close",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353876885950",
+  "companyName": "Paul Dagg Cars",
+  "phoneDisplay": "+353876885950",
+  "whatsappLink": "https://wa.me/353876885950",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
