@@ -1,0 +1,15 @@
+{
+  "email": "rhys@bmautoexchange.co.uk",
+  "address": "22 Crawfordsburn Road",
+  "website": "https://www.bmautoexchange.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/035/605/138/15995779881a9cb081a3.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=22%20Crawfordsburn%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891821343",
+  "companyName": "BM Auto Exchange",
+  "faviconPath": "https://www.bmautoexchange.co.uk/favicon.ico",
+  "phoneDisplay": "+442891821343",
+  "whatsappLink": "https://wa.me/442891821343",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
