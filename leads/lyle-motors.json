@@ -1,0 +1,15 @@
+{
+  "address": "2C Portaferry Rd",
+  "website": "https://www.nifrs.org/",
+  "facebook": "https://www.facebook.com/NIFRSOFFICIAL/",
+  "logoPath": "https://www.nifrs.org/wp-content/uploads/2021/02/NIFRS-Logo-Landscape-RGB-2020.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2C%20Portaferry%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02891813197",
+  "companyName": "Lyle Motors",
+  "faviconPath": "https://www.nifrs.org/wp-content/uploads/2021/01/cropped-android-chrome-512x512-1-32x32.png",
+  "phoneDisplay": "028 9181 3197",
+  "whatsappLink": "https://wa.me/02891813197",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
