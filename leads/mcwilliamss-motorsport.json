@@ -1,0 +1,14 @@
+{
+  "email": "support@mcwilliamss.com",
+  "address": "3 Alexander Road",
+  "website": "http://www.mcwilliamss.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=3%20Alexander%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+443300430840",
+  "companyName": "McWilliamss Motorsport",
+  "faviconPath": "http://www.mcwilliamss.com/favicon.ico",
+  "phoneDisplay": "+443300430840",
+  "whatsappLink": "https://wa.me/443300430840",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
