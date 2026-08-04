@@ -1,0 +1,17 @@
+{
+  "email": "info@invanlinings.com",
+  "address": "CORLURGAN",
+  "website": "https://invanlinings.ie/",
+  "facebook": "https://www.facebook.com/invanlinings",
+  "logoPath": "https://invanlinings.ie/wp-content/uploads/2024/06/NewLogoWeb-copy.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=CORLURGAN",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/in_van_linings/",
+  "phoneLink": "tel:00353429665691",
+  "companyName": "In Van Linings",
+  "faviconPath": "https://invanlinings.ie/wp-content/uploads/2024/09/favicon.png",
+  "phoneDisplay": "00353429665691",
+  "whatsappLink": "https://wa.me/00353429665691",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
