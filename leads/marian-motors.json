@@ -1,0 +1,17 @@
+{
+  "email": "motorsmarian@gmail.com",
+  "address": "041-9865000",
+  "website": "https://www.marianmotors.ie/",
+  "facebook": "https://www.facebook.com/marianmotorsltd",
+  "logoPath": "https://www.marianmotors.ie/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=041-9865000",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/marian_motorsltd/",
+  "phoneLink": "tel:0419865000",
+  "companyName": "Marian Motors",
+  "faviconPath": "https://www.marianmotors.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "041-9865000",
+  "whatsappLink": "https://wa.me/0419865000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
