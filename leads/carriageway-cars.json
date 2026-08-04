@@ -1,0 +1,11 @@
+{
+  "address": "Kempestones road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kempestones%20road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447810800337",
+  "companyName": "Carriageway cars",
+  "phoneDisplay": "+447810800337",
+  "whatsappLink": "https://wa.me/447810800337",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
