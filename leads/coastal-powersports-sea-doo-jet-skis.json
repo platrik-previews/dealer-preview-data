@@ -1,0 +1,14 @@
+{
+  "email": "sales@coastalpowersports.co.uk",
+  "address": "56 Ballyemon Road",
+  "website": "http://www.coastalpowersports.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=56%20Ballyemon%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447703522625",
+  "companyName": "Coastal Powersports Sea-Doo Jet Skis",
+  "faviconPath": "http://www.coastalpowersports.co.uk/favicon.ico",
+  "phoneDisplay": "+447703522625",
+  "whatsappLink": "https://wa.me/447703522625",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
