@@ -1,0 +1,14 @@
+{
+  "email": "info@templeautosalvage.com",
+  "address": "63 Ballylone Road",
+  "website": "http://www.templeautosalvage.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=63%20Ballylone%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442897563804",
+  "companyName": "Temple Auto Salvage",
+  "faviconPath": "http://www.templeautosalvage.com/favicon.ico",
+  "phoneDisplay": "+442897563804",
+  "whatsappLink": "https://wa.me/442897563804",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
