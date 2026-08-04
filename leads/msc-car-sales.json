@@ -1,0 +1,17 @@
+{
+  "email": "msc.autos@outlook.com",
+  "address": "2a Springfield Road",
+  "website": "https://www.msccarsales.com/",
+  "facebook": "https://www.facebook.com/Msc.car.sales",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/283/646/558/1750852552dc0e1a38a7.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2a%20Springfield%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/msc_carsales/#",
+  "phoneLink": "tel:+447955219948",
+  "companyName": "MSC Car Sales",
+  "faviconPath": "https://www.msccarsales.com/favicon.ico",
+  "phoneDisplay": "+447955219948",
+  "whatsappLink": "https://wa.me/447955219948",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
