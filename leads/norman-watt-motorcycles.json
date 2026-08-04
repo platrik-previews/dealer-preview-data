@@ -1,0 +1,16 @@
+{
+  "address": "151 Saintfield Road",
+  "website": "https://normanwattmotorcycles.com/",
+  "facebook": "https://www.facebook.com/normanwattmotorycles/",
+  "logoPath": "https://cdn.shopify.com/s/files/1/0542/8255/1471/files/norman-watt-motorcycles-logo-1503614572_1.jpg?v=1615923196&width=500",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=151%20Saintfield%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/watt_motorcycles/",
+  "phoneLink": "tel:02892638766",
+  "companyName": "Norman Watt Motorcycles",
+  "faviconPath": "https://cdn.shopify.com/s/files/1/0542/8255/1471/files/WattsFavico.jpg?crop=center&height=32&v=1673222921&width=32",
+  "phoneDisplay": "028 9263 8766",
+  "whatsappLink": "https://wa.me/02892638766",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
