@@ -1,0 +1,17 @@
+{
+  "email": "greg1.savage@peugeotmail.co.uk",
+  "address": "43 Portaferry Road",
+  "website": "https://www.regencycars.net/",
+  "facebook": "https://www.facebook.com/regencycarsards",
+  "logoPath": "https://www.regencycars.net/static/images/unity/default/fraternity/franchise-logos/Peugeot-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=43%20Portaferry%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/regencycarsards/",
+  "phoneLink": "tel:02891814581",
+  "companyName": "The Last Day Sale",
+  "faviconPath": "https://www.regencycars.net/media/images/184879314/p2255.regency-cars.png",
+  "phoneDisplay": "02891 814581",
+  "whatsappLink": "https://wa.me/02891814581",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
