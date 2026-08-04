@@ -1,0 +1,15 @@
+{
+  "email": "martincars@hotmail.co.uk",
+  "address": "24 Blackstaff Road",
+  "website": "https://www.martinkellycars.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/258/563/858/15742027042991af504c.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=24%20Blackstaff%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447519268499",
+  "companyName": "Martin Kelly Cars",
+  "faviconPath": "https://www.martinkellycars.co.uk/favicon.ico",
+  "phoneDisplay": "+447519268499",
+  "whatsappLink": "https://wa.me/447519268499",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
