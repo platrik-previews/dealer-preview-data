@@ -1,0 +1,16 @@
+{
+  "email": "info@andrewlindsayspecialistcars.com",
+  "address": "2 Vestry Road",
+  "website": "https://andrewlindsayspecialistcars.com/",
+  "facebook": "http://www.facebook.com/Andrew-lindsay-Specialist-Cars-300600909997427/",
+  "logoPath": "https://andrewlindsayspecialistcars.com/img/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Vestry%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447734877995",
+  "companyName": "Andrew Lindsay Specialist Cars",
+  "faviconPath": "https://andrewlindsayspecialistcars.com/favicon.png",
+  "phoneDisplay": "+447734877995",
+  "whatsappLink": "https://wa.me/447734877995",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
