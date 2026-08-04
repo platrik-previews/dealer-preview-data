@@ -1,0 +1,16 @@
+{
+  "email": "edgarmcclenaghan@aol.com",
+  "address": "38-40 Court Street",
+  "website": "https://www.edgarscarsales.co.uk/",
+  "facebook": "https://www.facebook.com/EdgarsCarSales-160330383999465/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/285/930/1750843569257045cb28.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=38-40%20Court%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891811018",
+  "companyName": "Edgars Car Sales",
+  "faviconPath": "https://www.edgarscarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+442891811018",
+  "whatsappLink": "https://wa.me/442891811018",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
