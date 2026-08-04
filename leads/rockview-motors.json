@@ -1,0 +1,11 @@
+{
+  "address": "351 Drumnakilly Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=351%20Drumnakilly%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442880761244",
+  "companyName": "Rockview Motors",
+  "phoneDisplay": "+442880761244",
+  "whatsappLink": "https://wa.me/442880761244",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
