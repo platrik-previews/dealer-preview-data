@@ -1,0 +1,13 @@
+{
+  "address": "18 Boucher Way",
+  "website": "http://www.agnewleasing.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Boucher%20Way",
+  "renderer": "dealership",
+  "phoneLink": "tel:02895685845",
+  "companyName": "Agnew Leasing",
+  "faviconPath": "http://www.agnewleasing.com/favicon.ico",
+  "phoneDisplay": "028 9568 5845",
+  "whatsappLink": "https://wa.me/02895685845",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
