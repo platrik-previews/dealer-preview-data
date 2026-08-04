@@ -1,0 +1,17 @@
+{
+  "email": "info@blackstonemotors.ie",
+  "address": "Inner Relief Road",
+  "website": "https://blackstonemotors.ie/",
+  "facebook": "https://www.facebook.com/blackstonemotors",
+  "logoPath": "https://blackstonemotors.ie/site/uploads/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Inner%20Relief%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/blackstone_motors_official/",
+  "phoneLink": "tel:+353429331111",
+  "companyName": "Blackstone Motors",
+  "faviconPath": "https://blackstonemotors.ie/site/themes/blackstonemotors.ie/images/favicons//site/themes/blackstonemotors.ie/images/favicon.ico",
+  "phoneDisplay": "+353429331111",
+  "whatsappLink": "https://wa.me/353429331111",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
