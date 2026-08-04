@@ -1,0 +1,16 @@
+{
+  "email": "office@towbarsni.co.uk",
+  "address": "6 Ballyoran Lane",
+  "website": "https://www.towbarsni.co.uk/",
+  "facebook": "https://www.facebook.com/TowbarsNI/",
+  "logoPath": "https://irp-cdn.multiscreensite.com/94fb76cc/dms3rep/multi/towbars-Logo-01.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=6%20Ballyoran%20Lane",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890482700",
+  "companyName": "Towbars N I",
+  "faviconPath": "https://irp-cdn.multiscreensite.com/94fb76cc/dms3rep/multi/GL-57px.png",
+  "phoneDisplay": "+442890482700",
+  "whatsappLink": "https://wa.me/442890482700",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
