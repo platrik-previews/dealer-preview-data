@@ -1,0 +1,15 @@
+{
+  "email": "ralcorn@btinternet.com",
+  "address": "57 Drumlester Road",
+  "website": "http://www.alcornrecovery.com/",
+  "logoPath": "http://www.alcornrecovery.com/uploads/1/0/9/2/10921122/1338304198.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=57%20Drumlester%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442880758451",
+  "companyName": "Alcorn Recovery",
+  "faviconPath": "http://www.alcornrecovery.com/favicon.ico",
+  "phoneDisplay": "+442880758451",
+  "whatsappLink": "https://wa.me/442880758451",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
