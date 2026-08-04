@@ -1,0 +1,15 @@
+{
+  "address": "Dundalk Retail Park, Inner Relief Road , Dundalk",
+  "website": "https://www.volkswagenvans.ie/en.html",
+  "facebook": "https://www.facebook.com/VolkswagenVanIE",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dundalk%20Retail%20Park,%20Inner%20Relief%20Road%20,%20Dundalk",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/volkswagenvanie/",
+  "phoneLink": "tel:+353429394499",
+  "companyName": "Volkswagen Commercial Vehicles Ireland",
+  "faviconPath": "https://www.volkswagenvans.ie/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/favicons/apple-touch-icon.png",
+  "phoneDisplay": "+353429394499",
+  "whatsappLink": "https://wa.me/353429394499",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
