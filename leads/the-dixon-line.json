@@ -1,0 +1,15 @@
+{
+  "address": "10 Prince Regent Road",
+  "website": "https://www.thedixonline.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=100063706863636&sk=reviews",
+  "logoPath": "https://www.thedixonline.co.uk/wp-content/uploads/Dixon_Line_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=10%20Prince%20Regent%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890704004",
+  "companyName": "The Dixon Line",
+  "faviconPath": "https://www.thedixonline.co.uk/wp-content/uploads/cropped-Dixon-logo-favicon-32x32.png",
+  "phoneDisplay": "02890704004",
+  "whatsappLink": "https://wa.me/02890704004",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
