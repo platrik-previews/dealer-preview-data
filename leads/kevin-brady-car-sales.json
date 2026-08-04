@@ -1,0 +1,17 @@
+{
+  "email": "example@gmail.com",
+  "address": "Robinstown",
+  "website": "https://www.kevinbradycarsales.com/",
+  "facebook": "https://www.facebook.com/p/Kevin-Brady-Car-Sales-100057381253154/",
+  "logoPath": "https://kevinbrady7coa.g5demo.ie/app/uploads/2026/02/kevin-brady-logo-blue-1024x683.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Robinstown",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/kevinbradycarsales/?hl=en",
+  "phoneLink": "tel:0469097710",
+  "companyName": "Kevin Brady Car Sales",
+  "faviconPath": "https://www.kevinbradycarsales.com/app/uploads/2026/02/cropped-favicoin-kevin-brady-32x32.png",
+  "phoneDisplay": "046-9097710",
+  "whatsappLink": "https://wa.me/0469097710",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
