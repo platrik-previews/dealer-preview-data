@@ -1,0 +1,14 @@
+{
+  "email": "lapismotors@gmail.com",
+  "address": "Butterly Shipping Premisses",
+  "website": "https://lapismotors.ie/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Butterly%20Shipping%20Premisses",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353830846509",
+  "companyName": "Lapis Motors",
+  "faviconPath": "https://lapismotors.ie/_assets/images/f22bdfe9eb95565bcfd772a343531ffa.png",
+  "phoneDisplay": "+353830846509",
+  "whatsappLink": "https://wa.me/353830846509",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
