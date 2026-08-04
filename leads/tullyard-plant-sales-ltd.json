@@ -1,0 +1,12 @@
+{
+  "email": "info@tullyardplantsales.com",
+  "address": "39 Castleblayney Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=39%20Castleblayney%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447384543342",
+  "companyName": "Tullyard Plant Sales Ltd.",
+  "phoneDisplay": "+447384543342",
+  "whatsappLink": "https://wa.me/447384543342",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
