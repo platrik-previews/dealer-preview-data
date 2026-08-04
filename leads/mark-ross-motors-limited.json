@@ -1,0 +1,16 @@
+{
+  "email": "sales@markrossmotors.co.uk",
+  "address": "82 Carryduff Road",
+  "website": "https://markrossmotors.co.uk/",
+  "facebook": "https://www.facebook.com/markrossmotors",
+  "logoPath": "https://markrossmotors.co.uk/wp-content/uploads/2022/11/Asset-3@8x-768x227.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=82%20Carryduff%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07824829416",
+  "companyName": "Mark Ross Motors limited",
+  "faviconPath": "https://markrossmotors.co.uk/favicon.ico",
+  "phoneDisplay": "07824829416",
+  "whatsappLink": "https://wa.me/07824829416",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
