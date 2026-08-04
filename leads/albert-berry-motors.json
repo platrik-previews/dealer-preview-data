@@ -1,0 +1,14 @@
+{
+  "email": "info@albertberrymotors.ie",
+  "address": "Ballybay Road",
+  "website": "https://www.retailers-ireland.seat/overview-dw.dealer.albert-berry-motors",
+  "facebook": "https://www.facebook.com/AlbertBerryMotors/",
+  "logoPath": "https://www.retailers-ireland.seat/content/dam/public-dealer-master/header/new-nav/logoseat-desktop-1440-header.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ballybay%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/seat_ireland/",
+  "companyName": "Albert Berry Motors",
+  "faviconPath": "https://www.retailers-ireland.seat/etc/designs/seat-dealers/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
