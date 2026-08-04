@@ -1,0 +1,14 @@
+{
+  "address": "12 Westbank Road",
+  "website": "http://www.echomoving.com/",
+  "logoPath": "http://www.echomoving.com/wp-content/uploads/2019/06/echo-logo-compressor.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%20Westbank%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:35316757909",
+  "companyName": "Irish Relocation Services",
+  "faviconPath": "http://www.echomoving.com/favicon.ico",
+  "phoneDisplay": "35316757909",
+  "whatsappLink": "https://wa.me/35316757909",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
