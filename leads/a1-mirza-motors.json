@@ -1,0 +1,17 @@
+{
+  "email": "a1mirzamotors@gmail.com",
+  "address": "DoneDeal.ie, Crescent Quay, Wexford, Wexford, Y35HE67, IE",
+  "website": "https://www.donedeal.ie/dealer/a1-mirza-motors",
+  "facebook": "https://www.facebook.com/DoneDealIreland",
+  "logoPath": "https://statics.donedeal.ie/dist-marketplace-frontend-donedeal/2026.8.4-160447.production/spassets/images/logos/donedeal-logo-white.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=DoneDeal.ie,%20Crescent%20Quay,%20Wexford,%20Wexford,%20Y35HE67,%20IE",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/donedealcars",
+  "phoneLink": "tel:+353894026226",
+  "companyName": "A1 Mirza Motors",
+  "faviconPath": "https://statics.donedeal.ie/dist-marketplace-frontend-donedeal/2026.8.4-160447.production/spassets/favicons/favicon.svg",
+  "phoneDisplay": "+353894026226",
+  "whatsappLink": "https://wa.me/353894026226",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
