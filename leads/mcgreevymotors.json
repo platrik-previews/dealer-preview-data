@@ -1,0 +1,16 @@
+{
+  "email": "mcgreevymotors@outlook.com",
+  "address": "1 Ballydugan Industrial Estate",
+  "website": "https://www.mcgreevymotors.co.uk/",
+  "facebook": "https://www.facebook.com/McGreevyMotorsDPK",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/155/609/220/1593084193199e37f14a.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Ballydugan%20Industrial%20Estate",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447746092672",
+  "companyName": "mcgreevymotors",
+  "faviconPath": "https://www.mcgreevymotors.co.uk/favicon.ico",
+  "phoneDisplay": "+447746092672",
+  "whatsappLink": "https://wa.me/447746092672",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
