@@ -1,0 +1,11 @@
+{
+  "address": "2 Jubilee Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Jubilee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02891818811",
+  "companyName": "Paul Crawford",
+  "phoneDisplay": "02891818811",
+  "whatsappLink": "https://wa.me/02891818811",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
