@@ -1,0 +1,17 @@
+{
+  "email": "adam@lavaauto.co.uk",
+  "address": "123a Front Road",
+  "website": "https://www.lavaauto.co.uk/",
+  "facebook": "https://www.facebook.com/lavaautoltd",
+  "logoPath": "https://cdn.prod.website-files.com/659daf11564197e48e66d0d6/659ef038b97c846f20d119dc_logo-lava.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=123a%20Front%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/lavaautoltd?igsh=YXlxMHZnbTEwMjN4",
+  "phoneLink": "tel:+447545089261",
+  "companyName": "Lava Auto Ltd",
+  "faviconPath": "https://cdn.prod.website-files.com/659daf11564197e48e66d0d6/65bbf04f85e6aa00d851ed11_Group%207%20Copy.jpg",
+  "phoneDisplay": "+447545089261",
+  "whatsappLink": "https://wa.me/447545089261",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
