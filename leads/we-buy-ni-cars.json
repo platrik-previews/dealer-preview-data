@@ -1,0 +1,16 @@
+{
+  "address": "3 Balloo Way",
+  "website": "https://webuynicars.com/",
+  "facebook": "https://www.facebook.com/WeBuyNICars/",
+  "logoPath": "https://webuynicars.com/wp-content/uploads/2019/04/we-buy-ni-cars.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=3%20Balloo%20Way",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/explore/locations/2013675715407491/we-buy-ni-cars/",
+  "phoneLink": "tel:02891477598",
+  "companyName": "We Buy NI Cars",
+  "faviconPath": "https://webuynicars.com/wp-content/uploads/2019/05/cropped-Apple-Touch-Icon-32x32.jpg",
+  "phoneDisplay": "02891477598",
+  "whatsappLink": "https://wa.me/02891477598",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
