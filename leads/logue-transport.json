@@ -1,0 +1,11 @@
+{
+  "address": "Edgewater Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Edgewater%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890994366",
+  "companyName": "Logue Transport",
+  "phoneDisplay": "02890994366",
+  "whatsappLink": "https://wa.me/02890994366",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
