@@ -1,0 +1,14 @@
+{
+  "email": "adrian@millarcars.co.uk",
+  "address": "2a Glenhoy Road",
+  "website": "http://millarcars.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2a%20Glenhoy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442885548896",
+  "companyName": "Millar Cars",
+  "faviconPath": "http://millarcars.co.uk/favicon.ico",
+  "phoneDisplay": "+442885548896",
+  "whatsappLink": "https://wa.me/442885548896",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
