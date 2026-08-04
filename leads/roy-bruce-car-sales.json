@@ -1,0 +1,15 @@
+{
+  "email": "roybrucecarsales@live.co.uk",
+  "address": "22 Balloo Drive",
+  "website": "https://www.roybrucecarsales.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/035/662/929/17508443808c9c46aef8.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=22%20Balloo%20Drive",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447860938113",
+  "companyName": "Roy Bruce Car Sales",
+  "faviconPath": "https://www.roybrucecarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+447860938113",
+  "whatsappLink": "https://wa.me/447860938113",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
