@@ -1,0 +1,14 @@
+{
+  "address": "136 Termon Road",
+  "website": "https://crsni.com/",
+  "logoPath": "https://crsni.com/wp-content/uploads/2025/02/CRS-Logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=136%20Termon%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442880760496",
+  "companyName": "CRS NI Ltd.",
+  "faviconPath": "https://crsni.com/wp-content/uploads/2025/02/cropped-favicon-32x32.png",
+  "phoneDisplay": "+442880760496",
+  "whatsappLink": "https://wa.me/442880760496",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
