@@ -1,0 +1,11 @@
+{
+  "address": "354 Comber Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=354%20Comber%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890826603",
+  "companyName": "Brian Donaldson Commercials",
+  "phoneDisplay": "02890826603",
+  "whatsappLink": "https://wa.me/02890826603",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
