@@ -1,0 +1,13 @@
+{
+  "address": "108-110 Grand Parade",
+  "website": "https://coatesmotorcycles.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=108-110%20Grand%20Parade",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890471321",
+  "companyName": "Ernie Coates Motorcycles",
+  "faviconPath": "https://coatesmotorcycles.com/favicon.ico",
+  "phoneDisplay": "+442890471321",
+  "whatsappLink": "https://wa.me/442890471321",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
