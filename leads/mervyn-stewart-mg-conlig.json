@@ -1,0 +1,11 @@
+{
+  "address": "5 Greenway",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Greenway",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891310707",
+  "companyName": "Mervyn Stewart MG Conlig",
+  "phoneDisplay": "+442891310707",
+  "whatsappLink": "https://wa.me/442891310707",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
