@@ -1,0 +1,15 @@
+{
+  "email": "timmonscarsales@gmail.com",
+  "address": "Fordstown",
+  "website": "https://timmonscarsales.ie/",
+  "logoPath": "https://timmonscarsales.ie/tsc-jumbo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fordstown",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353862616725",
+  "companyName": "Timmons Car Sales",
+  "faviconPath": "https://timmonscarsales.ie/favicon.ico",
+  "phoneDisplay": "+353862616725",
+  "whatsappLink": "https://wa.me/353862616725",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
