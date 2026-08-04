@@ -1,0 +1,16 @@
+{
+  "email": "tom@ianglasgowcarsales.co.uk",
+  "address": "4d Cotton Road",
+  "website": "http://www.ianglasgowcarsales.co.uk/",
+  "facebook": "https://www.facebook.com/pages/Ian-Glasgow-Car-Sales/198302236861361",
+  "logoPath": "http://www.ianglasgowcarsales.co.uk/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=4d%20Cotton%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891474177",
+  "companyName": "Ian Glasgow Car Sales",
+  "faviconPath": "http://www.ianglasgowcarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+442891474177",
+  "whatsappLink": "https://wa.me/442891474177",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
