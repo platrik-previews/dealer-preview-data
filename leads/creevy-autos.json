@@ -1,0 +1,14 @@
+{
+  "address": "210 Ballygowan Road",
+  "website": "http://www.creevyautosni.co.uk/",
+  "logoPath": "http://www.creevyautosni.co.uk/index_htm_files/2498.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=210%20Ballygowan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890448362",
+  "companyName": "Creevy Autos",
+  "faviconPath": "http://www.creevyautosni.co.uk/favicon.ico",
+  "phoneDisplay": "028 9044 8362",
+  "whatsappLink": "https://wa.me/02890448362",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
