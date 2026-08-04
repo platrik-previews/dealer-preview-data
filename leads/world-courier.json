@@ -1,0 +1,14 @@
+{
+  "address": "Duncrue Street",
+  "website": "https://www.worldcourier.com/locations?utm_source=Uberall&utm_medium=organic&utm_term=&utm_content=Content&utm_campaign=Uberall",
+  "logoPath": "https://www.worldcourier.com/-/media/assets/ab-new-brand-logos/cencora-world-courier-web.svg?h=60&w=250&la=en&hash=C446765409A48168702E79EAFCFA4B81",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Duncrue%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890753190",
+  "companyName": "World Courier",
+  "faviconPath": "https://www.worldcourier.com/-/media/assets/corporate/global/icons/cencora_favicon.png",
+  "phoneDisplay": "02890753190",
+  "whatsappLink": "https://wa.me/02890753190",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
