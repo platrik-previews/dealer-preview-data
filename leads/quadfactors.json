@@ -1,0 +1,17 @@
+{
+  "email": "info@quadfactors.com",
+  "address": "Unit e, Kells Business Park, Cavan Rd",
+  "website": "https://quadfactors.com/",
+  "facebook": "https://www.facebook.com/quadfactors",
+  "logoPath": "https://quadfactors.com/wp-content/uploads/2025/02/logo-simple-white-QUADFACTORS.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%20e,%20Kells%20Business%20Park,%20Cavan%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/quadfactors/?hl=en",
+  "phoneLink": "tel:0469010222",
+  "companyName": "Quadfactors",
+  "faviconPath": "https://quadfactors.com/favicon.ico",
+  "phoneDisplay": "046-90 10 222",
+  "whatsappLink": "https://wa.me/0469010222",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
