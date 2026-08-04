@@ -1,0 +1,17 @@
+{
+  "email": "sales@nvs.ie",
+  "address": "Coes Road,",
+  "website": "http://nvs.ie/",
+  "facebook": "https://www.facebook.com/profile.php?id=100054484704139#",
+  "logoPath": "https://nvs.ie/storage/images/NVS_ie%20-%20blue%20(signature).avif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Coes%20Road,",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/nvs.ie",
+  "phoneLink": "tel:+3530870901535",
+  "companyName": "National Vehicle Solutions",
+  "faviconPath": "http://nvs.ie/images/favicon.ico",
+  "phoneDisplay": "+353 (0) 87 090 1535",
+  "whatsappLink": "https://wa.me/3530870901535",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
