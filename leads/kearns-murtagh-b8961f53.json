@@ -1,0 +1,13 @@
+{
+  "address": "Dublin Rd",
+  "website": "https://dealerlocator.iveco.com/en-IE/find-a-dealer?dealerId=a7dabbf0-4e5a-e911-a832-000d3ab865ed",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dublin%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353429321245",
+  "companyName": "Kearns & Murtagh",
+  "faviconPath": "https://dealerlocator.iveco.com/favicon.ico",
+  "phoneDisplay": "+353429321245",
+  "whatsappLink": "https://wa.me/353429321245",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
