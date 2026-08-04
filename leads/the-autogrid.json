@@ -1,0 +1,15 @@
+{
+  "email": "garry@theautogrid.co.uk",
+  "address": "96 Carryduff Road",
+  "website": "https://www.theautogrid.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/678/987/17508439587181c3e80a.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=96%20Carryduff%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442892638408",
+  "companyName": "The AutoGrid",
+  "faviconPath": "https://www.theautogrid.co.uk/favicon.ico",
+  "phoneDisplay": "+442892638408",
+  "whatsappLink": "https://wa.me/442892638408",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
