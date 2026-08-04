@@ -1,0 +1,15 @@
+{
+  "email": "eric@ejtractors.co.uk",
+  "address": "82 Ballygowan Road",
+  "website": "https://ejtractors.co.uk/",
+  "logoPath": "https://ejtractors.co.uk/filestore/images/logos/ejtractors-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=82%20Ballygowan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442897528436",
+  "companyName": "E J Tractors",
+  "faviconPath": "https://ejtractors.co.uk/favicon.ico",
+  "phoneDisplay": "+44 28 9752 8436",
+  "whatsappLink": "https://wa.me/442897528436",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
