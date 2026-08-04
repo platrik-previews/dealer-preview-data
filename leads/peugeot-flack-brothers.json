@@ -1,0 +1,15 @@
+{
+  "email": "flackbrothersltd@gmail.com",
+  "address": "GLASLOUGH STREET, MONAGHAN, H18 NN99, ie",
+  "website": "https://www.flackbrotherspeugeot.ie/",
+  "logoPath": "https://www.flackbrotherspeugeot.ie/assets/peugeot/favicon.ico",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=GLASLOUGH%20STREET,%20MONAGHAN,%20H18%20NN99,%20ie",
+  "renderer": "dealership",
+  "phoneLink": "tel:04781504",
+  "companyName": "Peugeot Flack Brothers",
+  "faviconPath": "https://www.flackbrotherspeugeot.ie/assets/peugeot/apple-touch-icon.png",
+  "phoneDisplay": "047 81504",
+  "whatsappLink": "https://wa.me/04781504",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
