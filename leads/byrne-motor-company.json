@@ -1,0 +1,17 @@
+{
+  "email": "byrnemotorco@outlook.com",
+  "address": "087-1479999",
+  "website": "https://www.byrnemotorcompany.ie/",
+  "facebook": "https://www.facebook.com/profile.php?id=100067882894160",
+  "logoPath": "https://www.byrnemotorcompany.ie/images/header/logo-white.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=087-1479999",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/byrnemotorcompany",
+  "phoneLink": "tel:0871479999",
+  "companyName": "Byrne Motor Company",
+  "faviconPath": "https://www.byrnemotorcompany.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "087-1479999",
+  "whatsappLink": "https://wa.me/0871479999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
