@@ -1,0 +1,11 @@
+{
+  "address": "North Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=North%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353419802420",
+  "companyName": "Malones Drogheda-Toyota",
+  "phoneDisplay": "+353419802420",
+  "whatsappLink": "https://wa.me/353419802420",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
