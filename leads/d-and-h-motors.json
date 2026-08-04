@@ -1,0 +1,14 @@
+{
+  "address": "2-10 Duncrue Road",
+  "website": "https://www.dhmotors.co.uk/",
+  "logoPath": "https://www.dhmotors.co.uk/wp-content/uploads/2017/09/dark.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2-10%20Duncrue%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890745179",
+  "companyName": "D and H Motors",
+  "faviconPath": "https://www.dhmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+442890745179",
+  "whatsappLink": "https://wa.me/442890745179",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
