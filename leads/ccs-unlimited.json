@@ -1,0 +1,16 @@
+{
+  "email": "info@ccsunlimited.com",
+  "address": "1 Maudlin Street",
+  "website": "http://www.ccsunlimited.com/",
+  "facebook": "https://www.facebook.com/CCs-Unlimited-1049600795093457/",
+  "logoPath": "https://www.ccsunlimited.com/wp-content/uploads/2016/02/ccs_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Maudlin%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:0469241743",
+  "companyName": "CCs Unlimited",
+  "faviconPath": "http://www.ccsunlimited.com/favicon.ico",
+  "phoneDisplay": "046 924 1743",
+  "whatsappLink": "https://wa.me/0469241743",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
