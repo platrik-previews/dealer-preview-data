@@ -1,0 +1,14 @@
+{
+  "address": "48 York Street",
+  "website": "https://www.bici.co.uk/",
+  "logoPath": "https://www.bici.co.uk/assets/img/brands/logo/1.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=48%20York%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890248866",
+  "companyName": "Bici Motorcycles",
+  "faviconPath": "https://www.bici.co.uk/img/favicon.png",
+  "phoneDisplay": "02890248866",
+  "whatsappLink": "https://wa.me/02890248866",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
