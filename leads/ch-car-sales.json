@@ -1,0 +1,15 @@
+{
+  "email": "ch-carsales@hotmail.co.uk",
+  "address": "68 Balloo Road",
+  "website": "https://www.chcarsales.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/130/712/991/1750674966d988e9fb56.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=68%20Balloo%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447342692504",
+  "companyName": "CH Car Sales",
+  "faviconPath": "https://www.chcarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+447342692504",
+  "whatsappLink": "https://wa.me/447342692504",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
