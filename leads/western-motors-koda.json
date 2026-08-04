@@ -1,0 +1,17 @@
+{
+  "email": "east@westernmotors.ie",
+  "address": "Western Motors Ballybrit, Galway, Co. Galway H91 HH51",
+  "website": "https://www.westernmotors.ie/",
+  "facebook": "https://www.facebook.com/westernmotors",
+  "logoPath": "https://www.westernmotors.ie/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Western%20Motors%20Ballybrit,%20Galway,%20Co.%20Galway%20H91%20HH51",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/wmdrogheda/",
+  "phoneLink": "tel:091709970",
+  "companyName": "Western Motors Škoda",
+  "faviconPath": "https://www.westernmotors.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "091-709970",
+  "whatsappLink": "https://wa.me/091709970",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
