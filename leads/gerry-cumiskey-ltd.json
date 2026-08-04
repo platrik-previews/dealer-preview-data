@@ -1,0 +1,16 @@
+{
+  "email": "f@faisalman.com",
+  "address": "Dundalk Retail Park, 9 Francis Street",
+  "website": "https://www.volkswagen.ie/en.html",
+  "facebook": "https://www.facebook.com/VolkswagenIE",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dundalk%20Retail%20Park,%209%20Francis%20Street",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/volkswagenireland/",
+  "phoneLink": "tel:+353429394499",
+  "companyName": "Gerry Cumiskey Ltd",
+  "faviconPath": "https://www.volkswagen.ie/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/favicons/apple-touch-icon.png",
+  "phoneDisplay": "+353429394499",
+  "whatsappLink": "https://wa.me/353429394499",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
