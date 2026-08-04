@@ -1,0 +1,16 @@
+{
+  "email": "sales@lpccaravans.co.uk",
+  "address": "5b Balloo Way",
+  "website": "https://www.lpccaravans.co.uk/",
+  "facebook": "https://www.facebook.com/lpccaravans",
+  "logoPath": "https://www.lpccaravans.co.uk/images/general/lpccaravanslogo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5b%20Balloo%20Way",
+  "renderer": "dealership",
+  "phoneLink": "tel:02891465551",
+  "companyName": "LPC Caravans",
+  "faviconPath": "https://www.lpccaravans.co.uk/favicon.ico",
+  "phoneDisplay": "02891465551",
+  "whatsappLink": "https://wa.me/02891465551",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
