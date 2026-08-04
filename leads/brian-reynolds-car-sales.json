@@ -1,0 +1,15 @@
+{
+  "email": "alan@brianreynolds.ie",
+  "address": "--> East Coast Business Park, Donore Road, Drogheda Co. Louth",
+  "website": "https://www.brianreynolds.ie/",
+  "logoPath": "https://www.brianreynolds.ie/images/header/brcs-logo-black.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%20East%20Coast%20Business%20Park,%20Donore%20Road,%20Drogheda%20Co.%20Louth",
+  "renderer": "dealership",
+  "phoneLink": "tel:0419832877",
+  "companyName": "Brian Reynolds Car Sales",
+  "faviconPath": "https://www.brianreynolds.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "041-9832877",
+  "whatsappLink": "https://wa.me/0419832877",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
