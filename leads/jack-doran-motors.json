@@ -1,0 +1,15 @@
+{
+  "email": "theplatrik@gmail.com",
+  "address": "Unit 4 & 5, Donore Road Ind. Estate, Drogheda, Co. Louth, A92 AH05",
+  "website": "https://www.jackdoranmotors.ie/",
+  "logoPath": "https://www.jackdoranmotors.ie/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%204%20&%205,%20Donore%20Road%20Ind.%20Estate,%20Drogheda,%20Co.%20Louth,%20A92%20AH05",
+  "renderer": "dealership",
+  "phoneLink": "tel:0419845677",
+  "companyName": "Jack Doran Motors",
+  "faviconPath": "https://www.jackdoranmotors.ie/images/favicon.ico",
+  "phoneDisplay": "041-9845677",
+  "whatsappLink": "https://wa.me/0419845677",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
