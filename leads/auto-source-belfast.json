@@ -1,0 +1,15 @@
+{
+  "email": "sales@autosource-belfast.co.uk",
+  "address": "131 Shore Road",
+  "website": "https://www.autosource-belfast.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/047/559/335/1750688723012aa012d1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=131%20Shore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890365260",
+  "companyName": "Auto Source Belfast",
+  "faviconPath": "https://www.autosource-belfast.co.uk/favicon.ico",
+  "phoneDisplay": "+442890365260",
+  "whatsappLink": "https://wa.me/442890365260",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
