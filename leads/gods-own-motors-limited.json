@@ -1,0 +1,12 @@
+{
+  "email": "olusesi_tunji@yahoo.com",
+  "address": "21 Northwood Parade",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=21%20Northwood%20Parade",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447404243501",
+  "companyName": "Gods own motors limited",
+  "phoneDisplay": "+447404243501",
+  "whatsappLink": "https://wa.me/447404243501",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
