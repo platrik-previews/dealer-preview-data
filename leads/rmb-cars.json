@@ -1,0 +1,11 @@
+{
+  "address": "199 Mill Street",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=199%20Mill%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447729375135",
+  "companyName": "Rmb Cars",
+  "phoneDisplay": "+447729375135",
+  "whatsappLink": "https://wa.me/447729375135",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
