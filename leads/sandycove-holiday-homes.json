@@ -1,0 +1,16 @@
+{
+  "address": "211 Whitechurch Road",
+  "website": "https://sandycove.co.uk/",
+  "facebook": "https://www.facebook.com/CaravansNI",
+  "logoPath": "https://sandycove.co.uk/wp-content/themes/sandycove/assets/images/dist/logo-white.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=211%20Whitechurch%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/caravansni/",
+  "phoneLink": "tel:02842758200",
+  "companyName": "Sandycove Holiday Homes",
+  "faviconPath": "https://sandycove.co.uk/wp-content/uploads/2025/12/Favicon-100x100.png",
+  "phoneDisplay": "028 4275 8200;",
+  "whatsappLink": "https://wa.me/02842758200",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
