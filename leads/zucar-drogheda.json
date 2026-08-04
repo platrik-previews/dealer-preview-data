@@ -1,0 +1,16 @@
+{
+  "address": "Exit 9, M1, Donore Road",
+  "website": "https://www.zucar.ie/",
+  "facebook": "https://www.facebook.com/ZuCarIreland/",
+  "logoPath": "https://www.zucar.ie/sites/automotive/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Exit%209,%20M1,%20Donore%20Road",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/zucarireland",
+  "phoneLink": "tel:012551221",
+  "companyName": "ZuCar Drogheda",
+  "faviconPath": "https://www.zucar.ie/sites/automotive/images/favicon.ico",
+  "phoneDisplay": "012551221",
+  "whatsappLink": "https://wa.me/012551221",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
