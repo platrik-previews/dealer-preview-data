@@ -1,0 +1,14 @@
+{
+  "address": "29 Maydenhayes Lodge",
+  "website": "https://vrsmotors.ie/",
+  "logoPath": "https://vrsmotors.ie/cdn/shop/files/Logo-2.png?v=1752219212",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=29%20Maydenhayes%20Lodge",
+  "renderer": "dealership",
+  "phoneLink": "tel:0899507168",
+  "companyName": "VRS Motors",
+  "faviconPath": "https://vrsmotors.ie/favicon.ico",
+  "phoneDisplay": "089 950 7168",
+  "whatsappLink": "https://wa.me/0899507168",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
