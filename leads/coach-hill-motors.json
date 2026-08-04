@@ -1,0 +1,12 @@
+{
+  "email": "jmscarsales@gmail.com",
+  "address": "360 Belfast Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=360%20Belfast%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891853885",
+  "companyName": "Coach Hill Motors",
+  "phoneDisplay": "+442891853885",
+  "whatsappLink": "https://wa.me/442891853885",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
