@@ -1,0 +1,16 @@
+{
+  "email": "smautosalesltd@gmail.com",
+  "address": "1a Balloo Avenue",
+  "website": "https://www.smautosales.co.uk/",
+  "facebook": "https://www.facebook.com/smcarssales/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/297/212/737/1750671958a4be79cd4c.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1a%20Balloo%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447834167619",
+  "companyName": "SM Autosales",
+  "faviconPath": "https://www.smautosales.co.uk/favicon.ico",
+  "phoneDisplay": "+447834167619",
+  "whatsappLink": "https://wa.me/447834167619",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
