@@ -1,0 +1,17 @@
+{
+  "email": "info@boatcompany.com",
+  "address": "BJ Marine Ltd, Quay St",
+  "website": "https://www.bjmarine.net/",
+  "facebook": "https://www.facebook.com/BJMarineLtd#",
+  "logoPath": "https://www.bjmarine.net/images/BJ-Marine-logo1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=BJ%20Marine%20Ltd,%20Quay%20St",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/bj_marine/",
+  "phoneLink": "tel:01758612686",
+  "companyName": "BJ Marine Ltd",
+  "faviconPath": "https://www.bjmarine.net/favicon.png",
+  "phoneDisplay": "01758-612686",
+  "whatsappLink": "https://wa.me/01758612686",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
