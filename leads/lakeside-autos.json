@@ -1,0 +1,17 @@
+{
+  "email": "lakesidemail@aol.com",
+  "address": "2a Cadger Road",
+  "website": "https://www.lakesideautos.co.uk/",
+  "facebook": "https://www.facebook.com/LakesideAutos/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/037/210/505/1750688610697aa49191.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2a%20Cadger%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/lakeside_autos/?hl=en",
+  "phoneLink": "tel:+442890815082",
+  "companyName": "Lakeside Autos",
+  "faviconPath": "https://www.lakesideautos.co.uk/favicon.ico",
+  "phoneDisplay": "+442890815082",
+  "whatsappLink": "https://wa.me/442890815082",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
