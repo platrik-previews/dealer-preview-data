@@ -1,0 +1,16 @@
+{
+  "email": "info@jdtrailers.ie",
+  "address": "Dundalk, IE",
+  "website": "https://www.jdtrailers.ie/",
+  "facebook": "https://www.facebook.com/www.jdtrailers.ie/",
+  "logoPath": "https://static.wixstatic.com/media/9cb0ce_fb237a11ea4f42bcba363cd0725a7cae~mv2.jpeg/v1/fill/w_284,h_80,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9cb0ce_fb237a11ea4f42bcba363cd0725a7cae~mv2.jpeg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dundalk,%20IE",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353876603060",
+  "companyName": "J.D Trailers & Machinery LTD",
+  "faviconPath": "https://static.parastorage.com/client/pfavico.ico",
+  "phoneDisplay": "+353876603060",
+  "whatsappLink": "https://wa.me/353876603060",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
