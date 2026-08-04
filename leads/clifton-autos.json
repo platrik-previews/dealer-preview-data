@@ -1,0 +1,15 @@
+{
+  "email": "motorcyclesalesni@gmail.com",
+  "address": "18 Clifton Street",
+  "website": "https://www.motorcyclesni.co.uk/",
+  "logoPath": "https://www.motorcyclesni.co.uk/images/motorcyclesni-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=18%20Clifton%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890241436",
+  "companyName": "Clifton Autos",
+  "faviconPath": "https://www.motorcyclesni.co.uk/images/cropped-external-content.duckduckgo.com_-32x32.jpg",
+  "phoneDisplay": "+442890241436",
+  "whatsappLink": "https://wa.me/442890241436",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
