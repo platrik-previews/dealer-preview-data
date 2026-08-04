@@ -1,0 +1,16 @@
+{
+  "address": "2 Balloo Park, Bangor, County Down, Northern Ireland, BT19 7PP",
+  "website": "http://www.davysbikes.com/",
+  "facebook": "https://www.facebook.com/davysbikes/",
+  "logoPath": "http://www.davysbikes.com/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Balloo%20Park,%20Bangor,%20County%20Down,%20Northern%20Ireland,%20BT19%207PP",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/davysbikes/",
+  "phoneLink": "tel:02891470056",
+  "companyName": "Davy's Bikes Service Centre",
+  "faviconPath": "http://www.davysbikes.com/apple-touch-icon.png?v=1.1.3",
+  "phoneDisplay": "02891470056",
+  "whatsappLink": "https://wa.me/02891470056",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
