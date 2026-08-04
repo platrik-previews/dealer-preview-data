@@ -1,0 +1,17 @@
+{
+  "email": "n2autos@outlook.com",
+  "address": "73 Drumlester Road",
+  "website": "https://www.n2autos.co.uk/",
+  "facebook": "https://www.facebook.com/n2autosltd/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/310/291/921/1750852631aa5d63fa83.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=73%20Drumlester%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/n2_autos/",
+  "phoneLink": "tel:+447765367876",
+  "companyName": "N2 Autos Ltd",
+  "faviconPath": "https://www.n2autos.co.uk/favicon.ico",
+  "phoneDisplay": "+447765367876",
+  "whatsappLink": "https://wa.me/447765367876",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
