@@ -1,0 +1,14 @@
+{
+  "email": "david@toyotaman.co.uk",
+  "address": "36a Donaghadee Road",
+  "website": "http://www.toyotaman.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=36a%20Donaghadee%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442891812360",
+  "companyName": "Ardill & Patterson Ltd",
+  "faviconPath": "http://www.toyotaman.co.uk/favicon.ico",
+  "phoneDisplay": "+442891812360",
+  "whatsappLink": "https://wa.me/442891812360",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
