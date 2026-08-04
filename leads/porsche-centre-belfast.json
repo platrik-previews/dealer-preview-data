@@ -1,0 +1,17 @@
+{
+  "email": "info@porschebelfast.co.uk",
+  "address": "90 Sydenham Road",
+  "website": "https://dealer.porsche.com/gb/porschecentrebelfast/en-GB",
+  "facebook": "https://www.facebook.com/PorscheCentreBelfast",
+  "logoPath": "https://dealer.porsche.com/_vercel/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fporschedigic255-dwaasaa82-prod0237-46c0%2Fmedia%2FProject%2FDealerWebsitesHeadless%2FGreatBritain%2FPorscheCentreBelfast%2FModules%2Ffinder-teaser%2Fhome%2FFind-New-Car.png%3Fh%3D675%26iar%3D0%26w%3D900&w=350&q=100&href=https%3A%2F%2Fedge.sitecorecloud.io%2Fporschedigic255-dwaasaa82-prod0237-46c0%2Fmedia%2FProject%2FDealerWebsitesHeadless%2FGreatBritain%2FPorscheCentreBelfast%2FModules%2Ffinder-teaser%2Fhome%2FFind-New-Car.png%3Fh%3D675%26iar%3D0%26w%3D900",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=90%20Sydenham%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/porschecentrebelfast/",
+  "phoneLink": "tel:+442890389999",
+  "companyName": "Porsche Centre Belfast",
+  "faviconPath": "https://dealer.porsche.com/favicon.ico",
+  "phoneDisplay": "(+44) 28 9038 9999",
+  "whatsappLink": "https://wa.me/442890389999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
