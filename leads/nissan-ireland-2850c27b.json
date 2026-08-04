@@ -1,0 +1,11 @@
+{
+  "address": "Kells Road, Navan",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kells%20Road,%20Navan",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353469070676",
+  "companyName": "Nissan Ireland",
+  "phoneDisplay": "+353469070676",
+  "whatsappLink": "https://wa.me/353469070676",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
