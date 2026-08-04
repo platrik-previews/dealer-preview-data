@@ -1,0 +1,12 @@
+{
+  "email": "grantautomotive@outlook.com",
+  "address": "11 Livins Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11%20Livins%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447469723268",
+  "companyName": "Grant Automotive Ltd",
+  "phoneDisplay": "+447469723268",
+  "whatsappLink": "https://wa.me/447469723268",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
