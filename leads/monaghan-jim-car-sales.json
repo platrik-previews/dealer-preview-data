@@ -1,0 +1,11 @@
+{
+  "address": "61A Annacloy Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=61A%20Annacloy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02844831441",
+  "companyName": "Monaghan Jim Car Sales",
+  "phoneDisplay": "02844831441",
+  "whatsappLink": "https://wa.me/02844831441",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
