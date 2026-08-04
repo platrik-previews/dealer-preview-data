@@ -1,0 +1,14 @@
+{
+  "address": "Unit 20 New Road, Wennington, Rainham, RM13 9EB, GB",
+  "website": "https://watsonmotors.co.uk/",
+  "logoPath": "https://watsonmotors.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2020%20New%20Road,%20Wennington,%20Rainham,%20RM13%209EB,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:07544535315",
+  "companyName": "Watson Motors",
+  "faviconPath": "https://watsonmotors.co.uk/favicon.png",
+  "phoneDisplay": "07544 535315",
+  "whatsappLink": "https://wa.me/07544535315",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
