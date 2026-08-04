@@ -1,0 +1,17 @@
+{
+  "email": "contact@justtankers.com",
+  "address": "125 Connsbrook Avenue, Belfast, County Antrim, BT4 1JX, GB",
+  "website": "https://justtankers.com/",
+  "facebook": "https://www.facebook.com/Justtankers",
+  "logoPath": "https://justtankers.com/assets/logo2-5bd37ca3b7891ebda2195c80c08861713b78ffa1e31890acffe51dba8cf38b33.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=125%20Connsbrook%20Avenue,%20Belfast,%20County%20Antrim,%20BT4%201JX,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/just_tankers",
+  "phoneLink": "tel:+442890651234",
+  "companyName": "Just Tankers",
+  "faviconPath": "https://justtankers.com/assets/favicon/apple-touch-icon-40b9f15d3a0ddcdc35825770269144df6d20e6cbc0c8cceaf34d926e3d7bd676.png",
+  "phoneDisplay": "+442890651234",
+  "whatsappLink": "https://wa.me/442890651234",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
