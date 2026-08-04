@@ -1,0 +1,17 @@
+{
+  "email": "dermot@mcguiganmotors.com",
+  "address": "Muckno Street, Castleblayney, MN, IE",
+  "website": "https://www.mcguiganmotors.com/",
+  "facebook": "https://www.facebook.com/mcguiganmotors/",
+  "logoPath": "https://static.wixstatic.com/media/ccaa90_0becef725d164262815b31456222fbb5~mv2.jpg/v1/crop/x_74,y_352,w_802,h_267/fill/w_502,h_167,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%201.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Muckno%20Street,%20Castleblayney,%20MN,%20IE",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/dsjmcguiganmotors_/",
+  "phoneLink": "tel:+00353429740144",
+  "companyName": "DSJ McGuigan Motors",
+  "faviconPath": "https://static.parastorage.com/client/pfavico.ico",
+  "phoneDisplay": "+00353 429740144",
+  "whatsappLink": "https://wa.me/00353429740144",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
