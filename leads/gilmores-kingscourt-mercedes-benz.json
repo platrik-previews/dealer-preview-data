@@ -1,0 +1,17 @@
+{
+  "email": "example@gmail.com",
+  "address": "Shercock Road",
+  "website": "https://www.gilmores.ie/",
+  "facebook": "https://www.facebook.com/gilmores.kingscourtmercedesbenz/?fref=ts",
+  "logoPath": "https://www.gilmores.ie/app/uploads/2025/04/mercedes-logo-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shercock%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/gilmoresmercedesbenz/",
+  "phoneLink": "tel:0429667126",
+  "companyName": "Gilmores Kingscourt Mercedes-Benz",
+  "faviconPath": "https://www.gilmores.ie/app/uploads/2025/04/cropped-gilmores-favicon-32x32.png",
+  "phoneDisplay": "042-9667126",
+  "whatsappLink": "https://wa.me/0429667126",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
