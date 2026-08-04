@@ -1,0 +1,11 @@
+{
+  "address": "160 crevenagh road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=160%20crevenagh%20road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447932486561",
+  "companyName": "BOB KERR Motors",
+  "phoneDisplay": "+447932486561",
+  "whatsappLink": "https://wa.me/447932486561",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
