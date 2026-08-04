@@ -1,0 +1,14 @@
+{
+  "email": "sales@grosvenorautocentre.com",
+  "address": "16 Wellington Park",
+  "website": "https://grosvenorautocentre.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=16%20Wellington%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:02890660099",
+  "companyName": "Taxi Sales Belfast",
+  "faviconPath": "https://grosvenorautocentre.com/wp-content/uploads/2018/06/cropped-GROSVENOR-AUTOCENTRE-LOGO-1-1-32x32.webp",
+  "phoneDisplay": "02890660099",
+  "whatsappLink": "https://wa.me/02890660099",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
