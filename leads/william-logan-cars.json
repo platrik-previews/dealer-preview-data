@@ -1,0 +1,14 @@
+{
+  "address": "28 Hillhead Rd",
+  "website": "https://williamlogancars.co.uk/",
+  "logoPath": "https://williamlogancars.co.uk/cdn/shop/files/new2logo.png?v=1704324015&width=1450",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=28%20Hillhead%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+4402893352066",
+  "companyName": "William Logan Cars",
+  "faviconPath": "https://williamlogancars.co.uk/cdn/shop/files/wlc512521.png?crop=center&height=32&v=1704474217&width=32",
+  "phoneDisplay": "+44 028 9335 2066",
+  "whatsappLink": "https://wa.me/4402893352066",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
