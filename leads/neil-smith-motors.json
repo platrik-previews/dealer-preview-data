@@ -1,0 +1,12 @@
+{
+  "email": "neilsmithmotors@gmail.com",
+  "address": "Circular Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Circular%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353867774038",
+  "companyName": "Neil Smith Motors",
+  "phoneDisplay": "+353867774038",
+  "whatsappLink": "https://wa.me/353867774038",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
