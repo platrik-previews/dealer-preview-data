@@ -1,0 +1,15 @@
+{
+  "email": "stephen@meadowcars.co.uk",
+  "address": "1 Minorca Drive",
+  "website": "https://www.meadowcars.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/135/049/691/162514745218000ecb62.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Minorca%20Drive",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442893355255",
+  "companyName": "Meadow Cars",
+  "faviconPath": "https://www.meadowcars.co.uk/favicon.ico",
+  "phoneDisplay": "+442893355255",
+  "whatsappLink": "https://wa.me/442893355255",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
