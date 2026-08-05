@@ -1,0 +1,17 @@
+{
+  "email": "social@tcautos.co.uk",
+  "address": "52 Killyclogher Road",
+  "website": "https://www.tcautos.co.uk/",
+  "facebook": "https://www.facebook.com/tcautos",
+  "logoPath": "https://www.tcautos.co.uk/img/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=52%20Killyclogher%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/tcautos/?hl=en",
+  "phoneLink": "tel:02882243451",
+  "companyName": "TC Autos",
+  "faviconPath": "https://www.tcautos.co.uk/favicon.ico",
+  "phoneDisplay": "02882243451",
+  "whatsappLink": "https://wa.me/02882243451",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
