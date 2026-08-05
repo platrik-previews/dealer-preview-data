@@ -1,0 +1,11 @@
+{
+  "address": "246 Ecclesville Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=246%20Ecclesville%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447874745106",
+  "companyName": "Custom Shop",
+  "phoneDisplay": "+447874745106",
+  "whatsappLink": "https://wa.me/447874745106",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
