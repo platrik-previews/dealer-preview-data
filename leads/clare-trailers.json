@@ -1,0 +1,14 @@
+{
+  "address": "171 Ballycorr Road",
+  "website": "https://www.claretrailers.co.uk/",
+  "logoPath": "https://www.claretrailers.co.uk/wp-content/uploads/clare-trailers-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=171%20Ballycorr%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07798633613",
+  "companyName": "Clare Trailers",
+  "faviconPath": "https://www.claretrailers.co.uk/wp-content/uploads/cropped-Clare-Trailers-Ifor-favicon-32x32.png",
+  "phoneDisplay": "07798633613",
+  "whatsappLink": "https://wa.me/07798633613",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
