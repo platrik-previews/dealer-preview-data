@@ -1,0 +1,14 @@
+{
+  "address": "17-19 Upper Rd",
+  "website": "https://www.jbstirlingcars.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/446/559/15524761078199616e3a.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=17-19%20Upper%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447818290890",
+  "companyName": "J & B Stirling Cars",
+  "faviconPath": "https://www.jbstirlingcars.co.uk/favicon.ico",
+  "phoneDisplay": "+447818290890",
+  "whatsappLink": "https://wa.me/447818290890",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
