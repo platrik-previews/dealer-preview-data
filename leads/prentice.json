@@ -1,0 +1,14 @@
+{
+  "address": "54 Dromore Road",
+  "website": "https://dpbms.com/",
+  "logoPath": "https://dpbms.com/images/logo.png?v=",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=54%20Dromore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442882258282",
+  "companyName": "Prentice",
+  "faviconPath": "https://dpbms.com/images/favicon.png?v=",
+  "phoneDisplay": "+442882258282",
+  "whatsappLink": "https://wa.me/442882258282",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
