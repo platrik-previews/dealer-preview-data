@@ -1,0 +1,17 @@
+{
+  "email": "info@mccauleys.co.uk",
+  "address": "72 Gloverstown Road, Toomebridge, County Antrim, BT41 3RB, Northern Ireland",
+  "website": "https://mccauleys.co.uk/",
+  "facebook": "https://www.facebook.com/mccauleytrailersltd",
+  "logoPath": "https://www.mccauleys.co.uk/assets/general/McCauley-Logo-Colour.PNG",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=72%20Gloverstown%20Road,%20Toomebridge,%20County%20Antrim,%20BT41%203RB,%20Northern%20Ireland",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mccauleytrailers/",
+  "phoneLink": "tel:+442879659191",
+  "companyName": "McCauley Trailers Ltd",
+  "faviconPath": "https://mccauleys.co.uk/images/favicon.ico",
+  "phoneDisplay": "+442879659191",
+  "whatsappLink": "https://wa.me/442879659191",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
