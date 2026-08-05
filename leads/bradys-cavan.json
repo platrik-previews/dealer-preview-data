@@ -1,0 +1,17 @@
+{
+  "email": "info@bradyscavan.ie",
+  "address": "Dublin Rd",
+  "website": "https://www.bradyscavan.ie/en",
+  "facebook": "https://www.facebook.com/BradysCavan1/",
+  "logoPath": "https://www.bradyscavan.ie/assets/1/kia_logo_wide.png/renditions/ratio/original/width/992/height/441/kia_logo_wide.png?1232",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dublin%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/bradyscavan",
+  "phoneLink": "tel:0494355808",
+  "companyName": "Bradys Cavan",
+  "faviconPath": "https://www.bradyscavan.ie/favicon.ico",
+  "phoneDisplay": "0494355808",
+  "whatsappLink": "https://wa.me/0494355808",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
