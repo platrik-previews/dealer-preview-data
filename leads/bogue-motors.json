@@ -1,0 +1,15 @@
+{
+  "email": "boguemotors@btinternet.com",
+  "address": "174 Grogey Rd",
+  "website": "http://gboguemotors.co.uk/",
+  "logoPath": "http://gboguemotors.co.uk/wp-content/uploads/2018/07/Logo-e1532772827289.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=174%20Grogey%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02889531661",
+  "companyName": "Bogue Motors",
+  "faviconPath": "http://gboguemotors.co.uk/favicon.ico",
+  "phoneDisplay": "02889531661",
+  "whatsappLink": "https://wa.me/02889531661",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
