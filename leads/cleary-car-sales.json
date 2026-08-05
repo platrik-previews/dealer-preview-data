@@ -1,0 +1,15 @@
+{
+  "email": "sales@clearycarsales.com",
+  "address": "1 Tullybrick Road",
+  "website": "https://clearycarsales.com/",
+  "logoPath": "https://clearycarsales.com/wp-content/uploads/2024/11/clearycarsandcommercials-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Tullybrick%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447706673300",
+  "companyName": "Cleary Car Sales",
+  "faviconPath": "https://clearycarsales.com/wp-content/smush-webp/2024/10/cropped-cleary-favicon-32x32.png.webp",
+  "phoneDisplay": "+447706673300",
+  "whatsappLink": "https://wa.me/447706673300",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
