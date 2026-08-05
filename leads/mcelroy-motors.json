@@ -1,0 +1,12 @@
+{
+  "email": "mcelroydismantlers1@gmail.com",
+  "address": "65 Drumnakilly Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=65%20Drumnakilly%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447886597807",
+  "companyName": "McElroy Motors",
+  "phoneDisplay": "+447886597807",
+  "whatsappLink": "https://wa.me/447886597807",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
