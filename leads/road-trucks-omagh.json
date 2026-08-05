@@ -1,0 +1,16 @@
+{
+  "address": "Gortrush Industrial Estate, Great Northern Rd",
+  "website": "https://www.scania.com/uk/en/roadtrucks.html",
+  "facebook": "https://www.facebook.com/RoadTrucksLtd/",
+  "logoPath": "https://www.scania.com/content/dam/www/market/uk/dealers/roadtrucks/dealers/1-1-generic-scania-dealer.jpg.transform/Rend_1200X630/image.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gortrush%20Industrial%20Estate,%20Great%20Northern%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/scaniauk",
+  "phoneLink": "tel:0800800660",
+  "companyName": "Road Trucks Omagh",
+  "faviconPath": "https://www.scania.com/favicon.ico",
+  "phoneDisplay": "0800800660",
+  "whatsappLink": "https://wa.me/0800800660",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
