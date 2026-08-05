@@ -1,0 +1,14 @@
+{
+  "address": "T: +44 (0)28 9334 0510   F: +44 (0)28 9334 9339   E: traffic@gtstrading.co.uk",
+  "website": "https://gtstrading.co.uk/",
+  "logoPath": "https://gtstrading.co.uk/images/logo-new.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=T:%20+44%20(0)28%209334%200510%20%20%20F:%20+44%20(0)28%209334%209339%20%20%20E:%20traffic@gtstrading.co.uk",
+  "renderer": "dealership",
+  "phoneLink": "tel:02893340510",
+  "companyName": "G T S",
+  "faviconPath": "https://gtstrading.co.uk/favicon.ico",
+  "phoneDisplay": "02893340510",
+  "whatsappLink": "https://wa.me/02893340510",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
