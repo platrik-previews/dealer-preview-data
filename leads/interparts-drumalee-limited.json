@@ -1,0 +1,16 @@
+{
+  "address": "Dublin Road",
+  "website": "https://interparts.ie/",
+  "facebook": "https://www.facebook.com/interpartscavan",
+  "logoPath": "https://interparts.ie/cdn/shop/files/Interparts_Logo_754f2c85-dae8-4215-b6e7-286b5770aba8.png?v=1685369807&width=400",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dublin%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/interpartscavan/?hl=en",
+  "phoneLink": "tel:0494331777",
+  "companyName": "Interparts Drumalee Limited",
+  "faviconPath": "https://interparts.ie/cdn/shop/files/Artboard_3_Color_3_32x32.png?v=1693826681",
+  "phoneDisplay": "049-433 1777",
+  "whatsappLink": "https://wa.me/0494331777",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
