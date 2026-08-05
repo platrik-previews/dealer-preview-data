@@ -1,0 +1,15 @@
+{
+  "email": "sales@academycarsales.com",
+  "address": "046-9021129",
+  "website": "https://www.academycarsales.com/",
+  "logoPath": "https://www.academycarsales.com/images/header/logo.svg?v=1.001",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=046-9021129",
+  "renderer": "dealership",
+  "phoneLink": "tel:0469021129",
+  "companyName": "Academy Car Sales",
+  "faviconPath": "https://www.academycarsales.com/images/favicon.ico?v=1.00",
+  "phoneDisplay": "046-9021129",
+  "whatsappLink": "https://wa.me/0469021129",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
