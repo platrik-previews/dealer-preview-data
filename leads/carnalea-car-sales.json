@@ -1,0 +1,13 @@
+{
+  "address": "168 Corbally Road",
+  "website": "http://www.carnaleacarsales.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=168%20Corbally%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447927062078",
+  "companyName": "Carnalea Car Sales",
+  "faviconPath": "http://www.carnaleacarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+447927062078",
+  "whatsappLink": "https://wa.me/447927062078",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
