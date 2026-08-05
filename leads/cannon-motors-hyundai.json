@@ -1,0 +1,16 @@
+{
+  "email": "reception@cannonmotors.co.uk",
+  "address": "52-70 Belfast Road",
+  "website": "https://www.cannonmotors.co.uk/",
+  "facebook": "https://www.facebook.com/CannonMotorsHyundai",
+  "logoPath": "https://www.cannonmotors.co.uk/static/images/unity/default/fraternity/franchise-logos/hyundai-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=52-70%20Belfast%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02893351816",
+  "companyName": "Cannon Motors Hyundai",
+  "faviconPath": "https://www.cannonmotors.co.uk/media/images/172614982/p2255.cannon-motors-ltd.jpg",
+  "phoneDisplay": "028 93351816",
+  "whatsappLink": "https://wa.me/02893351816",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
