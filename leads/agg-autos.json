@@ -1,0 +1,15 @@
+{
+  "email": "sales@aggautos.com",
+  "address": "Gortrush Business Centre, 27 Gortrush Industrial Estate",
+  "website": "https://www.aggautos.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/268/945/275/165718677876bc872954.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gortrush%20Business%20Centre,%2027%20Gortrush%20Industrial%20Estate",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442882160496",
+  "companyName": "AGG autos",
+  "faviconPath": "https://www.aggautos.co.uk/favicon.ico",
+  "phoneDisplay": "+442882160496",
+  "whatsappLink": "https://wa.me/442882160496",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
