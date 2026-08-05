@@ -1,0 +1,16 @@
+{
+  "email": "info@tdevlincarsales.co.uk",
+  "address": "117 Staffordstown Road, Antrim, Northern Ireland, BT41 3LH",
+  "website": "http://www.tdevlincarsales.co.uk/",
+  "facebook": "https://www.facebook.com/TDevlin117",
+  "logoPath": "http://www.tdevlincarsales.co.uk/images/td-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=117%20Staffordstown%20Road,%20Antrim,%20Northern%20Ireland,%20BT41%203LH",
+  "renderer": "dealership",
+  "phoneLink": "tel:02894472537",
+  "companyName": "T Devlin Car Sales",
+  "faviconPath": "http://www.tdevlincarsales.co.uk/favicon/apple-touch-icon.png",
+  "phoneDisplay": "028 9447 2537",
+  "whatsappLink": "https://wa.me/02894472537",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
