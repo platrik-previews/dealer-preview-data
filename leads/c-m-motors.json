@@ -1,0 +1,13 @@
+{
+  "address": "64 Gortin Rd",
+  "website": "http://www.candmmotors.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=64%20Gortin%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02882252706",
+  "companyName": "C & M Motors",
+  "faviconPath": "http://www.candmmotors.com/favicon.ico",
+  "phoneDisplay": "028 8225 2706",
+  "whatsappLink": "https://wa.me/02882252706",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
