@@ -1,0 +1,17 @@
+{
+  "email": "andrew@topgearni.com",
+  "address": "53a Ballyronan Road, Magherafelt, BT45 6EW, United Kingdom",
+  "website": "https://www.topgearni.com/",
+  "facebook": "https://www.facebook.com/topgearni",
+  "logoPath": "https://www.topgearni.com/build/assets/img/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=53a%20Ballyronan%20Road,%20Magherafelt,%20BT45%206EW,%20United%20Kingdom",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/topgearni",
+  "phoneLink": "tel:02879633011",
+  "companyName": "Top Gear Ni",
+  "faviconPath": "https://www.topgearni.com/build/assets/img/favicon.png",
+  "phoneDisplay": "02879633011",
+  "whatsappLink": "https://wa.me/02879633011",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
