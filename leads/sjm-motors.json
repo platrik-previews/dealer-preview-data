@@ -1,0 +1,16 @@
+{
+  "email": "sjmmotors@hotmail.co.uk",
+  "address": "1 Rarone Road, Gortaclare, Omagh, Co Tyrone, BT79 0XR",
+  "website": "https://sjmmotors.co.uk/",
+  "facebook": "https://www.facebook.com/sjmmotorsni",
+  "logoPath": "https://sjmmotors.co.uk/wp-content/uploads/2023/05/SJMMotors_Trans.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Rarone%20Road,%20Gortaclare,%20Omagh,%20Co%20Tyrone,%20BT79%200XR",
+  "renderer": "dealership",
+  "phoneLink": "tel:07518542124",
+  "companyName": "SJM Motors",
+  "faviconPath": "https://sjmmotors.co.uk/wp-content/uploads/2020/12/cropped-icon-v-32x32.png",
+  "phoneDisplay": "07518542124",
+  "whatsappLink": "https://wa.me/07518542124",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
