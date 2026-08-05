@@ -1,0 +1,17 @@
+{
+  "email": "info@johnmulhollandmotors.com",
+  "address": "John Mulholland Motors Limited 211a Castle Rd Randalstown Co.Antrim BT41 2EB",
+  "website": "http://www.johnmulhollandmotors.com/",
+  "facebook": "https://www.facebook.com/JohnMulhollandMotorGroup/",
+  "logoPath": "http://www.johnmulhollandmotors.com/images/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=John%20Mulholland%20Motors%20Limited%20211a%20Castle%20Rd%20Randalstown%20Co.Antrim%20BT41%202EB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/johnmulhollandmotorsgroup/",
+  "phoneLink": "tel:02894473903",
+  "companyName": "John Mulholland Motors",
+  "faviconPath": "http://www.johnmulhollandmotors.com/images/favicons/apple-touch-icon.png",
+  "phoneDisplay": "02894473903",
+  "whatsappLink": "https://wa.me/02894473903",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
