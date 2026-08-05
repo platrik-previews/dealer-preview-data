@@ -1,0 +1,12 @@
+{
+  "email": "oakleaautosni@outlook.com",
+  "address": "48 Oaklea Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=48%20Oaklea%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447525628375",
+  "companyName": "Oaklea Autos NI",
+  "phoneDisplay": "+447525628375",
+  "whatsappLink": "https://wa.me/447525628375",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
