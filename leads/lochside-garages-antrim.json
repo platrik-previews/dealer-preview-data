@@ -1,0 +1,17 @@
+{
+  "email": "info@lochsidegarages.com",
+  "address": "Tempo Road, Enniskillen, Co. Fermanagh, BT74 6HR",
+  "website": "http://www.lochsidegarages.com/",
+  "facebook": "https://www.facebook.com/lochside.garages/",
+  "logoPath": "http://www.lochsidegarages.com/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tempo%20Road,%20Enniskillen,%20Co.%20Fermanagh,%20BT74%206HR",
+  "renderer": "dealership",
+  "instagram": "http://www.instagram.com/lochside_garages/",
+  "phoneLink": "tel:04866324366",
+  "companyName": "Lochside Garages Antrim",
+  "faviconPath": "http://www.lochsidegarages.com/apple-touch-icon.png",
+  "phoneDisplay": "04866324366",
+  "whatsappLink": "https://wa.me/04866324366",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
