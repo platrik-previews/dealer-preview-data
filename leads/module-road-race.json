@@ -1,0 +1,17 @@
+{
+  "email": "info@modulemoto.co.uk",
+  "address": "3 Windmill Court Greystone Road",
+  "website": "https://www.modulemoto.co.uk/",
+  "facebook": "https://www.facebook.com/modulemoto/",
+  "logoPath": "https://www.modulemoto.co.uk/user/categories/thumbnails/lr%20logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=3%20Windmill%20Court%20Greystone%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/module.roadandrace/",
+  "phoneLink": "tel:+442894469100",
+  "companyName": "Module Road & Race",
+  "faviconPath": "https://www.modulemoto.co.uk/favicon.ico",
+  "phoneDisplay": "+442894469100",
+  "whatsappLink": "https://wa.me/442894469100",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
