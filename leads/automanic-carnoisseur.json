@@ -1,0 +1,11 @@
+{
+  "address": "36a-D Woodburn Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=36a-D%20Woodburn%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02893449059",
+  "companyName": "Automanic Carnoisseur",
+  "phoneDisplay": "028 9344 9059",
+  "whatsappLink": "https://wa.me/02893449059",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
