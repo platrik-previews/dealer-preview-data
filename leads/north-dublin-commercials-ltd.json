@@ -1,0 +1,14 @@
+{
+  "address": "Knocknagin Road",
+  "website": "https://www.northdublincommercials.ie/",
+  "logoPath": "https://www.northdublincommercials.ie/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Knocknagin%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:018412875",
+  "companyName": "North Dublin Commercials Ltd",
+  "faviconPath": "https://www.northdublincommercials.ie/favicon.ico",
+  "phoneDisplay": "018412875",
+  "whatsappLink": "https://wa.me/018412875",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
