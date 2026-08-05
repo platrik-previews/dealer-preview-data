@@ -1,0 +1,17 @@
+{
+  "email": "sales@newgate.ie",
+  "address": "--> Newgate, Navan, Co. Meath",
+  "website": "https://www.newgate.ie/",
+  "facebook": "https://www.facebook.com/Newgate.Motor.Group",
+  "logoPath": "https://www.newgate.ie/images/header/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=-->%20Newgate,%20Navan,%20Co.%20Meath",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/newgatemotorgroup",
+  "phoneLink": "tel:0469027777",
+  "companyName": "Newgate Motor Group",
+  "faviconPath": "https://www.newgate.ie/images/favicon.ico?v=1.00",
+  "phoneDisplay": "046-9027777",
+  "whatsappLink": "https://wa.me/0469027777",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
