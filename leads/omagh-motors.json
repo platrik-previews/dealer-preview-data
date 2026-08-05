@@ -1,0 +1,17 @@
+{
+  "email": "info@omaghmotors.co.uk",
+  "address": "21 Gortrush Industrial Estate, Omagh, BT78 5EJ, GB",
+  "website": "https://www.omaghmotors.co.uk/",
+  "facebook": "https://www.facebook.com/omamotors/",
+  "logoPath": "https://www.omaghmotors.co.uk/media/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=21%20Gortrush%20Industrial%20Estate,%20Omagh,%20BT78%205EJ,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/omaghmotors123/?hl=en-gb",
+  "phoneLink": "tel:07710702216",
+  "companyName": "Omagh Motors",
+  "faviconPath": "https://www.omaghmotors.co.uk/favicon.png",
+  "phoneDisplay": "07710 702216",
+  "whatsappLink": "https://wa.me/07710702216",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
