@@ -1,0 +1,14 @@
+{
+  "address": "14 Ballylinney Rd",
+  "website": "https://www.cvspares.co.uk/",
+  "logoPath": "https://www.cvspares.co.uk/images/compu_page-images/cvslogo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=14%20Ballylinney%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02893324029",
+  "companyName": "Commercial Vehicle Spares",
+  "faviconPath": "https://www.cvspares.co.uk/favicon.ico",
+  "phoneDisplay": "028 9332 4029",
+  "whatsappLink": "https://wa.me/02893324029",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
