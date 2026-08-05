@@ -1,0 +1,15 @@
+{
+  "email": "paul@mrtrailers.ie",
+  "address": "Boyerstown",
+  "website": "http://www.mrtrailers.ie/",
+  "logoPath": "http://www.mrtrailers.ie/img/logos/mr-quality-trailers.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Boyerstown",
+  "renderer": "dealership",
+  "phoneLink": "tel:+353469023950",
+  "companyName": "MR Trailers",
+  "faviconPath": "http://www.mrtrailers.ie/img/icons/favicon.ico",
+  "phoneDisplay": "+353469023950",
+  "whatsappLink": "https://wa.me/353469023950",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
