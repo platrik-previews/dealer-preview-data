@@ -1,0 +1,15 @@
+{
+  "email": "pattersonsofmullantine@btinternet.com",
+  "address": "64 Mullantine Road",
+  "website": "https://www.pattersonsportadown.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/148/767/632/177098080719e10d315c.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=64%20Mullantine%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447860356727",
+  "companyName": "Pattersons Portadown",
+  "faviconPath": "https://www.pattersonsportadown.co.uk/favicon.ico",
+  "phoneDisplay": "+447860356727",
+  "whatsappLink": "https://wa.me/447860356727",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
