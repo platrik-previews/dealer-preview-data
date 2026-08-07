@@ -1,0 +1,11 @@
+{
+  "address": "Matford Business Park",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Matford%20Business%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392716777",
+  "companyName": "Kia UK",
+  "phoneDisplay": "+441392716777",
+  "whatsappLink": "https://wa.me/441392716777",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
