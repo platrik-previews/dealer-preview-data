@@ -1,0 +1,13 @@
+{
+  "address": "Manor Croft, Colebrooke",
+  "website": "https://cchaulage.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Manor%20Croft,%20Colebrooke",
+  "renderer": "dealership",
+  "phoneLink": "tel:0136384292",
+  "companyName": "C C Haulage",
+  "faviconPath": "https://cchaulage.com/favicon.ico",
+  "phoneDisplay": "0136384292",
+  "whatsappLink": "https://wa.me/0136384292",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
