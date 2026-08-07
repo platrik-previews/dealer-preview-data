@@ -1,0 +1,16 @@
+{
+  "email": "sales@torbaymotors.co.uk",
+  "address": "Kingsland Marldon Road",
+  "website": "https://torbaymotors.co.uk/",
+  "facebook": "https://facebook.com",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kingsland%20Marldon%20Road",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com",
+  "phoneLink": "tel:07780193129",
+  "companyName": "Torbay Motors",
+  "faviconPath": "https://torbaymotors.co.uk/wp-content/uploads/2025/09/cropped-cropped-icon-32x32.png",
+  "phoneDisplay": "07780193129",
+  "whatsappLink": "https://wa.me/07780193129",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
