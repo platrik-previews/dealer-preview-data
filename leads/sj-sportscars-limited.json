@@ -1,0 +1,15 @@
+{
+  "email": "steve@sjsportscars.com",
+  "address": "Lotus House, Marsh End",
+  "website": "https://www.sjsportscars.com/",
+  "logoPath": "https://www.sjsportscars.com/template/templates/global/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lotus%20House,%20Marsh%20End",
+  "renderer": "dealership",
+  "phoneLink": "tel:+4401363777790",
+  "companyName": "SJ Sportscars Limited",
+  "faviconPath": "https://www.sjsportscars.com/apple-icon-57x57.png",
+  "phoneDisplay": "+4401363777790",
+  "whatsappLink": "https://wa.me/4401363777790",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
