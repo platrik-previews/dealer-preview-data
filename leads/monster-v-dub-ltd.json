@@ -1,0 +1,15 @@
+{
+  "address": "Unit 25",
+  "website": "https://www.monstervdub.co.uk/",
+  "facebook": "https://www.facebook.com/sharer.php?u=https://www.monstervdub.co.uk/&t=Home",
+  "logoPath": "https://www.monstervdub.co.uk/wp-content/uploads/2022/08/MonDubsNew-Logo-300x189.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2025",
+  "renderer": "dealership",
+  "phoneLink": "tel:01884563693",
+  "companyName": "Monster v dub Ltd.",
+  "faviconPath": "https://www.monstervdub.co.uk/wp-content/uploads/2019/02/favicon.png",
+  "phoneDisplay": "01884563693",
+  "whatsappLink": "https://wa.me/01884563693",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
