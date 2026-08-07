@@ -1,0 +1,16 @@
+{
+  "address": "1-RV",
+  "website": "https://www.1-rv.co.uk/",
+  "facebook": "https://www.facebook.com/1rvcaravans/",
+  "logoPath": "https://www.1-rv.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1-RV",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/1rv_destination_trailers/?hl=en",
+  "phoneLink": "tel:07542909400",
+  "companyName": "1-rv",
+  "faviconPath": "https://www.1-rv.co.uk/favicon.png",
+  "phoneDisplay": "07542 909400",
+  "whatsappLink": "https://wa.me/07542909400",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
