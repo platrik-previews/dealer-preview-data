@@ -1,0 +1,12 @@
+{
+  "email": "newtonabbotmotorcycles@outlook.com",
+  "address": "87 Lemon Pl",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=87%20Lemon%20Pl",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441626352527",
+  "companyName": "Newton Abbot Motorcycles & Scooters",
+  "phoneDisplay": "+441626352527",
+  "whatsappLink": "https://wa.me/441626352527",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
