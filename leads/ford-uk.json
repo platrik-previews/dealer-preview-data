@@ -1,0 +1,14 @@
+{
+  "address": "133 Portadown Road",
+  "website": "https://www.ford.co.uk/",
+  "logoPath": "https://www.ford.co.uk/content/dam/guxeu/rhd/central/home/dse/column-cards/editorial-cv/ford-homepage-eu-CV_03-3x2-688x460-V710-front-view.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=133%20Portadown%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838840268",
+  "companyName": "Ford UK",
+  "faviconPath": "https://www.ford.co.uk/favicon.ico",
+  "phoneDisplay": "+442838840268",
+  "whatsappLink": "https://wa.me/442838840268",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
