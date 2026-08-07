@@ -1,15 +1,14 @@
 {
+  "email": "charles@exetersmallautomatics.co.uk",
+  "address": "61 Magdalen Road",
+  "website": "http://www.exetersmallautomatics.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=61%20Magdalen%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392444040",
   "companyName": "Exeter Small Automatics",
-  "website": "https://www.exetersmallautomatics.co.uk/",
-  "email": "enq@exetersmallautomatics.co.uk",
-  "address": "Address:",
-  "phoneDisplay": "01392444040",
-  "phoneLink": "tel:01392444040",
-  "whatsappLink": "",
-  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Exeter%20Small%20Automatics%20Address%3A",
-  "logoPath": "https://www.exetersmallautomatics.co.uk/wp-content/uploads/2017/09/esa-logo.png",
-  "faviconPath": "/favicon.svg",
-  "instagram": "",
-  "facebook": "",
-  "allowIndexing": false
+  "faviconPath": "http://www.exetersmallautomatics.co.uk/favicon.ico",
+  "phoneDisplay": "+441392444040",
+  "whatsappLink": "https://wa.me/441392444040",
+  "allowIndexing": false,
+  "schemaVersion": 1
 }
