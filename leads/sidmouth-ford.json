@@ -1,0 +1,8 @@
+{
+  "address": "Mill St",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Mill%20St",
+  "renderer": "dealership",
+  "companyName": "Sidmouth Ford",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
