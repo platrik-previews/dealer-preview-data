@@ -1,0 +1,15 @@
+{
+  "email": "boycecars@outlook.com",
+  "address": "Boyce Cars Ashburton Road Newton Abbot Devon TQ12 1RL",
+  "website": "https://www.boycecars.co.uk/",
+  "logoPath": "https://www.boycecars.co.uk/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Boyce%20Cars%20Ashburton%20Road%20Newton%20Abbot%20Devon%20TQ12%201RL",
+  "renderer": "dealership",
+  "phoneLink": "tel:07540572008",
+  "companyName": "Boyce Cars",
+  "faviconPath": "https://www.boycecars.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "07540572008",
+  "whatsappLink": "https://wa.me/07540572008",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
