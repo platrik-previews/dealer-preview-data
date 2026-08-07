@@ -1,0 +1,15 @@
+{
+  "email": "enquiries@ampereelectric.co.uk",
+  "address": "Matthews house, Shutterton Industrial Estate",
+  "website": "https://ampereelectric.co.uk/",
+  "logoPath": "https://ampereelectric.co.uk/wp-content/uploads/2020/12/cropped-Ampere-Logo-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Matthews%20house,%20Shutterton%20Industrial%20Estate",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447877950433",
+  "companyName": "Ampere Electric Bikes",
+  "faviconPath": "https://ampereelectric.co.uk/wp-content/uploads/2020/12/Ampere-Fav-100x100.png",
+  "phoneDisplay": "+447877950433",
+  "whatsappLink": "https://wa.me/447877950433",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
