@@ -1,0 +1,17 @@
+{
+  "email": "exetervw@group1auto.co.uk",
+  "address": "2 Matford Way, Exeter, EX2 8FN, GB",
+  "website": "https://www.group1auto.co.uk/dealerships/volkswagen/exeter/",
+  "facebook": "https://www.facebook.com/group1vw/",
+  "logoPath": "https://www.group1auto.co.uk/media/vsadqmgr/group1-logo-reversed.png?format=webp&v=1dba4894db25810",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%20Matford%20Way,%20Exeter,%20EX2%208FN,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/group1volkswagen/",
+  "phoneLink": "tel:01392338006",
+  "companyName": "Inchcape Volkswagen",
+  "faviconPath": "https://www.group1auto.co.uk/favicon_group%201.ico?v=14022022",
+  "phoneDisplay": "01392 338 006",
+  "whatsappLink": "https://wa.me/01392338006",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
