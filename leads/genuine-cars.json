@@ -1,0 +1,16 @@
+{
+  "email": "sales@genuinecars.co.uk",
+  "address": "Orchard Court, Chelston, Wellington, Somerset, TA219HY, GB",
+  "website": "https://www.genuinecars.co.uk/",
+  "facebook": "https://www.facebook.com/genuinecars.co.uk/",
+  "logoPath": "https://www.genuinecars.co.uk/admin/uploaded_photos/site_logo.png?nc=23",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Orchard%20Court,%20Chelston,%20Wellington,%20Somerset,%20TA219HY,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:07792883103",
+  "companyName": "Genuine Cars",
+  "faviconPath": "https://www.genuinecars.co.uk/favicon.ico?nc=07",
+  "phoneDisplay": "07792883103",
+  "whatsappLink": "https://wa.me/07792883103",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
