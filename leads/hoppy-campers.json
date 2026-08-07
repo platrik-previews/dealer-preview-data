@@ -1,0 +1,17 @@
+{
+  "email": "tom@hoppycampers.co.uk",
+  "address": "Hoppy Campers, Twelve oaks farm",
+  "website": "https://hoppycampers.co.uk/",
+  "facebook": "https://www.facebook.com/hoppycampers",
+  "logoPath": "https://hoppycampers.co.uk/wp-content/uploads/2023/03/website-logo-new.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hoppy%20Campers,%20Twelve%20oaks%20farm",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/hoppycampershq/",
+  "phoneLink": "tel:+447407157724",
+  "companyName": "Hoppy Campers",
+  "faviconPath": "https://hoppycampers.co.uk/wp-content/uploads/2023/04/favicon.png",
+  "phoneDisplay": "+447407157724",
+  "whatsappLink": "https://wa.me/447407157724",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
