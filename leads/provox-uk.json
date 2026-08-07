@@ -1,0 +1,15 @@
+{
+  "email": "sales@provoxuk.co.uk",
+  "address": "1 Grace Rd Central",
+  "website": "https://www.provoxuk.co.uk/",
+  "logoPath": "https://www.provoxuk.co.uk/web/image/website/1/logo/Provox%20UK?unique=4e05f02",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Grace%20Rd%20Central",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392796440",
+  "companyName": "Provox UK",
+  "faviconPath": "https://www.provoxuk.co.uk/web/image/website/1/favicon?unique=4e05f02",
+  "phoneDisplay": "+441392796440",
+  "whatsappLink": "https://wa.me/441392796440",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
