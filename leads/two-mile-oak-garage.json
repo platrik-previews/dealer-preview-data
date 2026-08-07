@@ -1,0 +1,12 @@
+{
+  "email": "tmogaragenewtonabbot@aol.com",
+  "address": "Totnes Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Totnes%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803813527",
+  "companyName": "Two Mile Oak Garage",
+  "phoneDisplay": "+441803813527",
+  "whatsappLink": "https://wa.me/441803813527",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
