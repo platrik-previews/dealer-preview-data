@@ -1,0 +1,17 @@
+{
+  "email": "help@cmsexeter.co.uk",
+  "address": "Pinhoe Trading Est, Venny Bridge",
+  "website": "https://cmsexeter.co.uk/",
+  "facebook": "https://www.facebook.com/CMSMotorcyclesDevon",
+  "logoPath": "https://cmsexeter.co.uk/cdn/shop/files/CMS_EXETER_LOGO.jpg?v=1720533312&width=300",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pinhoe%20Trading%20Est,%20Venny%20Bridge",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/cmsexeter/",
+  "phoneLink": "tel:01392467700",
+  "companyName": "CMS Motorcycles",
+  "faviconPath": "https://cmsexeter.co.uk/cdn/shop/files/CMS_FAVICON_32x32.jpg?v=1720454394",
+  "phoneDisplay": "01392467700",
+  "whatsappLink": "https://wa.me/01392467700",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
