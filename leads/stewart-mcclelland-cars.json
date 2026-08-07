@@ -1,0 +1,15 @@
+{
+  "email": "info@mcclellandcars.co.uk",
+  "address": "67a Coharra Road",
+  "website": "https://www.mcclellandcars.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/026/042/124/178214268531ed06efff.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=67a%20Coharra%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447762601111",
+  "companyName": "Stewart McClelland Cars",
+  "faviconPath": "https://www.mcclellandcars.co.uk/favicon.ico",
+  "phoneDisplay": "+447762601111",
+  "whatsappLink": "https://wa.me/447762601111",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
