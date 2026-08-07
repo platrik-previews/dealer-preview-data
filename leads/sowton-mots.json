@@ -1,0 +1,12 @@
+{
+  "email": "info@sowtonmots.com",
+  "website": "https://sowtonmots.com/",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392365511",
+  "companyName": "Sowton MOTs",
+  "faviconPath": "https://sowtonmots.com/favicon.ico",
+  "phoneDisplay": "+44 1392 365511",
+  "whatsappLink": "https://wa.me/441392365511",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
