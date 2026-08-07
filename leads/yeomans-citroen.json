@@ -1,0 +1,17 @@
+{
+  "email": "louis.readman@yeomans.co.uk",
+  "address": "11 Hennock Road, Exeter, Devon, EX2 8NP, [object Object]",
+  "website": "https://www.yeomans.co.uk/citroen",
+  "facebook": "https://facebook.com",
+  "logoPath": "https://www.autosynergy.co.uk/assets/logos/citroen.png?v=1",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11%20Hennock%20Road,%20Exeter,%20Devon,%20EX2%208NP,%20[object%20Object]",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com",
+  "phoneLink": "tel:01392431431",
+  "companyName": "Yeomans Citroen",
+  "faviconPath": "https://www.yeomans.co.uk/favicon-96x96.png?v=1",
+  "phoneDisplay": "01392431431",
+  "whatsappLink": "https://wa.me/01392431431",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
