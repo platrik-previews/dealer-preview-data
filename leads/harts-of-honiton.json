@@ -1,0 +1,16 @@
+{
+  "email": "sales@harts-renault.co.uk",
+  "address": "Northcote Hill",
+  "website": "https://www.hartsofhoniton.co.uk/",
+  "facebook": "https://www.facebook.com/hartsofhoniton",
+  "logoPath": "https://www.hartsofhoniton.co.uk/media/images/52914418/p214.renault-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Northcote%20Hill",
+  "renderer": "dealership",
+  "phoneLink": "tel:01404540920",
+  "companyName": "Harts of Honiton",
+  "faviconPath": "https://www.hartsofhoniton.co.uk/media/images/129445950/p2255.harts-of-honiton.png",
+  "phoneDisplay": "01404 540920",
+  "whatsappLink": "https://wa.me/01404540920",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
