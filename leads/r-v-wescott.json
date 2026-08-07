@@ -1,0 +1,14 @@
+{
+  "address": "Higher Woodford",
+  "website": "http://www.thehandyvan.co.uk/",
+  "logoPath": "https://cms.pm/uploads/thehandyvan.co.uk_--_36008846.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Higher%20Woodford",
+  "renderer": "dealership",
+  "phoneLink": "tel:07788450274",
+  "companyName": "R & V Wescott",
+  "faviconPath": "http://www.thehandyvan.co.uk/favicon.ico",
+  "phoneDisplay": "07788450274",
+  "whatsappLink": "https://wa.me/07788450274",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
