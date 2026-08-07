@@ -1,0 +1,11 @@
+{
+  "address": "43 York Crescent",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=43%20York%20Crescent",
+  "renderer": "dealership",
+  "phoneLink": "tel:07776200715",
+  "companyName": "Riviera Express",
+  "phoneDisplay": "07776200715",
+  "whatsappLink": "https://wa.me/07776200715",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
