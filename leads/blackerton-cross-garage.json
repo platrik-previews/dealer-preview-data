@@ -1,0 +1,13 @@
+{
+  "address": "East Anstey",
+  "website": "https://blackertoncrossgarage.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=East%20Anstey",
+  "renderer": "dealership",
+  "phoneLink": "tel:01398341405",
+  "companyName": "Blackerton Cross Garage",
+  "faviconPath": "https://blackertoncrossgarage.co.uk/wp-content/uploads/favicon20-150x150.png",
+  "phoneDisplay": "01398 341405",
+  "whatsappLink": "https://wa.me/01398341405",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
