@@ -1,0 +1,16 @@
+{
+  "email": "info@berrybrook.co.uk",
+  "address": "Dawlish Road, Exminster, Exeter, Devon EX6 8DN",
+  "website": "https://www.berrybrookmorgan.co.uk/",
+  "facebook": "https://www.facebook.com/berrybrookmorgan/",
+  "logoPath": "https://www.berrybrookmorgan.co.uk/wp-content/uploads/2026/01/logo-reversed-a.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dawlish%20Road,%20Exminster,%20Exeter,%20Devon%20EX6%208DN",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392833301",
+  "companyName": "Berrybrook Motors Ltd",
+  "faviconPath": "https://www.berrybrookmorgan.co.uk/wp-content/uploads/2026/02/Berrybrook-Fav-240x240.png",
+  "phoneDisplay": "+441392833301",
+  "whatsappLink": "https://wa.me/441392833301",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
