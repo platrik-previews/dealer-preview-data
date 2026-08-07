@@ -1,0 +1,15 @@
+{
+  "email": "parts@harrymooregroup.co.uk",
+  "address": "Exhibition Way",
+  "website": "http://harrymooreparts.co.uk/",
+  "logoPath": "http://www.freeindex.co.uk/fx/gad2011_txt2.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Exhibition%20Way",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392464646",
+  "companyName": "Harry Moore Commercial Vehicles & Engineering (HMG) - Isuzu & Iveco Trucks Exeter",
+  "faviconPath": "http://harrymooreparts.co.uk/favicon.ico",
+  "phoneDisplay": "+441392464646",
+  "whatsappLink": "https://wa.me/441392464646",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
