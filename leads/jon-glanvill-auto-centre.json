@@ -1,0 +1,14 @@
+{
+  "address": "Teignmouth Road, Torquay, TQ1 4TH, GB",
+  "website": "https://www.jonglanvillautocentre.co.uk/",
+  "logoPath": "https://www.jonglanvillautocentre.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Teignmouth%20Road,%20Torquay,%20TQ1%204TH,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803328881",
+  "companyName": "Jon Glanvill Auto Centre",
+  "faviconPath": "https://www.jonglanvillautocentre.co.uk/favicon.png",
+  "phoneDisplay": "01803 328881",
+  "whatsappLink": "https://wa.me/01803328881",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
