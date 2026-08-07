@@ -1,0 +1,15 @@
+{
+  "address": "Holmfield House",
+  "website": "http://www.marlinsportscars.co.uk/",
+  "facebook": "https://www.facebook.com/marlinsportscars",
+  "logoPath": "http://www.marlinsportscars.co.uk/images/header_logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Holmfield%20House",
+  "renderer": "dealership",
+  "phoneLink": "tel:01363773772",
+  "companyName": "Marlin Sports Cars",
+  "faviconPath": "http://www.marlinsportscars.co.uk/favicon.ico",
+  "phoneDisplay": "01363 773772",
+  "whatsappLink": "https://wa.me/01363773772",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
