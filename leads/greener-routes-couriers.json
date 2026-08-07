@@ -1,0 +1,13 @@
+{
+  "address": "The Cider Press, 5 Woodbeer Gardens",
+  "website": "http://www.greenerroutes.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Cider%20Press,%205%20Woodbeer%20Gardens",
+  "renderer": "dealership",
+  "phoneLink": "tel:08000476527",
+  "companyName": "Greener Routes Couriers",
+  "faviconPath": "http://www.greenerroutes.co.uk/favicon.ico",
+  "phoneDisplay": "08000476527",
+  "whatsappLink": "https://wa.me/08000476527",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
