@@ -1,0 +1,13 @@
+{
+  "address": "172 Exeter Road",
+  "website": "http://www.nexustrade.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=172%20Exeter%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441626354444",
+  "companyName": "Sapphire Automotive",
+  "faviconPath": "http://www.nexustrade.co.uk/favicon.ico",
+  "phoneDisplay": "+441626354444",
+  "whatsappLink": "https://wa.me/441626354444",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
