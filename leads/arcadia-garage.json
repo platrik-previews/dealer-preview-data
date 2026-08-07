@@ -1,0 +1,16 @@
+{
+  "email": "sales@arcadiagarageexmouth.co.uk",
+  "address": "The Parade, Exmouth, EX8 1RW, GB",
+  "website": "https://www.arcadiagarageexmouth.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=61558866840557",
+  "logoPath": "https://www.arcadiagarageexmouth.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Parade,%20Exmouth,%20EX8%201RW,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01395272258",
+  "companyName": "Arcadia Garage",
+  "faviconPath": "https://www.arcadiagarageexmouth.co.uk/favicon.png",
+  "phoneDisplay": "01395 272258",
+  "whatsappLink": "https://wa.me/01395272258",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
