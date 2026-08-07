@@ -1,0 +1,14 @@
+{
+  "address": "Crediton, ENG, GB",
+  "website": "https://www.courtneysgarage.com/",
+  "logoPath": "https://www.courtneysgarage.com/wp-content/uploads/2024/07/COURTNEYS-GARAGE.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Crediton,%20ENG,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:0136384223",
+  "companyName": "Church View Car Sales",
+  "faviconPath": "https://www.courtneysgarage.com/wp-content/uploads/2024/09/cropped-fav-icons-32x32.png",
+  "phoneDisplay": "0136384223",
+  "whatsappLink": "https://wa.me/0136384223",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
