@@ -1,0 +1,16 @@
+{
+  "address": "A38 Bristol Road, Highbridge, Somerset, TA9 4EX, GB",
+  "website": "https://highbridgecaravans.co.uk/",
+  "facebook": "http://www.facebook.com/HighbridgeCaravans",
+  "logoPath": "https://highbridgecaravans.co.uk/index/android-chrome-512x512.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=A38%20Bristol%20Road,%20Highbridge,%20Somerset,%20TA9%204EX,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/highbridgecaravancentre/",
+  "phoneLink": "tel:+441278782725",
+  "companyName": "Highbridge Caravan Centre (Devon Branch)",
+  "faviconPath": "https://highbridgecaravans.co.uk/index/android-chrome-192x192.png",
+  "phoneDisplay": "+441278782725",
+  "whatsappLink": "https://wa.me/441278782725",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
