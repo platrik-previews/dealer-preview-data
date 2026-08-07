@@ -1,0 +1,17 @@
+{
+  "email": "sales@davantbikes.com",
+  "address": "Broomhill Way",
+  "website": "https://www.davantbikes.com/",
+  "facebook": "https://www.facebook.com/davantbikestorquay/",
+  "logoPath": "https://www.davantbikes.com/wp-content/uploads/2021/09/davant-bikes-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Broomhill%20Way",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/davantbikes/",
+  "phoneLink": "tel:01803616164",
+  "companyName": "Davant Bikes",
+  "faviconPath": "https://www.davantbikes.com/wp-content/uploads/2021/08/favicon.png",
+  "phoneDisplay": "01803616164",
+  "whatsappLink": "https://wa.me/01803616164",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
