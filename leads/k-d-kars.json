@@ -1,0 +1,16 @@
+{
+  "email": "sales@kdkars.com",
+  "address": "1 Lurgan Road",
+  "website": "https://www.kdkars.com/",
+  "facebook": "https://www.facebook.com/kdkars",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/039/922/429/1750688171b7b9a6802a.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Lurgan%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838831234",
+  "companyName": "K D Kars",
+  "faviconPath": "https://www.kdkars.com/favicon.ico",
+  "phoneDisplay": "+442838831234",
+  "whatsappLink": "https://wa.me/442838831234",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
