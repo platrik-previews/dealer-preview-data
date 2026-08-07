@@ -1,0 +1,17 @@
+{
+  "email": "sales@bridgemotorcycles.com",
+  "address": "Alphin Brook Rd",
+  "website": "https://www.bridgemotorcycles.com/",
+  "facebook": "https://www.facebook.com/bridgeexeter/",
+  "logoPath": "https://www.bridgemotorcycles.com/images/dealer/main-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alphin%20Brook%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/bridge_motorcycles/",
+  "phoneLink": "tel:+4401392260200",
+  "companyName": "Bridge Motorcycles Ltd",
+  "faviconPath": "https://www.bridgemotorcycles.com/favicon.ico",
+  "phoneDisplay": "+4401392 260200",
+  "whatsappLink": "https://wa.me/4401392260200",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
