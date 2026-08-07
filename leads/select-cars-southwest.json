@@ -1,0 +1,15 @@
+{
+  "address": "London Road, Whimple, Exeter, EX5 2QB, GB",
+  "website": "https://www.selectcarssouthwest.co.uk/",
+  "facebook": "https://www.facebook.com/selectcarssouthwest",
+  "logoPath": "https://www.selectcarssouthwest.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=London%20Road,%20Whimple,%20Exeter,%20EX5%202QB,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:07498502218",
+  "companyName": "Select Cars Southwest",
+  "faviconPath": "https://www.selectcarssouthwest.co.uk/favicon.png",
+  "phoneDisplay": "07498 502218",
+  "whatsappLink": "https://wa.me/07498502218",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
