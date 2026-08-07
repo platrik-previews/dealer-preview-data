@@ -1,0 +1,15 @@
+{
+  "address": "85 Francis Street",
+  "website": "https://www.silverwoodmotors.co.uk/",
+  "facebook": "https://www.facebook.com/Silverwood-Motors-2186757778213780",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/275/790/035/17508440387fcfe07126.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=85%20Francis%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447979991050",
+  "companyName": "Silverwood Motors",
+  "faviconPath": "https://www.silverwoodmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+447979991050",
+  "whatsappLink": "https://wa.me/447979991050",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
