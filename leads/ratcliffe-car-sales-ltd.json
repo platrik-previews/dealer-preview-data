@@ -1,0 +1,15 @@
+{
+  "email": "sales@ratcliffecarsales.com",
+  "address": "1 Mahon Terrace",
+  "website": "https://www.ratcliffecarsales.com/",
+  "logoPath": "https://image.usedcarsni.com/user/000/141/465/035/1617711537a0e39b7ef6.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Mahon%20Terrace",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447970383323",
+  "companyName": "Ratcliffe Car Sales Ltd",
+  "faviconPath": "https://www.ratcliffecarsales.com/favicon.ico",
+  "phoneDisplay": "+447970383323",
+  "whatsappLink": "https://wa.me/447970383323",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
