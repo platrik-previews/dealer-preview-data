@@ -1,0 +1,16 @@
+{
+  "email": "sales@howardabraham.com",
+  "address": "Howard Abraham Motors, 65-93 Avenue Road, Lurgan, Craigavon, Co. Armagh, BT66 7BG",
+  "website": "https://www.howardabraham.com/",
+  "facebook": "https://www.facebook.com/HowardAbrahamMotors/",
+  "logoPath": "https://www.howardabraham.com/images/ha-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Howard%20Abraham%20Motors,%2065-93%20Avenue%20Road,%20Lurgan,%20Craigavon,%20Co.%20Armagh,%20BT66%207BG",
+  "renderer": "dealership",
+  "phoneLink": "tel:02838323275",
+  "companyName": "Howard Abraham",
+  "faviconPath": "https://www.howardabraham.com/favicon.ico?v=2",
+  "phoneDisplay": "028 3832 3275",
+  "whatsappLink": "https://wa.me/02838323275",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
