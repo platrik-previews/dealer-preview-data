@@ -1,0 +1,14 @@
+{
+  "address": "Unit 46, Greendale Business Park",
+  "website": "http://www.citywestcommercials.co.uk/",
+  "logoPath": "http://www.citywestcommercials.co.uk/images/holding-logo.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2046,%20Greendale%20Business%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392360555",
+  "companyName": "City West Commercials",
+  "faviconPath": "http://www.citywestcommercials.co.uk/favicon.ico",
+  "phoneDisplay": "+441392360555",
+  "whatsappLink": "https://wa.me/441392360555",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
