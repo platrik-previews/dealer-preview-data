@@ -1,0 +1,14 @@
+{
+  "address": "DG Autos London Road Rockbeare Exeter Devon EX5 2ED",
+  "website": "https://www.dgautos.net/",
+  "logoPath": "https://www.dgautos.net/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=DG%20Autos%20London%20Road%20Rockbeare%20Exeter%20Devon%20EX5%202ED",
+  "renderer": "dealership",
+  "phoneLink": "tel:01404822252",
+  "companyName": "D G Autos",
+  "faviconPath": "https://www.dgautos.net/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01404822252",
+  "whatsappLink": "https://wa.me/01404822252",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
