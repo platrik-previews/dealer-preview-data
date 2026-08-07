@@ -1,0 +1,11 @@
+{
+  "address": "35 Arnold Crescent",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=35%20Arnold%20Crescent",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447531313449",
+  "companyName": "S.w. motors",
+  "phoneDisplay": "+447531313449",
+  "whatsappLink": "https://wa.me/447531313449",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
