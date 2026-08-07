@@ -1,0 +1,15 @@
+{
+  "address": "Unit 19 Norman Court Budlake Road",
+  "website": "https://www.cpshipping.co.uk/",
+  "facebook": "https://www.facebook.com/CPShippingLtd/",
+  "logoPath": "https://www.cpshipping.co.uk/images/cpslogo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2019%20Norman%20Court%20Budlake%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392216022",
+  "companyName": "C P Shipping",
+  "faviconPath": "https://www.cpshipping.co.uk/favicons/apple-icon-57x57.png",
+  "phoneDisplay": "01392216022",
+  "whatsappLink": "https://wa.me/01392216022",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
