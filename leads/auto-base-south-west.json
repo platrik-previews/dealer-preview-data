@@ -1,0 +1,11 @@
+{
+  "address": "22 Castle Cottages, Ham",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=22%20Castle%20Cottages,%20Ham",
+  "renderer": "dealership",
+  "phoneLink": "tel:01823669807",
+  "companyName": "Auto Base South West",
+  "phoneDisplay": "01823669807",
+  "whatsappLink": "https://wa.me/01823669807",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
