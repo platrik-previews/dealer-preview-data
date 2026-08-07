@@ -1,0 +1,13 @@
+{
+  "address": "Marsh Barton Rd",
+  "website": "https://www.eurocarparks.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marsh%20Barton%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:02075633000",
+  "companyName": "Euro Car Parks",
+  "faviconPath": "https://www.eurocarparks.com/favicon.ico",
+  "phoneDisplay": "020 7563 3000",
+  "whatsappLink": "https://wa.me/02075633000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
