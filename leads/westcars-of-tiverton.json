@@ -1,0 +1,16 @@
+{
+  "email": "info@westcars-tiverton.com",
+  "address": "11 Blundells Road",
+  "website": "https://www.westcars-tiverton.com/",
+  "facebook": "https://en-gb.facebook.com/westcarsoftiverton/",
+  "logoPath": "https://www.westcars-tiverton.com/media/images/54049727/vauxhall-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11%20Blundells%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01884257143",
+  "companyName": "Westcars of Tiverton",
+  "faviconPath": "https://www.westcars-tiverton.com/media/images/199609195/p2255.westcars-of-tiverton.png",
+  "phoneDisplay": "01884 257143",
+  "whatsappLink": "https://wa.me/01884257143",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
