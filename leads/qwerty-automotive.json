@@ -1,0 +1,16 @@
+{
+  "email": "hello@qwerty.limited",
+  "address": "Unit 2 Brian Harris Haulage Yard, Pottery Road, Bovey Tracey, Newton Abbot, TQ13 9DS, GB",
+  "website": "https://www.qwerty-automotive.co.uk/",
+  "facebook": "https://www.facebook.com/qwerty.automotive/",
+  "logoPath": "https://www.qwerty-automotive.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202%20Brian%20Harris%20Haulage%20Yard,%20Pottery%20Road,%20Bovey%20Tracey,%20Newton%20Abbot,%20TQ13%209DS,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01626923548",
+  "companyName": "Qwerty Automotive",
+  "faviconPath": "https://www.qwerty-automotive.co.uk/favicon.png",
+  "phoneDisplay": "01626 923548",
+  "whatsappLink": "https://wa.me/01626923548",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
