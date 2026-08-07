@@ -1,0 +1,14 @@
+{
+  "address": "187 Lymington Rd Unit A",
+  "website": "https://www.sapphire-cars.co.uk/",
+  "logoPath": "https://www.sapphire-cars.co.uk/wp-content/uploads/2023/05/Sapphire-Cars-Torbay-2023.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=187%20Lymington%20Rd%20Unit%20A",
+  "renderer": "dealership",
+  "phoneLink": "tel:07456414963",
+  "companyName": "Sapphire Cars",
+  "faviconPath": "https://www.sapphire-cars.co.uk/wp-content/uploads/2023/09/cropped-Sapphire-Cars-Icon-32x32.png",
+  "phoneDisplay": "07456 414963",
+  "whatsappLink": "https://wa.me/07456414963",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
