@@ -1,0 +1,15 @@
+{
+  "email": "sales@diesels.co.uk",
+  "address": "10 Marsh Barton Road,, Exeter, Devon, EX2 8LW, GB",
+  "website": "https://www.diesels.co.uk/",
+  "logoPath": "https://dragon2000-multisite.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/741/2025/12/03101956/USP-icon-a-great-deal-v2.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=10%20Marsh%20Barton%20Road,,%20Exeter,%20Devon,%20EX2%208LW,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392206306",
+  "companyName": "Exeter Diesels",
+  "faviconPath": "https://cdn.web.dragon2000.net/wp-content/uploads/sites/741/2025/11/18163204/Exeter-Diesels-Favicon.png",
+  "phoneDisplay": "01392 206 306",
+  "whatsappLink": "https://wa.me/01392206306",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
