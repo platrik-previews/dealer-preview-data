@@ -1,0 +1,15 @@
+{
+  "address": "King Charles Bus Park, Old Newton Road",
+  "website": "https://delivery-partners.com/",
+  "facebook": "https://www.facebook.com/DeliveryPartners",
+  "logoPath": "https://delivery-partners.com/wp-content/uploads/2025/01/dp_logohorz-1.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=King%20Charles%20Bus%20Park,%20Old%20Newton%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01626834004",
+  "companyName": "Delivery Partners Ltd.",
+  "faviconPath": "https://delivery-partners.com/wp-content/uploads/2025/01/cropped-Screenshot-2025-01-23-at-07.36.46-32x32.png",
+  "phoneDisplay": "01626834004",
+  "whatsappLink": "https://wa.me/01626834004",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
