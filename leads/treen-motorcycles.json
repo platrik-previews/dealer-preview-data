@@ -1,0 +1,14 @@
+{
+  "email": "treenmotors@eclipse.co.uk",
+  "address": "Garage, Charlotte St",
+  "website": "http://treenmotorcycles.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Garage,%20Charlotte%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441363772283",
+  "companyName": "Treen Motorcycles",
+  "faviconPath": "http://treenmotorcycles.co.uk/favicon.ico",
+  "phoneDisplay": "+441363772283",
+  "whatsappLink": "https://wa.me/441363772283",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
