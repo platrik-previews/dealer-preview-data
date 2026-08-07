@@ -1,0 +1,13 @@
+{
+  "address": "Mockham Down Farm, Bratton Fleming",
+  "website": "https://mockhamcars.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Mockham%20Down%20Farm,%20Bratton%20Fleming",
+  "renderer": "dealership",
+  "phoneLink": "tel:01598710347",
+  "companyName": "Mockham Cars",
+  "faviconPath": "https://mockhamcars.co.uk/favicon.ico",
+  "phoneDisplay": "01598 710347",
+  "whatsappLink": "https://wa.me/01598710347",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
