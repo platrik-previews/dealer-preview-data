@@ -1,0 +1,11 @@
+{
+  "address": "1 Carter Avenue",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Carter%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441395263251",
+  "companyName": "Highland Cars",
+  "phoneDisplay": "+441395263251",
+  "whatsappLink": "https://wa.me/441395263251",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
