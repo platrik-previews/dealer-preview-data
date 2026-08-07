@@ -1,0 +1,17 @@
+{
+  "email": "contact@southwestalloys.com",
+  "address": "Unit 3 Grace Rd W, Marsh Barton, Exeter, EX2 8PU, GB",
+  "website": "https://www.southwestalloys.com/",
+  "facebook": "https://www.facebook.com/southwestalloys",
+  "logoPath": "https://southwestalloys.com/favicon.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%203%20Grace%20Rd%20W,%20Marsh%20Barton,%20Exeter,%20EX2%208PU,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/southwestalloys",
+  "phoneLink": "tel:01392759150",
+  "companyName": "South West Alloys",
+  "faviconPath": "https://www.southwestalloys.com/favicon-16x16.png",
+  "phoneDisplay": "01392 759150",
+  "whatsappLink": "https://wa.me/01392759150",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
