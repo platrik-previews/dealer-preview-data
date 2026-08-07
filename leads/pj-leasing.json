@@ -1,0 +1,14 @@
+{
+  "address": "11 Malvern Drive Altrincham, WA14 4NQ United Kingdom",
+  "website": "https://www.pjleasing.co.uk/",
+  "logoPath": "https://images.squarespace-cdn.com/content/v1/621bd2713ffd6c7083aa8d22/0904073e-0906-4ce8-b57d-d96857923e34/PJ-logo_final_B%26W.png?format=1500w",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=11%20Malvern%20Drive%20Altrincham,%20WA14%204NQ%20United%20Kingdom",
+  "renderer": "dealership",
+  "phoneLink": "tel:07768703677",
+  "companyName": "PJ Leasing",
+  "faviconPath": "https://images.squarespace-cdn.com/content/v1/621bd2713ffd6c7083aa8d22/0904073e-0906-4ce8-b57d-d96857923e34/favicon.ico?format=100w",
+  "phoneDisplay": "07768 703677",
+  "whatsappLink": "https://wa.me/07768703677",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
