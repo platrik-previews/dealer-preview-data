@@ -1,0 +1,17 @@
+{
+  "email": "ahoy@seawoodyachts.com",
+  "address": "2, Pilot Wharf",
+  "website": "https://seawoodyachts.com/",
+  "facebook": "https://www.facebook.com/SeawoodYachts/",
+  "logoPath": "https://seawoodyachts.com/wp-content/uploads/2022/12/admin-ajax2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2,%20Pilot%20Wharf",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/seawoodyachts/",
+  "phoneLink": "tel:+441395222262",
+  "companyName": "Seawood Yachts",
+  "faviconPath": "https://seawoodyachts.com/wp-content/uploads/2022/12/cropped-A12AA81B-5B3D-4E4B-8049-82F3AD550273-32x32.jpeg",
+  "phoneDisplay": "+441395222262",
+  "whatsappLink": "https://wa.me/441395222262",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
