@@ -1,0 +1,12 @@
+{
+  "email": "reception.extr@motofix-arc.co.uk",
+  "website": "https://motofix-arc.co.uk/contact-a-centre/exeter/",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392797479",
+  "companyName": "Motofix",
+  "faviconPath": "https://motofix-arc.co.uk/favicon.ico",
+  "phoneDisplay": "+44 1392 797479",
+  "whatsappLink": "https://wa.me/441392797479",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
