@@ -1,0 +1,11 @@
+{
+  "address": "9 Marsh Barton Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=9%20Marsh%20Barton%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441392437441",
+  "companyName": "Evans Halshaw Motors",
+  "phoneDisplay": "+441392437441",
+  "whatsappLink": "https://wa.me/441392437441",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
