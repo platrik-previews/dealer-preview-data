@@ -1,0 +1,16 @@
+{
+  "email": "sales@jrcars.biz",
+  "address": "39 Barley Farm Road",
+  "website": "https://www.jrcars.biz/",
+  "facebook": "https://www.facebook.com/jrcarsdevon/",
+  "logoPath": "https://i1.wp.com/www.jrcars.biz/wp-content/uploads/2021/08/jrcars.jpg?fit=250%2C111&ssl=1",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=39%20Barley%20Farm%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392432201",
+  "companyName": "J R Cars",
+  "faviconPath": "https://www.jrcars.biz/wp-content/uploads/fbrfg/apple-touch-icon.png",
+  "phoneDisplay": "01392432201",
+  "whatsappLink": "https://wa.me/01392432201",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
