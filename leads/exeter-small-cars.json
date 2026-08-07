@@ -1,0 +1,14 @@
+{
+  "email": "exetersmallcars@sky.com",
+  "address": "St Andrews Yard, Willeys Avenue",
+  "website": "http://www.exetersmallcars.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=St%20Andrews%20Yard,%20Willeys%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447974382416",
+  "companyName": "Exeter Small Cars",
+  "faviconPath": "http://www.exetersmallcars.co.uk/favicon.ico",
+  "phoneDisplay": "+447974382416",
+  "whatsappLink": "https://wa.me/447974382416",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
