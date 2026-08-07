@@ -1,0 +1,16 @@
+{
+  "email": "info@riverside-motors.net",
+  "address": "Exeter Rd",
+  "website": "https://www.riverside-motors.net/",
+  "facebook": "https://www.facebook.com/BCSRiversideMotors",
+  "logoPath": "https://www.riverside-motors.net/wp-content/uploads/2016/01/Riverside-Logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Exeter%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441404813016",
+  "companyName": "Riverside Motors",
+  "faviconPath": "https://riverside.agsignsandprint.co.uk/wp-content/uploads/2016/01/fav.png",
+  "phoneDisplay": "+441404813016",
+  "whatsappLink": "https://wa.me/441404813016",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
