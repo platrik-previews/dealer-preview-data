@@ -1,0 +1,14 @@
+{
+  "address": "58 Gestridge Road Kingsteignton Newton Abbot Devon TQ12 3HH",
+  "website": "https://www.ncstopcars.com/",
+  "logoPath": "https://www.ncstopcars.com/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=58%20Gestridge%20Road%20Kingsteignton%20Newton%20Abbot%20Devon%20TQ12%203HH",
+  "renderer": "dealership",
+  "phoneLink": "tel:01626353323",
+  "companyName": "Newton Car Sales",
+  "faviconPath": "https://www.ncstopcars.com/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01626353323",
+  "whatsappLink": "https://wa.me/01626353323",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
