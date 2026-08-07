@@ -1,0 +1,16 @@
+{
+  "address": "14 Marsh Barton Road",
+  "website": "https://www.hendy.co.uk/hendy-car-store/",
+  "facebook": "https://www.facebook.com/HendyGroup",
+  "logoPath": "https://media.hendy.co.uk/media/logos/hendy-car-and-van-store-logo-vertical.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=14%20Marsh%20Barton%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/hendygroup",
+  "phoneLink": "tel:+448450251206",
+  "companyName": "Hendy Car Supermarket",
+  "faviconPath": "https://media.hendy.co.uk/media/favicons/favicon.ico",
+  "phoneDisplay": "+448450251206",
+  "whatsappLink": "https://wa.me/448450251206",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
