@@ -1,0 +1,11 @@
+{
+  "email": "james@condorvehiclesales.co.uk",
+  "address": "Newton Abbot, ENG, GB",
+  "website": "http://www.condorvehiclesales.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Newton%20Abbot,%20ENG,%20GB",
+  "renderer": "dealership",
+  "companyName": "Condor Vehicle Sales Ltd",
+  "faviconPath": "http://www.condorvehiclesales.co.uk/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
