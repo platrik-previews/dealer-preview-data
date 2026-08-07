@@ -1,0 +1,16 @@
+{
+  "address": "Speedwell Online, Greenhill Way, Kingsteignton, Devon, TQ12 3SB, GB",
+  "website": "https://speedwellonline.co.uk/",
+  "facebook": "https://www.facebook.com/SpeedwellOnline/",
+  "logoPath": "https://speedwellonline.co.uk/images/sol-black.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Speedwell%20Online,%20Greenhill%20Way,%20Kingsteignton,%20Devon,%20TQ12%203SB,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/speedwellgroup",
+  "phoneLink": "tel:01626362630",
+  "companyName": "Speedwell Online",
+  "faviconPath": "https://speedwellonline.co.uk/apple-touch-icon.png",
+  "phoneDisplay": "01626 362630",
+  "whatsappLink": "https://wa.me/01626362630",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
