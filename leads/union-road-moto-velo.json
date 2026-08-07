@@ -1,0 +1,16 @@
+{
+  "email": "info@unionroadmotovelo.com",
+  "address": "1 Union Road",
+  "website": "https://www.unionroadmotovelo.com/",
+  "facebook": "https://www.facebook.com/Union-Road-Moto-Velo-1269415259815667/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Union%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/Union_Road_Moto_Velo/",
+  "phoneLink": "tel:441363777299",
+  "companyName": "Union Road Moto-Velo",
+  "faviconPath": "https://www.unionroadmotovelo.com/favicon.ico",
+  "phoneDisplay": "441363777299",
+  "whatsappLink": "https://wa.me/441363777299",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
