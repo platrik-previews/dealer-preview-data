@@ -1,0 +1,11 @@
+{
+  "address": "1 East Street",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20East%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:01364654006",
+  "companyName": "Richard Copus Estates With Woods",
+  "phoneDisplay": "01364654006",
+  "whatsappLink": "https://wa.me/01364654006",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
