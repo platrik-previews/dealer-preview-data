@@ -1,0 +1,15 @@
+{
+  "address": "Pottery Road",
+  "website": "https://southwestmicrocampers.co.uk/",
+  "facebook": "https://www.facebook.com/Southwestmicrocampervans",
+  "logoPath": "https://southwestmicrocampers.co.uk/wp-content/uploads/2021/02/sw-micro-campers-logo-final.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pottery%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07887860841",
+  "companyName": "Southwest Micro Campers Ltd.",
+  "faviconPath": "https://southwestmicrocampers.co.uk/wp-content/uploads/2021/08/cropped-sw-micro-campers-logo-finalfav-32x32.jpg",
+  "phoneDisplay": "07887860841",
+  "whatsappLink": "https://wa.me/07887860841",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
