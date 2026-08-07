@@ -1,0 +1,16 @@
+{
+  "email": "enquiries@masonsmarine.co.uk",
+  "address": "The Boat Shed, Michael Browning Way",
+  "website": "https://www.masonsmarine.co.uk/",
+  "facebook": "https://www.facebook.com/marketplace/search/?query=masons_marine&locale=en_GB",
+  "logoPath": "https://www.masonsmarine.co.uk/wp-content/uploads/2023/02/MM-Logo-1-1-1024x291.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Boat%20Shed,%20Michael%20Browning%20Way",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392216420",
+  "companyName": "Masons Marine Ltd",
+  "faviconPath": "https://www.masonsmarine.co.uk/wp-content/uploads/2022/02/MM-Favicon-100x100.png",
+  "phoneDisplay": "01392216420",
+  "whatsappLink": "https://wa.me/01392216420",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
