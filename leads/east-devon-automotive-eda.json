@@ -1,0 +1,17 @@
+{
+  "email": "hellofrom@eastdevonautomotive.co.uk",
+  "address": "Sidmouth, England, EX10 0PE, GB",
+  "website": "https://www.eastdevonautomotive.co.uk/",
+  "facebook": "https://www.facebook.com/EastDevonAutomotive",
+  "logoPath": "https://static.wixstatic.com/media/73a539_40ce7a32d6554fb7a269e344dfe3224f~mv2.jpg/v1/fill/w_457,h_244,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/made-in-devon-trading-standards-approved-logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sidmouth,%20England,%20EX10%200PE,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/eastdevonautomotive_edev",
+  "phoneLink": "tel:01392982069",
+  "companyName": "East Devon Automotive - EDA",
+  "faviconPath": "https://static.wixstatic.com/media/73a539_f7e32d59bac54997a96546961568dc3b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/73a539_f7e32d59bac54997a96546961568dc3b%7Emv2.png",
+  "phoneDisplay": "01392 982069",
+  "whatsappLink": "https://wa.me/01392982069",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
