@@ -1,0 +1,11 @@
+{
+  "address": "Central Garage",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Central%20Garage",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447527411650",
+  "companyName": "South West ATV and Off Road",
+  "phoneDisplay": "+447527411650",
+  "whatsappLink": "https://wa.me/447527411650",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
