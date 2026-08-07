@@ -1,0 +1,17 @@
+{
+  "email": "sales@wheel-power.co.uk",
+  "address": "Unit 2, Magdalene Rd",
+  "website": "https://wheel-power.co.uk/",
+  "facebook": "https://www.facebook.com/WheelPowerTorquay",
+  "logoPath": "https://wheel-power.co.uk/wp-content/uploads/2021/03/Wheel_Power_Logo-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202,%20Magdalene%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/wheelpoweruk/?hl=en",
+  "phoneLink": "tel:+441803293139",
+  "companyName": "Wheel Power",
+  "faviconPath": "https://wheel-power.co.uk/favicon.ico",
+  "phoneDisplay": "+441803293139",
+  "whatsappLink": "https://wa.me/441803293139",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
