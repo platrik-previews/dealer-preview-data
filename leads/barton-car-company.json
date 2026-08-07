@@ -1,0 +1,16 @@
+{
+  "email": "bartoncc88@aol.com",
+  "address": "Withycombe Village Rd",
+  "website": "https://www.bartoncarcompany.com/",
+  "facebook": "https://www.facebook.com/bartoncarco/",
+  "logoPath": "https://www.bartoncarcompany.com/images/mediacache/img-5883_maxh-1024_maxw-1024.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Withycombe%20Village%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01395274090",
+  "companyName": "Barton Car Company",
+  "faviconPath": "https://www.bartoncarcompany.com/favicon-32x32.png",
+  "phoneDisplay": "01395274090",
+  "whatsappLink": "https://wa.me/01395274090",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
