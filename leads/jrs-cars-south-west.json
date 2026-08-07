@@ -1,0 +1,15 @@
+{
+  "email": "jrslogisticsltd@gmail.com",
+  "address": "Registered Office Address:",
+  "website": "https://www.jrscars.co.uk/",
+  "logoPath": "https://www.jrscars.co.uk/media/logo-aa.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Registered%20Office%20Address:",
+  "renderer": "dealership",
+  "phoneLink": "tel:01404519590",
+  "companyName": "JRS Cars South West",
+  "faviconPath": "https://www.jrscars.co.uk/favicon.png",
+  "phoneDisplay": "01404 519590",
+  "whatsappLink": "https://wa.me/01404519590",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
