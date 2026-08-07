@@ -1,0 +1,15 @@
+{
+  "address": "Flightway, Dunkeswell Business Park Unit 28",
+  "website": "https://www.admiraltrailers.co.uk/",
+  "facebook": "https://www.facebook.com/AdmiralTrailers/",
+  "logoPath": "https://www.admiraltrailers.co.uk/images/boat-trailers.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Flightway,%20Dunkeswell%20Business%20Park%20Unit%2028",
+  "renderer": "dealership",
+  "phoneLink": "tel:01404597513",
+  "companyName": "Admiral Trailers",
+  "faviconPath": "https://www.admiraltrailers.co.uk/favicon-32x32.png",
+  "phoneDisplay": "01404597513",
+  "whatsappLink": "https://wa.me/01404597513",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
