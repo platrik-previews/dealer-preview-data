@@ -1,0 +1,15 @@
+{
+  "email": "sales.digital@edenmotorgroup.com",
+  "address": "35 London Road Old Basing, Basingstoke, RG24 7JD",
+  "website": "https://www.mazda.co.uk/dealer/eden-mazda/home/",
+  "logoPath": "https://media-assets.mazda.eu/image/upload/q_auto,f_auto,w_768/mazdauk/globalassets/dealers/all-dealers/launch-event/launcheventimagejpg.jpg?rnd=4a26d8",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=35%20London%20Road%20Old%20Basing,%20Basingstoke,%20RG24%207JD",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441256355221",
+  "companyName": "Eden Mazda Exeter",
+  "faviconPath": "https://www.mazda.co.uk/favicon-48x48.png",
+  "phoneDisplay": "+44 1256 355221",
+  "whatsappLink": "https://wa.me/441256355221",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
