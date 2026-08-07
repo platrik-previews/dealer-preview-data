@@ -1,0 +1,13 @@
+{
+  "address": "15 Trusham Rd",
+  "website": "https://app.foursquare.com/login?continue=%2Fv%2Fbristol-street-motors-van-centre-exeter%2F5c5dcbc63af988002c86298e",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Trusham%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392422882",
+  "companyName": "Bristol Street Motors, Exeter Van Centre",
+  "faviconPath": "https://app.foursquare.com/favicon.ico",
+  "phoneDisplay": "01392 422882",
+  "whatsappLink": "https://wa.me/01392422882",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
