@@ -1,0 +1,16 @@
+{
+  "email": "mgs6-homepage-desktop_2@2x-scaled.jpg",
+  "address": "Westpark Business Park",
+  "website": "https://wellingtonmg.co.uk/",
+  "facebook": "https://facebook.com/wellingtonmg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Westpark%20Business%20Park",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/wellingtonmotors.mg",
+  "phoneLink": "tel:01823795888",
+  "companyName": "Wellington Motors MG",
+  "faviconPath": "https://wellingtonmg.co.uk/wp-content/uploads/2025/08/cropped-MG_Social-32x32.jpg",
+  "phoneDisplay": "01823795888",
+  "whatsappLink": "https://wa.me/01823795888",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
