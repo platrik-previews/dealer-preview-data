@@ -1,0 +1,15 @@
+{
+  "email": "user@domain.com",
+  "address": "Woodland Rd",
+  "website": "https://www.rivierajapaneseimports.co.uk/",
+  "logoPath": "https://images.squarespace-cdn.com/content/v1/663d45ba7124c978056a0927/f3314621-301f-43a6-856e-0d554d070f35/20210520_172355.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Woodland%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447413685916",
+  "companyName": "Riviera Japanese Imports Ltd",
+  "faviconPath": "https://images.squarespace-cdn.com/content/v1/663d45ba7124c978056a0927/a323e3c6-6bf7-4fc6-b05b-24595863023c/favicon.ico?format=100w",
+  "phoneDisplay": "+447413685916",
+  "whatsappLink": "https://wa.me/447413685916",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
