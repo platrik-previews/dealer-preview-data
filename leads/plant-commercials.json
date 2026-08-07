@@ -1,0 +1,14 @@
+{
+  "email": "sales@plantandcommercials.co.uk",
+  "address": "Finnimore Trading Estate",
+  "website": "http://plantandcommercials.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Finnimore%20Trading%20Estate",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441404600062",
+  "companyName": "Plant & Commercials",
+  "faviconPath": "http://plantandcommercials.co.uk/favicon.ico",
+  "phoneDisplay": "+441404600062",
+  "whatsappLink": "https://wa.me/441404600062",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
