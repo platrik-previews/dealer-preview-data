@@ -1,0 +1,16 @@
+{
+  "email": "sales@hmcarsalesltd.co.uk",
+  "address": "Sales: Five Bridges, Cullompton, EX15 1QP, GB",
+  "website": "https://www.hmcarsalesltd.co.uk/",
+  "facebook": "https://www.facebook.com/HMCarSalesLtd/",
+  "logoPath": "https://www.hmcarsalesltd.co.uk/media/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sales:%20Five%20Bridges,%20Cullompton,%20EX15%201QP,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01884259191",
+  "companyName": "HM Car Sales Ltd",
+  "faviconPath": "https://www.hmcarsalesltd.co.uk/favicon.png",
+  "phoneDisplay": "01884 259191",
+  "whatsappLink": "https://wa.me/01884259191",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
