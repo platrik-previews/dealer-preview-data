@@ -1,0 +1,13 @@
+{
+  "address": "50 Cowick Street",
+  "website": "https://abgmarineltd.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=50%20Cowick%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447459208807",
+  "companyName": "Revill Boats Ltd",
+  "faviconPath": "https://abgmarineltd.com/favicon.ico",
+  "phoneDisplay": "+447459208807",
+  "whatsappLink": "https://wa.me/447459208807",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
