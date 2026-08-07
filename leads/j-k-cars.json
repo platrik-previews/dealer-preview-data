@@ -1,0 +1,13 @@
+{
+  "address": "Sidmouth Rd",
+  "website": "http://www.jkcars.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sidmouth%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01395232241",
+  "companyName": "J K Cars",
+  "faviconPath": "http://www.jkcars.co.uk/favicon.ico",
+  "phoneDisplay": "01395 232241",
+  "whatsappLink": "https://wa.me/01395232241",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
