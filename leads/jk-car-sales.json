@@ -1,0 +1,16 @@
+{
+  "email": "info@jk-cars.co.uk",
+  "address": "Central Garage, School Street, Sidford",
+  "website": "https://www.jk-cars.co.uk/",
+  "facebook": "https://www.facebook.com/JK-Car-Sales-100626285706125",
+  "logoPath": "https://www.jk-cars.co.uk/images/mediacache/img-2_maxh-1024_maxw-1024.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Central%20Garage,%20School%20Street,%20Sidford",
+  "renderer": "dealership",
+  "phoneLink": "tel:07527411650",
+  "companyName": "JK Car Sales",
+  "faviconPath": "https://www.jk-cars.co.uk/favicon-32x32.png",
+  "phoneDisplay": "07527411650",
+  "whatsappLink": "https://wa.me/07527411650",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
