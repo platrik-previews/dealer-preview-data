@@ -1,0 +1,14 @@
+{
+  "address": "Whitehorse Motors",
+  "website": "https://www.whitehorsemotors.co.uk/",
+  "logoPath": "https://www.whitehorsemotors.co.uk/dragon2000.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Whitehorse%20Motors",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392811581",
+  "companyName": "Gerald Dinnis",
+  "faviconPath": "https://www.whitehorsemotors.co.uk/favicon.ico",
+  "phoneDisplay": "01392 811581",
+  "whatsappLink": "https://wa.me/01392811581",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
