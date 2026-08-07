@@ -1,0 +1,16 @@
+{
+  "email": "info@gtmotors.co.uk",
+  "address": "112 Ashburton Road",
+  "website": "https://gtmotors.co.uk/",
+  "facebook": "https://www.facebook.com/GTMotorsNewtonAbbot/",
+  "logoPath": "https://gtmotors.co.uk/wp-content/uploads/2020/11/GT_MOTORS_LOGO_270_65.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=112%20Ashburton%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01626361259",
+  "companyName": "GT Motors",
+  "faviconPath": "https://gtmotors.co.uk/favicon.ico",
+  "phoneDisplay": "01626361259",
+  "whatsappLink": "https://wa.me/01626361259",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
