@@ -1,0 +1,16 @@
+{
+  "address": "14 Silverton Road",
+  "website": "https://www.evanshalshaw.com/car-store/",
+  "facebook": "https://www.facebook.com/",
+  "logoPath": "https://www.evanshalshaw.com/-/media/evanshalshaw/header-logos/evans-halshaw-logo.svg?rev=039e3c59e6d64ccfbf17d94a44c62d66&la=en&h=72&w=400&hash=097F80C6004DEE3BFBBA08892021DDA8",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=14%20Silverton%20Road",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/evanshalshaw/",
+  "phoneLink": "tel:01623727635",
+  "companyName": "Evans Halshaw",
+  "faviconPath": "https://www.evanshalshaw.com/assets/favicon/evanshalshaw/apple-touch-icon.png?ver=3.3",
+  "phoneDisplay": "01623727635",
+  "whatsappLink": "https://wa.me/01623727635",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
