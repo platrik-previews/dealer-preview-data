@@ -1,0 +1,14 @@
+{
+  "address": "Budlake Road, Paladin House",
+  "website": "https://money4yourmotors.com/",
+  "logoPath": "https://money4yourmotors.com/assets/android-chrome-192x192.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Budlake%20Road,%20Paladin%20House",
+  "renderer": "dealership",
+  "phoneLink": "tel:03303415730",
+  "companyName": "We Want Any Car",
+  "faviconPath": "https://money4yourmotors.com/assets/favicon-96x96.png",
+  "phoneDisplay": "03303415730",
+  "whatsappLink": "https://wa.me/03303415730",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
