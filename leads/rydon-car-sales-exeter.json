@@ -1,0 +1,14 @@
+{
+  "address": "Sidmouth Road Clyst St Mary Exeter Devon EX5 1BB",
+  "website": "https://www.rydon-cars.co.uk/",
+  "logoPath": "https://www.rydon-cars.co.uk/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sidmouth%20Road%20Clyst%20St%20Mary%20Exeter%20Devon%20EX5%201BB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392877336",
+  "companyName": "Rydon Car Sales Exeter",
+  "faviconPath": "https://www.rydon-cars.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01392877336",
+  "whatsappLink": "https://wa.me/01392877336",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
