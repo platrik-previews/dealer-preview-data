@@ -1,0 +1,14 @@
+{
+  "email": "autlomagicltd@yahoo.com",
+  "address": "146 Obins St",
+  "website": "https://automagicltd.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=146%20Obins%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:07789758758",
+  "companyName": "Automagic Ltd",
+  "faviconPath": "https://automagicltd.co.uk/favicon.ico",
+  "phoneDisplay": "07789758758",
+  "whatsappLink": "https://wa.me/07789758758",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
