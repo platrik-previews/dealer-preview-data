@@ -1,0 +1,11 @@
+{
+  "address": "Homers La",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Homers%20La",
+  "renderer": "dealership",
+  "phoneLink": "tel:01626360103",
+  "companyName": "Rj Beere",
+  "phoneDisplay": "01626360103",
+  "whatsappLink": "https://wa.me/01626360103",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
