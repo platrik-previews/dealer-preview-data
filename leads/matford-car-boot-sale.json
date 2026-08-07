@@ -1,0 +1,11 @@
+{
+  "address": "Matford Park Rd",
+  "website": "http://www.carbootjunction.com/car-boot-by-county-listing.php?id=559",
+  "logoPath": "http://www.carbootjunction.com/assets/images/img_header.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Matford%20Park%20Rd",
+  "renderer": "dealership",
+  "companyName": "Matford Car Boot Sale",
+  "faviconPath": "http://www.carbootjunction.com/assets/images/favicon.ico",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
