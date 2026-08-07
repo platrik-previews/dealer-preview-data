@@ -1,0 +1,15 @@
+{
+  "email": "middevoncarsales@gmail.com",
+  "address": "Barnfield, Crediton, Devon, EX17 3HT, UNITED KINGDOM",
+  "website": "https://www.middevoncarsales.co.uk/",
+  "logoPath": "https://img77.uenicdn.com/image/upload/v1731053801/business/c5ea59ef-495e-4acb-aeca-877c7c9ceec0.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Barnfield,%20Crediton,%20Devon,%20EX17%203HT,%20UNITED%20KINGDOM",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447519542229",
+  "companyName": "Mid Devon Car Sales",
+  "faviconPath": "https://ueni-favicons.s3.eu-central-1.amazonaws.com/production/81e5df768d184bb5985c89d77b3602ac.jpg",
+  "phoneDisplay": "+447519542229",
+  "whatsappLink": "https://wa.me/447519542229",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
