@@ -1,0 +1,15 @@
+{
+  "address": "7 Trusham Rd",
+  "website": "https://www.daysrental.co.uk/",
+  "facebook": "https://www.facebook.com/daysrental",
+  "logoPath": "https://www.daysrental.co.uk/images/logo-white.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Trusham%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392640010",
+  "companyName": "Day's Rental",
+  "faviconPath": "https://www.daysrental.co.uk/favicon.ico",
+  "phoneDisplay": "01392 640010",
+  "whatsappLink": "https://wa.me/01392640010",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
