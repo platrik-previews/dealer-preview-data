@@ -1,0 +1,16 @@
+{
+  "email": "info@brownsmotorcycles.co.uk",
+  "address": "89 Mill Street",
+  "website": "https://www.brownsmotorcycles.co.uk/",
+  "facebook": "https://www.facebook.com/brownsmotorcycles",
+  "logoPath": "https://www.brownsmotorcycles.co.uk/wp-content/uploads/2020/04/Browns-Logo-cropped.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=89%20Mill%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441404813853",
+  "companyName": "Browns Motor Cycles",
+  "faviconPath": "https://www.brownsmotorcycles.co.uk/wp-content/uploads/2020/05/cropped-ms-icon-310x310-1-32x32.png",
+  "phoneDisplay": "+441404813853",
+  "whatsappLink": "https://wa.me/441404813853",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
