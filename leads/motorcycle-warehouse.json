@@ -1,0 +1,11 @@
+{
+  "address": "Unit D1, 6 Pottery Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%20D1,%206%20Pottery%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01626334245",
+  "companyName": "Motorcycle Warehouse",
+  "phoneDisplay": "01626334245",
+  "whatsappLink": "https://wa.me/01626334245",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
