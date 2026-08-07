@@ -1,0 +1,15 @@
+{
+  "email": "rwmotorsni@outlook.com",
+  "address": "69 Mahon Road",
+  "website": "https://www.rwmotorsni.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/276/416/054/16050957711233df4ca0.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=69%20Mahon%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447590238254",
+  "companyName": "R W Motors",
+  "faviconPath": "https://www.rwmotorsni.co.uk/favicon.ico",
+  "phoneDisplay": "+447590238254",
+  "whatsappLink": "https://wa.me/447590238254",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
