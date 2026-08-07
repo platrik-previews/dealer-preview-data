@@ -1,0 +1,16 @@
+{
+  "email": "enquiries@lagjander.co.uk",
+  "address": "Unit 7 Hogsbrook Farm",
+  "website": "http://lagjander.co.uk/",
+  "facebook": "https://www.facebook.com/Lagjander-1071775772907689/",
+  "logoPath": "http://lagjander.co.uk/wp-content/uploads/2022/03/lagjander-logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%207%20Hogsbrook%20Farm",
+  "renderer": "dealership",
+  "phoneLink": "tel:01395233907",
+  "companyName": "Lagjander",
+  "faviconPath": "http://lagjander.co.uk/favicon.ico",
+  "phoneDisplay": "01395233907",
+  "whatsappLink": "https://wa.me/01395233907",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
