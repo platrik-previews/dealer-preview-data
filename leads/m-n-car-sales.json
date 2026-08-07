@@ -1,0 +1,14 @@
+{
+  "address": "St Andrews Yard, Willeys Avenue",
+  "website": "http://www.mncarsales.co.uk/",
+  "logoPath": "http://www.mncarsales.co.uk/mncslogo.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=St%20Andrews%20Yard,%20Willeys%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:07974382416",
+  "companyName": "M N Car Sales",
+  "faviconPath": "http://www.mncarsales.co.uk/favicon.ico",
+  "phoneDisplay": "07974382416",
+  "whatsappLink": "https://wa.me/07974382416",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
