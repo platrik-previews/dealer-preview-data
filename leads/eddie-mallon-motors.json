@@ -1,0 +1,15 @@
+{
+  "email": "emallonmotors@live.co.uk",
+  "address": "31 Terraskane Road",
+  "website": "https://www.emallonmotors.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/754/692/158030192177e581700f.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=31%20Terraskane%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442837510568",
+  "companyName": "Eddie Mallon Motors",
+  "faviconPath": "https://www.emallonmotors.com/favicon.ico",
+  "phoneDisplay": "+442837510568",
+  "whatsappLink": "https://wa.me/442837510568",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
