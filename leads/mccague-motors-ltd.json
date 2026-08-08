@@ -1,0 +1,15 @@
+{
+  "email": "mccaguemotors@gmail.com",
+  "address": "32a Killylea Road",
+  "website": "https://www.mccaguemotors.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/284/074/387/1621342428a27fdcd25b.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=32a%20Killylea%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447724845045",
+  "companyName": "McCague Motors Ltd",
+  "faviconPath": "https://www.mccaguemotors.co.uk/favicon.ico",
+  "phoneDisplay": "+447724845045",
+  "whatsappLink": "https://wa.me/447724845045",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
