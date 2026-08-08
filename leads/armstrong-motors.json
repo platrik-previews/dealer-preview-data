@@ -1,0 +1,14 @@
+{
+  "address": "Moira",
+  "website": "http://www.armstrongmotors.co.uk/",
+  "logoPath": "http://www.armstrongmotors.co.uk/wp-content/uploads/2021/04/download.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Moira",
+  "renderer": "dealership",
+  "phoneLink": "tel:07738972528",
+  "companyName": "Armstrong Motors",
+  "faviconPath": "http://www.armstrongmotors.co.uk/favicon.ico",
+  "phoneDisplay": "07738972528",
+  "whatsappLink": "https://wa.me/07738972528",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
