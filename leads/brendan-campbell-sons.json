@@ -1,0 +1,15 @@
+{
+  "email": "brendancampbellandsons@hotmail.co.uk",
+  "address": "87 Washingbay Road",
+  "website": "https://www.brendancampbellandsons.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/379/381/787/17581997905c13adf5ee.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=87%20Washingbay%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442887740348",
+  "companyName": "Brendan Campbell & Sons",
+  "faviconPath": "https://www.brendancampbellandsons.com/favicon.ico",
+  "phoneDisplay": "+442887740348",
+  "whatsappLink": "https://wa.me/442887740348",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
