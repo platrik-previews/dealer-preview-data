@@ -1,0 +1,15 @@
+{
+  "email": "declan@ni-car-sales.com",
+  "address": "82 Belfast Road",
+  "website": "https://www.ni-car-sales.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/257/770/672/17860082462672ef4721.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=82%20Belfast%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447740268664",
+  "companyName": "NI Car Sales Ltd",
+  "faviconPath": "https://www.ni-car-sales.com/favicon.ico",
+  "phoneDisplay": "+447740268664",
+  "whatsappLink": "https://wa.me/447740268664",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
