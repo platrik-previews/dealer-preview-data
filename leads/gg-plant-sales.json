@@ -1,0 +1,16 @@
+{
+  "email": "info@ggplantsales.co.uk",
+  "address": "50 Greenogue Road",
+  "website": "https://ggplantsales.co.uk/",
+  "facebook": "https://www.facebook.com/GG-Plant-Sales-1767146976880267",
+  "logoPath": "https://ggplantsales.co.uk/wp-content/uploads/2023/09/gg-1.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=50%20Greenogue%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07801643173",
+  "companyName": "GG Plant Sales",
+  "faviconPath": "https://ggplantsales.co.uk/wp-content/uploads/2022/06/cropped-sdd-1-32x32.png",
+  "phoneDisplay": "07801 643 173",
+  "whatsappLink": "https://wa.me/07801643173",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
