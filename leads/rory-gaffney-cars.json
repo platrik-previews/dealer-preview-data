@@ -1,0 +1,16 @@
+{
+  "email": "rgcars@live.co.uk",
+  "address": "Unit 1, 9a Newry Road",
+  "website": "https://www.rorygaffneycars.co.uk/",
+  "facebook": "https://www.facebook.com/rorygaffneycars",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/027/156/526/1544613766fb2b769f0b.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%201,%209a%20Newry%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442838318256",
+  "companyName": "Rory Gaffney Cars",
+  "faviconPath": "https://www.rorygaffneycars.co.uk/favicon.ico",
+  "phoneDisplay": "+442838318256",
+  "whatsappLink": "https://wa.me/442838318256",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
