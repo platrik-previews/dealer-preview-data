@@ -1,0 +1,15 @@
+{
+  "email": "info@garywhitecarsales.com",
+  "address": "243 Upper Lisburn Road",
+  "website": "https://www.garywhitecarsales.com/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/379/381/785/175077089437db26c234.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=243%20Upper%20Lisburn%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+442890601913",
+  "companyName": "Gary White Car Sales",
+  "faviconPath": "https://www.garywhitecarsales.com/favicon.ico",
+  "phoneDisplay": "+442890601913",
+  "whatsappLink": "https://wa.me/442890601913",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
