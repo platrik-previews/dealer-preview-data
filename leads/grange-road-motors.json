@@ -1,0 +1,16 @@
+{
+  "email": "sales@grangeroadmotors.com",
+  "address": "25 Grange Road,, Cookstown, County Tyrone, BT80 8SB, GB",
+  "website": "https://www.grangeroadmotors.com/?md=1",
+  "facebook": "https://www.facebook.com/GrangeRoadMotors",
+  "logoPath": "https://cdn.web.dragon2000.net/wp-content/uploads/sites/149/2020/11/11153526/grange-road-motots-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=25%20Grange%20Road,,%20Cookstown,%20County%20Tyrone,%20BT80%208SB,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:02886766264",
+  "companyName": "Grange Road Motors",
+  "faviconPath": "https://cdn.web.dragon2000.net/wp-content/uploads/sites/149/2020/11/11153617/grange-road-motors-favicon.png",
+  "phoneDisplay": "02886 766 264",
+  "whatsappLink": "https://wa.me/02886766264",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
