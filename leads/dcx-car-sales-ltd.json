@@ -1,0 +1,16 @@
+{
+  "email": "sales@dcxcarsales.co.uk",
+  "address": "14 Lenelea Road",
+  "website": "https://www.dcxcarsales.co.uk/",
+  "facebook": "https://www.facebook.com/DCX-Car-Sales-106573875376792",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/308/168/544/166430475872255658fc.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=14%20Lenelea%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447934837529",
+  "companyName": "DCX Car Sales Ltd",
+  "faviconPath": "https://www.dcxcarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+447934837529",
+  "whatsappLink": "https://wa.me/447934837529",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
