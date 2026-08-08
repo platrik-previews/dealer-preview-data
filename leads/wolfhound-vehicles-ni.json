@@ -1,0 +1,15 @@
+{
+  "email": "info@wolfhound.biz",
+  "address": "126 Tamnamore Road",
+  "website": "https://wolfhound.biz/",
+  "logoPath": "https://wolfhound.biz/wp-content/uploads/2021/11/wolfhound-logo-150x60.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=126%20Tamnamore%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07851356487",
+  "companyName": "Wolfhound Vehicles NI",
+  "faviconPath": "https://wolfhound.biz/wp-content/uploads/2021/09/wolfhound.png",
+  "phoneDisplay": "07851356487",
+  "whatsappLink": "https://wa.me/07851356487",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
