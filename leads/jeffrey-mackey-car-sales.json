@@ -1,0 +1,16 @@
+{
+  "email": "info@mackeycars.com",
+  "address": "2a Moy Road",
+  "website": "https://www.mackeycars.com/",
+  "facebook": "https://www.facebook.com/jeffreymackeycarsales/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/168/279/084/1756734983d3a5f94a90.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=2a%20Moy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447801478001",
+  "companyName": "Jeffrey Mackey Car Sales",
+  "faviconPath": "https://www.mackeycars.com/favicon.ico",
+  "phoneDisplay": "+447801478001",
+  "whatsappLink": "https://wa.me/447801478001",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
