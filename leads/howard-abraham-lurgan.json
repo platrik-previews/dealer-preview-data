@@ -1,0 +1,16 @@
+{
+  "address": "65 - 93 Avenue Road, County Armagh, BT66 7BG, GB",
+  "website": "https://www.kia.com/uk/dealers/howardabrahamkia/",
+  "facebook": "https://www.facebook.com/kiauk",
+  "logoPath": "https://www.kia.com/etc.clientlibs/settings/wcm/designs/kia-uk/clientlib/resources/rbr/logo_kia_black-rbr.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=65%20-%2093%20Avenue%20Road,%20County%20Armagh,%20BT66%207BG,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/kiauk",
+  "phoneLink": "tel:02838323275",
+  "companyName": "Howard Abraham (Lurgan)",
+  "faviconPath": "https://www.kia.com/etc.clientlibs/settings/wcm/designs/kia-uk/clientlib/resources/rbr/rbr-fav.ico",
+  "phoneDisplay": "02838323275",
+  "whatsappLink": "https://wa.me/02838323275",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
