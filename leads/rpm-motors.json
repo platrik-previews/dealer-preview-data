@@ -1,0 +1,17 @@
+{
+  "email": "info@rpmmotorsni.co.uk",
+  "address": "44 Scroggy Road",
+  "website": "https://rpmmotorsni.co.uk/",
+  "facebook": "https://www.facebook.com/rpmmotorsni",
+  "logoPath": "https://rpmmotorsni.co.uk/wp-content/uploads/2021/02/Insta-Logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=44%20Scroggy%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/rpmmotorsni/",
+  "phoneLink": "tel:02896227353",
+  "companyName": "RPM Motors",
+  "faviconPath": "https://rpmmotorsni.co.uk/favicon.ico",
+  "phoneDisplay": "02896 227 353",
+  "whatsappLink": "https://wa.me/02896227353",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
