@@ -1,0 +1,15 @@
+{
+  "email": "jameskeatings1912@gmail.com",
+  "address": "Millvale Road",
+  "website": "https://www.archvalecarsales.co.uk/",
+  "logoPath": "https://image.usedcarsni.com/dealer_site/1/000/148/887/002/1604927156f423a0deb1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Millvale%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447821315801",
+  "companyName": "Archvale Car Sales",
+  "faviconPath": "https://www.archvalecarsales.co.uk/favicon.ico",
+  "phoneDisplay": "+447821315801",
+  "whatsappLink": "https://wa.me/447821315801",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
