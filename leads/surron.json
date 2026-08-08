@@ -1,0 +1,14 @@
+{
+  "address": "85 Ballynanny Road",
+  "website": "https://surronebikes.co.uk/",
+  "logoPath": "https://surronebikes.co.uk/wp-content/uploads/2022/08/Surron.webp",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=85%20Ballynanny%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:02840629155",
+  "companyName": "Surron",
+  "faviconPath": "https://www.surronebikes.co.uk/wp-content/themes/porto/images/logo/favicon.png",
+  "phoneDisplay": "028 4062 9155",
+  "whatsappLink": "https://wa.me/02840629155",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
