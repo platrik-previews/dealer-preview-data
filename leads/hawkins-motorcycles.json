@@ -1,0 +1,11 @@
+{
+  "address": "244-246 Union Street",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=244-246%20Union%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803431757",
+  "companyName": "Hawkins Motorcycles",
+  "phoneDisplay": "01803431757",
+  "whatsappLink": "https://wa.me/01803431757",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
