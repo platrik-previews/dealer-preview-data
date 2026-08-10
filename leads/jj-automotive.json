@@ -1,0 +1,16 @@
+{
+  "email": "info@mysite.com",
+  "address": "Riverside",
+  "website": "https://www.jjautomotive.uk/",
+  "facebook": "https://www.facebook.com/p/JJ-Automotive-61568568869378/",
+  "logoPath": "https://static.wixstatic.com/media/6b35ce_55841e4265d44681b3acc8ede0003962~mv2.png/v1/fill/w_15,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/6b35ce_55841e4265d44681b3acc8ede0003962~mv2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Riverside",
+  "renderer": "dealership",
+  "phoneLink": "tel:07895203325",
+  "companyName": "JJ Automotive",
+  "faviconPath": "https://static.parastorage.com/client/pfavico.ico",
+  "phoneDisplay": "07895203325",
+  "whatsappLink": "https://wa.me/07895203325",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
