@@ -1,0 +1,16 @@
+{
+  "email": "info@milesbettercarz.com",
+  "address": "Unit A, The Orchard, West Monkton, Taunton, TA2 8QN, GB",
+  "website": "https://www.milesbettercarz.com/",
+  "facebook": "https://www.facebook.com/milesbettercarz/?locale=en_GB",
+  "logoPath": "https://www.milesbettercarz.com/media/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%20A,%20The%20Orchard,%20West%20Monkton,%20Taunton,%20TA2%208QN,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01823412841",
+  "companyName": "Carz southwest",
+  "faviconPath": "https://www.milesbettercarz.com/favicon.png",
+  "phoneDisplay": "01823 412841",
+  "whatsappLink": "https://wa.me/01823412841",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
