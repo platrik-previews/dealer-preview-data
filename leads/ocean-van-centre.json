@@ -1,0 +1,16 @@
+{
+  "email": "js@oceanvancentre.co.uk",
+  "address": "Unit 14c, Torbay Trading Estate",
+  "website": "https://www.oceanvancentre.co.uk/",
+  "facebook": "https://www.facebook.com/oceanmotorco/reviews",
+  "logoPath": "https://www.oceanvancentre.co.uk/images/mediacache/img-1633_maxh-1024_maxw-1024.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%2014c,%20Torbay%20Trading%20Estate",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803220419",
+  "companyName": "Ocean Van Centre",
+  "faviconPath": "https://www.oceanvancentre.co.uk/favicon-32x32.png",
+  "phoneDisplay": "01803220419",
+  "whatsappLink": "https://wa.me/01803220419",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
