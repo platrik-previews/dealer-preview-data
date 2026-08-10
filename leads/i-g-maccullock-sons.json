@@ -1,0 +1,15 @@
+{
+  "address": "59 East Street",
+  "website": "https://www.maccullocks-garage.co.uk/",
+  "facebook": "http://www.facebook.com/maccullocks/",
+  "logoPath": "https://www.maccullocks-garage.co.uk/content/headers/DSC00328.JPG",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=59%20East%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+44183752776",
+  "companyName": "I.G. MacCullock & Sons",
+  "faviconPath": "https://www.maccullocks-garage.co.uk/favicon.ico",
+  "phoneDisplay": "+44183752776",
+  "whatsappLink": "https://wa.me/44183752776",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
