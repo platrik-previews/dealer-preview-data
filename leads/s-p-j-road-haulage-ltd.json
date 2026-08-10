@@ -1,0 +1,11 @@
+{
+  "address": "123 Eggbuckland Road, Higher Compton",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=123%20Eggbuckland%20Road,%20Higher%20Compton",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752780377",
+  "companyName": "S P J Road Haulage Ltd.",
+  "phoneDisplay": "01752780377",
+  "whatsappLink": "https://wa.me/01752780377",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
