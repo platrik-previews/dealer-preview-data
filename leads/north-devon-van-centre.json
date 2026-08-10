@@ -1,0 +1,15 @@
+{
+  "email": "info@northdevonvancentre.co.uk",
+  "address": "Pilland Way Pottington Business Park, Unit 4c Upcott Ave",
+  "website": "https://www.northdevonvancentre.co.uk/",
+  "logoPath": "https://www.northdevonvancentre.co.uk/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pilland%20Way%20Pottington%20Business%20Park,%20Unit%204c%20Upcott%20Ave",
+  "renderer": "dealership",
+  "phoneLink": "tel:07850433700",
+  "companyName": "North Devon Van Centre",
+  "faviconPath": "https://www.northdevonvancentre.co.uk/favicon.ico",
+  "phoneDisplay": "07850433700",
+  "whatsappLink": "https://wa.me/07850433700",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
