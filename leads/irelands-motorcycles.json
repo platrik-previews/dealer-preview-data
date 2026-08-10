@@ -1,0 +1,17 @@
+{
+  "email": "tom@irelandsmotorcycles.com",
+  "address": "Unit 6, Two Rivers Ind Est, Braunton Road, Barnstaple, North Devon, EX31 1JY UK",
+  "website": "https://www.irelandsmotorcycles.com/",
+  "facebook": "https://www.facebook.com/irelandsmotorcycles/",
+  "logoPath": "https://images.squarespace-cdn.com/content/v1/5f098ad073eff4020b420fec/fe693cc9-387b-468f-b220-f6816369de2a/Website+Logo+New.png?format=1500w",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%206,%20Two%20Rivers%20Ind%20Est,%20Braunton%20Road,%20Barnstaple,%20North%20Devon,%20EX31%201JY%20UK",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/irelandsmotorcycles/",
+  "phoneLink": "tel:01271374243",
+  "companyName": "Irelands Motorcycles",
+  "faviconPath": "https://images.squarespace-cdn.com/content/v1/5f098ad073eff4020b420fec/32fa1f27-e487-4079-9af2-3a3f8c0334b7/favicon.ico?format=100w",
+  "phoneDisplay": "01271 374243",
+  "whatsappLink": "https://wa.me/01271374243",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
