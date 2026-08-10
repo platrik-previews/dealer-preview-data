@@ -1,0 +1,14 @@
+{
+  "address": "Marlands Park",
+  "website": "https://www.bobhillhaulage.co.uk/",
+  "logoPath": "https://www.bobhillhaulage.co.uk/assets/images/clients/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marlands%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803868383",
+  "companyName": "Bob Hill Haulage Ltd.",
+  "faviconPath": "https://www.bobhillhaulage.co.uk/assets/images/clients/favicon.png",
+  "phoneDisplay": "01803868383",
+  "whatsappLink": "https://wa.me/01803868383",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
