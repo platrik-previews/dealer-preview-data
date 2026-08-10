@@ -1,0 +1,16 @@
+{
+  "email": "townhallgarage@btopenworld.com",
+  "address": "Lymington Road, Torquay, TQ1 3DX, GB",
+  "website": "https://www.townhallgarage.co.uk/",
+  "facebook": "https://www.facebook.com/www.townhallgarage.co.uk",
+  "logoPath": "https://www.townhallgarage.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lymington%20Road,%20Torquay,%20TQ1%203DX,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803297057",
+  "companyName": "Town Hall Garage",
+  "faviconPath": "https://www.townhallgarage.co.uk/favicon.png",
+  "phoneDisplay": "01803 297057",
+  "whatsappLink": "https://wa.me/01803297057",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
