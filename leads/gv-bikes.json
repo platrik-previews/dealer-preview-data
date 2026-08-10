@@ -1,0 +1,17 @@
+{
+  "email": "contact@gvbikes.co.uk",
+  "address": "Pooles Garage, Whitehall, Taunton, Somerset, TA11PG, United Kingdom",
+  "website": "https://gvbikes.co.uk/",
+  "facebook": "https://www.facebook.com/gvbikes717",
+  "logoPath": "https://gvbikes.co.uk/wp-content/uploads/2020/05/GV_Logo_Square_Compressed.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pooles%20Garage,%20Whitehall,%20Taunton,%20Somerset,%20TA11PG,%20United%20Kingdom",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/gvbikestaunton/",
+  "phoneLink": "tel:441823276012",
+  "companyName": "GV Bikes",
+  "faviconPath": "https://gvbikes.co.uk/wp-content/uploads/2021/01/GV_Bikes_Favicon-50x50.png",
+  "phoneDisplay": "441823 276012",
+  "whatsappLink": "https://wa.me/441823276012",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
