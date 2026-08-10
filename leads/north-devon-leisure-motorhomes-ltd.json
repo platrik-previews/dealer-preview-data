@@ -1,0 +1,15 @@
+{
+  "email": "hello@northdevonleisure.co.uk",
+  "address": "Chivenor Roundabout, Barnstaple, North Devon, EX31 4BN",
+  "website": "https://northdevonleisure.co.uk/",
+  "logoPath": "https://northdevonleisure.co.uk/assets/data/logo.png?ver=0.1.4.3",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Chivenor%20Roundabout,%20Barnstaple,%20North%20Devon,%20EX31%204BN",
+  "renderer": "dealership",
+  "phoneLink": "tel:07702005797",
+  "companyName": "North Devon Leisure Motorhomes Ltd",
+  "faviconPath": "https://northdevonleisure.co.uk/favicon/apple-icon-57x57.png",
+  "phoneDisplay": "07702 005797",
+  "whatsappLink": "https://wa.me/07702005797",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
