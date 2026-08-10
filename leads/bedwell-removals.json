@@ -1,0 +1,11 @@
+{
+  "address": "The Airfield",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Airfield",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392426789",
+  "companyName": "Bedwell Removals",
+  "phoneDisplay": "01392426789",
+  "whatsappLink": "https://wa.me/01392426789",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
