@@ -1,0 +1,13 @@
+{
+  "address": "231 Tavistock Road, Crownhill Retail Park",
+  "website": "https://www.hertz.co.uk/rentacar/location/unitedkingdom/plymouth/PLHC01",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=231%20Tavistock%20Road,%20Crownhill%20Retail%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:08006543131",
+  "companyName": "Hertz Car Hire - Plymouth B&q HLE",
+  "faviconPath": "https://www.hertz.co.uk/favicon.ico",
+  "phoneDisplay": "08006543131",
+  "whatsappLink": "https://wa.me/08006543131",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
