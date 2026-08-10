@@ -1,0 +1,11 @@
+{
+  "address": "babbacombe road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=babbacombe%20road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+448000437717",
+  "companyName": "Needacar Torbay",
+  "phoneDisplay": "+448000437717",
+  "whatsappLink": "https://wa.me/448000437717",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
