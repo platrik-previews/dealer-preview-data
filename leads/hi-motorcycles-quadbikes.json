@@ -1,0 +1,16 @@
+{
+  "email": "contact@himotorcycles.co.uk",
+  "address": "69 Torquay Road",
+  "website": "http://www.himotorcycles.co.uk/",
+  "facebook": "https://www.facebook.com/MotorcyclesHI/",
+  "logoPath": "http://www.himotorcycles.co.uk/uploads/logos/13251747039958.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=69%20Torquay%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803431616",
+  "companyName": "HI Motorcycles & Quadbikes",
+  "faviconPath": "http://www.himotorcycles.co.uk/templates/misc/favicon.ico",
+  "phoneDisplay": "+441803431616",
+  "whatsappLink": "https://wa.me/441803431616",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
