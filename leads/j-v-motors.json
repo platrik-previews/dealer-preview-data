@@ -1,0 +1,14 @@
+{
+  "address": "Wills Rd Unit 3",
+  "website": "http://www.jvmotorstotnes.co.uk/",
+  "logoPath": "http://www.jvmotorstotnes.co.uk/assets/img/gallery/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wills%20Rd%20Unit%203",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803866999",
+  "companyName": "J V Motors",
+  "faviconPath": "http://www.jvmotorstotnes.co.uk/favicon.ico",
+  "phoneDisplay": "01803 866999",
+  "whatsappLink": "https://wa.me/01803866999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
