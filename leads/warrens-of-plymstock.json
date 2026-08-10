@@ -1,0 +1,15 @@
+{
+  "email": "warrensusedcars@aol.com",
+  "address": "4 Radford Park Road",
+  "website": "https://www.warrens-of-plymstock.co.uk/",
+  "logoPath": "https://cdn.website-start.de/s/img/logo.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=4%20Radford%20Park%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441752484028",
+  "companyName": "Warrens Of Plymstock",
+  "faviconPath": "https://cdn.website-start.de/favicon.ico",
+  "phoneDisplay": "+441752484028",
+  "whatsappLink": "https://wa.me/441752484028",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
