@@ -1,0 +1,12 @@
+{
+  "email": "sales@wwmotors.co.uk",
+  "address": "41 foxmoor bussines park",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=41%20foxmoor%20bussines%20park",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447447124281",
+  "companyName": "WW motors",
+  "phoneDisplay": "+447447124281",
+  "whatsappLink": "https://wa.me/447447124281",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
