@@ -1,0 +1,15 @@
+{
+  "email": "chris@chrishoylemarine.co.uk",
+  "address": "Lower Contour Rd",
+  "website": "https://chrishoylemarine.co.uk/",
+  "logoPath": "https://chrishoylemarine.co.uk/wp-content/uploads/2019/09/Untitled-Project-5.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lower%20Contour%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803752221",
+  "companyName": "Chris Hoyle Marine Ltd",
+  "faviconPath": "https://chrishoylemarine.co.uk/wp-content/uploads/2017/01/cropped-F350_5-32x32.jpg",
+  "phoneDisplay": "+441803752221",
+  "whatsappLink": "https://wa.me/441803752221",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
