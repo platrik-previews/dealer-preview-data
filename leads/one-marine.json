@@ -1,0 +1,17 @@
+{
+  "email": "info@onemarine.co.uk",
+  "address": "Marina, c/o Sunseeker Torquay Ltd",
+  "website": "https://www.onemarine.co.uk/",
+  "facebook": "https://www.facebook.com/OneMarineUK",
+  "logoPath": "https://www.onemarine.co.uk/wp-content/uploads/2019/03/one_marine_white__blue_on_gold-1024x340.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marina,%20c/o%20Sunseeker%20Torquay%20Ltd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/onemarine.co.uk/",
+  "phoneLink": "tel:+441803292239",
+  "companyName": "One Marine",
+  "faviconPath": "https://www.onemarine.co.uk/wp-content/uploads/2022/09/favicon.png",
+  "phoneDisplay": "+441803292239",
+  "whatsappLink": "https://wa.me/441803292239",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
