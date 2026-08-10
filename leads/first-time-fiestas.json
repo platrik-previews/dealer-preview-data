@@ -1,0 +1,16 @@
+{
+  "email": "info@firsttimefiestas.co.uk",
+  "address": "Battisford Farm, Plymouth, PL7 5AT",
+  "website": "https://www.firsttimefiestas.co.uk/",
+  "facebook": "https://facebook.com/firsttimefiestas",
+  "logoPath": "https://www.firsttimefiestas.co.uk/%3C?=%20get_absolute_url(%27logo.png%27,%20FirstTimeFiestas.co.uk);%20?%3E",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Battisford%20Farm,%20Plymouth,%20PL7%205AT",
+  "renderer": "dealership",
+  "phoneLink": "tel:07456657457",
+  "companyName": "First Time Fiestas",
+  "faviconPath": "https://www.firsttimefiestas.co.uk/favicon-16x16.png",
+  "phoneDisplay": "07456657457",
+  "whatsappLink": "https://wa.me/07456657457",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
