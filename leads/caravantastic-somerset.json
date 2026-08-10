@@ -1,0 +1,14 @@
+{
+  "email": "info@caravantastic.com",
+  "address": "Thornfalcon Works",
+  "website": "http://www.caravantastic.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Thornfalcon%20Works",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441278780565",
+  "companyName": "Caravantastic Somerset",
+  "faviconPath": "http://www.caravantastic.com/favicon.ico",
+  "phoneDisplay": "+441278780565",
+  "whatsappLink": "https://wa.me/441278780565",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
