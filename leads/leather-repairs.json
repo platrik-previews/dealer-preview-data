@@ -1,0 +1,11 @@
+{
+  "address": "24 Mylor Close",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=24%20Mylor%20Close",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752219989",
+  "companyName": "Leather Repairs",
+  "phoneDisplay": "01752219989",
+  "whatsappLink": "https://wa.me/01752219989",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
