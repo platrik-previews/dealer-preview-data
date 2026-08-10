@@ -1,0 +1,14 @@
+{
+  "address": "Barnstaple, ENG, GB",
+  "website": "https://astradecarsales.co.uk/",
+  "logoPath": "https://astradecarsales.co.uk/assets/data/2018/10/ASTRADETOPLOGO.jpeg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Barnstaple,%20ENG,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01271861052",
+  "companyName": "A S Trade Car Sales",
+  "faviconPath": "https://astradecarsales.co.uk/favicon.ico",
+  "phoneDisplay": "01271861052",
+  "whatsappLink": "https://wa.me/01271861052",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
