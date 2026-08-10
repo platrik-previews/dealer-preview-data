@@ -1,0 +1,15 @@
+{
+  "email": "info@jonbeerautoservices.co.uk",
+  "address": "Bay View Garage/Landkey Rd",
+  "website": "http://jonbeerautoservices.co.uk/",
+  "logoPath": "http://jonbeerautoservices.co.uk/images/banners/jb_banner1.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bay%20View%20Garage/Landkey%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441271328689",
+  "companyName": "Jon Beer",
+  "faviconPath": "http://jonbeerautoservices.co.uk/favicon.ico",
+  "phoneDisplay": "+441271328689",
+  "whatsappLink": "https://wa.me/441271328689",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
