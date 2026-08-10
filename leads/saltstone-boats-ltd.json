@@ -1,0 +1,16 @@
+{
+  "email": "sales@saltstoneboats.co.uk",
+  "address": "Torr Quarry Industrial Estate, Unit 20, Torr Trade Park",
+  "website": "https://www.saltstoneboats.co.uk/",
+  "facebook": "https://www.facebook.com/Saltstone-Boats-964585013649001/?fref=ts",
+  "logoPath": "https://www.saltstoneboats.co.uk/wp-content/uploads/2016/03/SSB-logo_Master-landscape-REV-transparent.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Torr%20Quarry%20Industrial%20Estate,%20Unit%2020,%20Torr%20Trade%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447974248949",
+  "companyName": "Saltstone Boats LTD",
+  "faviconPath": "https://www.saltstoneboats.co.uk/wp-content/uploads/2016/03/SSB-logo_Master-Square-NAVY-Apple-Iphone.jpg",
+  "phoneDisplay": "+447974248949",
+  "whatsappLink": "https://wa.me/447974248949",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
