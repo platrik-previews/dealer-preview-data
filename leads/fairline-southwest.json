@@ -1,0 +1,15 @@
+{
+  "email": "info@align.co.uk",
+  "address": "7 Palk Street",
+  "website": "http://www.fairlinesw.com/",
+  "logoPath": "http://www.fairlinesw.com/site/images/logo/align.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Palk%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803200009",
+  "companyName": "Fairline Southwest",
+  "faviconPath": "http://www.fairlinesw.com/favicons/favicon.ico?v=2",
+  "phoneDisplay": "+441803200009",
+  "whatsappLink": "https://wa.me/441803200009",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
