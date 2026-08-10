@@ -1,0 +1,17 @@
+{
+  "email": "sales@plymptoncarcentre.co.uk",
+  "address": "27-29 Market Road, Plymouth, PL7 1QW, GB",
+  "website": "https://www.plymptoncarcentre.co.uk/",
+  "facebook": "https://www.facebook.com/plymptoncarcentre/",
+  "logoPath": "https://www.plymptoncarcentre.co.uk/media/logo-fixed.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=27-29%20Market%20Road,%20Plymouth,%20PL7%201QW,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/plymptoncarcentreplymouth/",
+  "phoneLink": "tel:01752651340",
+  "companyName": "Plympton Car Centre",
+  "faviconPath": "https://www.plymptoncarcentre.co.uk/favicon.png",
+  "phoneDisplay": "01752 651340",
+  "whatsappLink": "https://wa.me/01752651340",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
