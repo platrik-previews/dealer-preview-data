@@ -1,0 +1,16 @@
+{
+  "email": "colyfordcars@btinternet.com",
+  "address": "Swan Hill Rd",
+  "website": "https://www.colyfordcars.com/",
+  "facebook": "https://www.facebook.com/colyfordcars",
+  "logoPath": "https://www.colyfordcars.com/images/mediacache/img-2_maxh-1024_maxw-1024.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Swan%20Hill%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:07818086203",
+  "companyName": "Colyford Cars",
+  "faviconPath": "https://www.colyfordcars.com/favicon-32x32.png",
+  "phoneDisplay": "07818086203",
+  "whatsappLink": "https://wa.me/07818086203",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
