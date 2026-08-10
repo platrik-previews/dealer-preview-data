@@ -1,0 +1,11 @@
+{
+  "address": "15 Valley Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Valley%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441752204670",
+  "companyName": "Ford at Vospers Van Centre",
+  "phoneDisplay": "+441752204670",
+  "whatsappLink": "https://wa.me/441752204670",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
