@@ -1,0 +1,17 @@
+{
+  "email": "info@mpearsengineering.co.uk",
+  "address": "Three Corners",
+  "website": "https://mpearsengineering.co.uk/",
+  "facebook": "https://www.facebook.com/mpearsengineering/",
+  "logoPath": "https://s3.eu-west-1.wasabisys.com/martin-pears-engineering/wp-media-folder-martin-pears-engineering/wp-content/uploads/2023/07/logo_martin-pears.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Three%20Corners",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/martin_pears_engineering_ltd/?hl=en",
+  "phoneLink": "tel:+441548521429",
+  "companyName": "Martin Pears Engineering",
+  "faviconPath": "https://mpearsengineering.co.uk/wp-content/themes/martinpears23/favicon.ico",
+  "phoneDisplay": "+441548521429",
+  "whatsappLink": "https://wa.me/441548521429",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
