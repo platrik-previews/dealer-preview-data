@@ -1,0 +1,15 @@
+{
+  "email": "enquiries@beechdowngarage.co.uk",
+  "address": "Beechdown Garage Totnes Road Paignton TQ4 7PT",
+  "website": "https://www.beechdowngarage.co.uk/",
+  "logoPath": "https://www.beechdowngarage.co.uk/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Beechdown%20Garage%20Totnes%20Road%20Paignton%20TQ4%207PT",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803520026",
+  "companyName": "Beechdown Garage",
+  "faviconPath": "https://www.beechdowngarage.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01803520026",
+  "whatsappLink": "https://wa.me/01803520026",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
