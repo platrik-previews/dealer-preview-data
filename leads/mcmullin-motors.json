@@ -1,0 +1,16 @@
+{
+  "address": "Plymouth, ENG, GB",
+  "website": "https://www.mcmullinmotors.co.uk/",
+  "facebook": "https://www.facebook.com/McmullinMotors",
+  "logoPath": "https://www.mcmullinmotors.co.uk/static/images/unity-aw-logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Plymouth,%20ENG,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/mcmullinmotors/",
+  "phoneLink": "tel:01752402020",
+  "companyName": "McMullin Motors",
+  "faviconPath": "https://www.mcmullinmotors.co.uk/media/images/162138057/p2255.mcmullin-motors.png",
+  "phoneDisplay": "01752 40 20 20",
+  "whatsappLink": "https://wa.me/01752402020",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
