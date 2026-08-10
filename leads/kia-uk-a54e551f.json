@@ -1,0 +1,11 @@
+{
+  "address": "Brixton Road Garage",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brixton%20Road%20Garage",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441752402623",
+  "companyName": "Kia UK",
+  "phoneDisplay": "+441752402623",
+  "whatsappLink": "https://wa.me/441752402623",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
