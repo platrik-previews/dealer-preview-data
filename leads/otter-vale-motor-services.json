@@ -1,0 +1,17 @@
+{
+  "email": "sales@ovms.co.uk",
+  "address": "A30",
+  "website": "https://www.ovms.co.uk/",
+  "facebook": "https://facebook.com/OVMS.co.uk/",
+  "logoPath": "https://bluesky.sirv.com/Websites/Otter%20Vale%20Motors/img/logo/OVMS%20Mini%20Logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=A30",
+  "renderer": "dealership",
+  "instagram": "https://instagram.com/ottervalemotors",
+  "phoneLink": "tel:01404861155",
+  "companyName": "Otter Vale Motor Services",
+  "faviconPath": "https://www.ovms.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01404861155",
+  "whatsappLink": "https://wa.me/01404861155",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
