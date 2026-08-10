@@ -1,0 +1,14 @@
+{
+  "address": "Peamore Truck Centre, Alphington, Exeter, Devon, EX2 9SL, GB",
+  "website": "https://lcs-transport.com/",
+  "logoPath": "https://lcs-transport.com/wp-content/uploads/2021/01/LCS-logo-220px.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Peamore%20Truck%20Centre,%20Alphington,%20Exeter,%20Devon,%20EX2%209SL,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01392833100",
+  "companyName": "LCS UK European Couriers",
+  "faviconPath": "https://lcs-transport.com/wp-content/uploads/LCS-LOGO-2025-150x105.png",
+  "phoneDisplay": "01392 833 100",
+  "whatsappLink": "https://wa.me/01392833100",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
