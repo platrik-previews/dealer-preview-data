@@ -1,0 +1,16 @@
+{
+  "email": "simon.ashley@centralgarages.co.uk",
+  "address": "Milton St",
+  "website": "https://www.centralgarages.co.uk/",
+  "facebook": "https://www.facebook.com/centralgarages",
+  "logoPath": "https://www.centralgarages.co.uk/media/logo_blue_1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Milton%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803616150",
+  "companyName": "Central Garage Brixham",
+  "faviconPath": "https://www.centralgarages.co.uk/favicon.png",
+  "phoneDisplay": "01803616150",
+  "whatsappLink": "https://wa.me/01803616150",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
