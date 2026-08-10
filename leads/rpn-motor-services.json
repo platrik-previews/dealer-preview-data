@@ -1,0 +1,16 @@
+{
+  "address": "The Showroom, Bewlwy Garage",
+  "website": "https://www.rpnmotorservices.co.uk/",
+  "facebook": "https://www.facebook.com/EvolutionGlobal/",
+  "logoPath": "https://www.rpnmotorservices.co.uk/assets/images/crazy-time-game.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Showroom,%20Bewlwy%20Garage",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/evolution_global_/",
+  "phoneLink": "tel:+441752898600",
+  "companyName": "RPN Motor Services",
+  "faviconPath": "https://www.rpnmotorservices.co.uk/assets/images/1_crazy-time-game.png",
+  "phoneDisplay": "+441752898600",
+  "whatsappLink": "https://wa.me/441752898600",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
