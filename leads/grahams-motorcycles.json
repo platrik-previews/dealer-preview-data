@@ -1,0 +1,15 @@
+{
+  "email": "grahamsmc49@yahoo.co.uk",
+  "address": "Cornishway N",
+  "website": "https://grahamsmotorcycles.com/",
+  "logoPath": "https://grahamsmotorcycles.com/wp-content/uploads/2017/08/grahams-motorcycles-logo-huge-test-2-1024x178.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cornishway%20N",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823331397",
+  "companyName": "Grahams Motorcycles",
+  "faviconPath": "https://grahamsmotorcycles.com/wp-content/uploads/2018/01/cropped-GrahamsMotorcyclesSingleG-1-32x32.png",
+  "phoneDisplay": "+441823331397",
+  "whatsappLink": "https://wa.me/441823331397",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
