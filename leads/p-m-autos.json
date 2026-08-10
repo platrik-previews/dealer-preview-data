@@ -1,0 +1,12 @@
+{
+  "email": "alexbritton50@gmail.com",
+  "address": "Shaplands, Blakes Hill Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shaplands,%20Blakes%20Hill%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447923959906",
+  "companyName": "P.M.Autos",
+  "phoneDisplay": "+447923959906",
+  "whatsappLink": "https://wa.me/447923959906",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
