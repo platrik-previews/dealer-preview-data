@@ -1,0 +1,17 @@
+{
+  "email": "info@stag.ltd",
+  "address": "Unit 8 Station Rd",
+  "website": "https://www.polaris-exmoor.co.uk/",
+  "facebook": "https://www.facebook.com/PolarisBritain",
+  "logoPath": "https://www.polaris-exmoor.co.uk/fileadmin/templates/pol_MY18/img/logo-polaris-black.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%208%20Station%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/polarisbritain/",
+  "phoneLink": "tel:01398218027",
+  "companyName": "Stag Environmental Ltd",
+  "faviconPath": "https://www.polaris-exmoor.co.uk/favicons/favicon.ico",
+  "phoneDisplay": "01398 218027",
+  "whatsappLink": "https://wa.me/01398218027",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
