@@ -1,0 +1,14 @@
+{
+  "email": "help@motorcycletravelshop.co.uk",
+  "address": "Church Street Garage, Church St",
+  "website": "https://www.motorcycletravelshop.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Church%20Street%20Garage,%20Church%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803866064",
+  "companyName": "RN Motorcycles Ltd",
+  "faviconPath": "https://www.motorcycletravelshop.co.uk/favicon.ico",
+  "phoneDisplay": "+441803866064",
+  "whatsappLink": "https://wa.me/441803866064",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
