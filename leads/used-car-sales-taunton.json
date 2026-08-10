@@ -1,0 +1,14 @@
+{
+  "email": "tauntonautomobiles@hotmail.com",
+  "address": "Unit 2, Allerford Farm Barns, Norton Fitzwarren",
+  "website": "http://www.usedcarsalestaunton.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202,%20Allerford%20Farm%20Barns,%20Norton%20Fitzwarren",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823461947",
+  "companyName": "Used Car Sales Taunton",
+  "faviconPath": "http://www.usedcarsalestaunton.com/favicon.ico",
+  "phoneDisplay": "+441823461947",
+  "whatsappLink": "https://wa.me/441823461947",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
