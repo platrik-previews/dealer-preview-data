@@ -1,0 +1,16 @@
+{
+  "email": "ngmoto@yahoo.com",
+  "address": "5 New Road",
+  "website": "https://ngmoto.com/",
+  "facebook": "https://www.facebook.com/NG-Quad-Motorcycle-Center-956311271157709",
+  "logoPath": "https://ngmoto.com/wp-content/uploads/2021/01/NGlogoHome-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20New%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803883555",
+  "companyName": "NG Quad & Motorcycle Center",
+  "faviconPath": "https://ngmoto.com/wp-content/uploads/2021/01/fav.png",
+  "phoneDisplay": "+441803883555",
+  "whatsappLink": "https://wa.me/441803883555",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
