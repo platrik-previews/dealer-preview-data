@@ -1,0 +1,16 @@
+{
+  "address": "Alex Buckingham Motorcycles",
+  "website": "https://alexbuckinghammotorcycles.com/",
+  "facebook": "https://m.facebook.com/alexbuckinghammotorcycles/",
+  "logoPath": "https://alexbuckinghammotorcycles.com/wp-content/uploads/2018/02/alex-buckingham-main-logo1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alex%20Buckingham%20Motorcycles",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/alexbuckinghambarnstaple/",
+  "phoneLink": "tel:01271329442",
+  "companyName": "Alex Buckingham Motorcycles",
+  "faviconPath": "https://alexbuckinghammotorcycles.com/wp-content/uploads/2018/02/cropped-alex-buckingham-main-logo1.png?w=32",
+  "phoneDisplay": "01271329442",
+  "whatsappLink": "https://wa.me/01271329442",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
