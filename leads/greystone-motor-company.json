@@ -1,0 +1,12 @@
+{
+  "email": "greystonemotorcompany@gmail.com",
+  "address": "Galmpton, GB",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Galmpton,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803844546",
+  "companyName": "Greystone Motor Company",
+  "phoneDisplay": "+441803844546",
+  "whatsappLink": "https://wa.me/441803844546",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
