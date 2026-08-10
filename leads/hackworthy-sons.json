@@ -1,0 +1,14 @@
+{
+  "address": "The Depository, Elliott Road",
+  "website": "https://www.hackworthy.co.uk/",
+  "logoPath": "https://www.hackworthy.co.uk/wp-content/uploads/2025/03/logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Depository,%20Elliott%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752228815",
+  "companyName": "Hackworthy & Sons",
+  "faviconPath": "https://www.hackworthy.co.uk/wp-content/uploads/2025/03/Favicon.svg",
+  "phoneDisplay": "01752228815",
+  "whatsappLink": "https://wa.me/01752228815",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
