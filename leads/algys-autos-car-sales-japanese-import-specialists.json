@@ -1,0 +1,11 @@
+{
+  "address": "7 Morgan Avenue",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Morgan%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803391142",
+  "companyName": "Algys Autos Car Sales Japanese Import Specialists",
+  "phoneDisplay": "01803391142",
+  "whatsappLink": "https://wa.me/01803391142",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
