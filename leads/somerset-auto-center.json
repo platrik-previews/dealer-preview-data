@@ -1,0 +1,12 @@
+{
+  "email": "ozalsever68@gmail.com",
+  "address": "15 Bridge Street",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=15%20Bridge%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447912980602",
+  "companyName": "Somerset auto center",
+  "phoneDisplay": "+447912980602",
+  "whatsappLink": "https://wa.me/447912980602",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
