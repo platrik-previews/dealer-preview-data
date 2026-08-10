@@ -1,0 +1,15 @@
+{
+  "address": "12 Durnford Street",
+  "website": "http://www.yeomans.com/",
+  "facebook": "https://www.facebook.com/hover",
+  "logoPath": "http://www.yeomans.com/assets/hover/hv-logo-2020-57207b51c76d06d5dd5327b4d938a98046a39d0ce4c163832261a8fb3c6cbec6.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%20Durnford%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441752226633",
+  "companyName": "DS SALON Plymouth",
+  "faviconPath": "http://www.yeomans.com/assets/hover-favicon-b6edfeae7a830b38292617cc7464de1349ac3f7fb396b8319e191d5cd6c6ce8d.ico",
+  "phoneDisplay": "+441752226633",
+  "whatsappLink": "https://wa.me/441752226633",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
