@@ -1,0 +1,16 @@
+{
+  "email": "info@ganinedoyle.com",
+  "address": "Greenway Farm Hall",
+  "website": "https://www.ganinedoyle.com/",
+  "facebook": "https://www.facebook.com/GDCarsTaunton/",
+  "logoPath": "https://www.ganinedoyle.com/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Greenway%20Farm%20Hall",
+  "renderer": "dealership",
+  "phoneLink": "tel:07821938453",
+  "companyName": "Ganine Doyle Cars",
+  "faviconPath": "https://www.ganinedoyle.com/favicon-96x96.png",
+  "phoneDisplay": "07821938453",
+  "whatsappLink": "https://wa.me/07821938453",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
