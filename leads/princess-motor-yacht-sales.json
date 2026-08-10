@@ -1,0 +1,16 @@
+{
+  "address": "Turnchapel Wharf, Barton Rd",
+  "website": "https://www.princess.co.uk/",
+  "facebook": "https://www.facebook.com/PrincessMotorYachtSales",
+  "logoPath": "https://www.princess.co.uk/images/princess-logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Turnchapel%20Wharf,%20Barton%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/princessmysales",
+  "phoneLink": "tel:+4401489557755",
+  "companyName": "Princess Motor Yacht Sales",
+  "faviconPath": "https://www.princess.co.uk/favicon.png",
+  "phoneDisplay": "+44 (0)1489 557755",
+  "whatsappLink": "https://wa.me/4401489557755",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
