@@ -1,0 +1,13 @@
+{
+  "address": "Taw Trade Park, Braunton Rd",
+  "website": "http://www.tawpark4x4.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Taw%20Trade%20Park,%20Braunton%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01271321001",
+  "companyName": "Tawpark 4 X 4",
+  "faviconPath": "http://www.tawpark4x4.com/favicon.ico",
+  "phoneDisplay": "01271 321001",
+  "whatsappLink": "https://wa.me/01271321001",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
