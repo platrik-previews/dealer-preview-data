@@ -1,0 +1,15 @@
+{
+  "address": "8 Broadsands Avenue",
+  "website": "http://www.rivieraplastering.co.uk/",
+  "facebook": "https://www.facebook.com/Rivieraplastering?ref=tn_tnmn",
+  "logoPath": "https://www.rivieraplastering.co.uk/wp-content/uploads/2014/02/portfolio1-039-266x160.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=8%20Broadsands%20Avenue",
+  "renderer": "dealership",
+  "phoneLink": "tel:07870538941",
+  "companyName": "Riviera Plastering",
+  "faviconPath": "http://www.rivieraplastering.co.uk/wp-content/themes/lifestyle-pro/images/favicon.ico",
+  "phoneDisplay": "07870538941",
+  "whatsappLink": "https://wa.me/07870538941",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
