@@ -1,0 +1,14 @@
+{
+  "address": "4 Newnham Rd",
+  "website": "https://circuitcarsales.co.uk/",
+  "logoPath": "https://circuitcarsales.co.uk/wp-content/uploads/2026/07/betting-not-on-gamstop.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=4%20Newnham%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752244657",
+  "companyName": "Circuit Car Sales",
+  "faviconPath": "https://circuitcarsales.co.uk/wp-content/uploads/2026/07/betting-not-on-gamstop-150x150.png",
+  "phoneDisplay": "01752 244657",
+  "whatsappLink": "https://wa.me/01752244657",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
