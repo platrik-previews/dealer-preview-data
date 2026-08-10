@@ -1,0 +1,15 @@
+{
+  "address": "Cornish Farm",
+  "website": "https://vanbitz.com/",
+  "facebook": "https://www.facebook.com/vanbitzmotorhome/",
+  "logoPath": "https://vanbitz.com/wp-content/uploads/2023/11/cropped-Vanbitz-logo-150x150.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cornish%20Farm",
+  "renderer": "dealership",
+  "phoneLink": "tel:01823426960",
+  "companyName": "Van Bitz",
+  "faviconPath": "https://vanbitz.com/wp-content/uploads/2023/11/cropped-VanBitz-Favicon-32x32.png",
+  "phoneDisplay": "01823 426960",
+  "whatsappLink": "https://wa.me/01823426960",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
