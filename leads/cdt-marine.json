@@ -1,0 +1,17 @@
+{
+  "email": "sales@cdtmarine.co.uk",
+  "address": "7 Collingwood Cl",
+  "website": "https://www.cdtmarine.co.uk/",
+  "facebook": "https://www.facebook.com/CDT-Marine-Ltd-116991293035781",
+  "logoPath": "https://www.cdtmarine.co.uk/wp-content/uploads/2021/07/CDT-Marine-v2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Collingwood%20Cl",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/cdt_marine/",
+  "phoneLink": "tel:+441803228500",
+  "companyName": "CDT Marine",
+  "faviconPath": "https://www.cdtmarine.co.uk/wp-content/uploads/2021/07/cdt-fav-100x100.png",
+  "phoneDisplay": "+441803228500",
+  "whatsappLink": "https://wa.me/441803228500",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
