@@ -1,0 +1,16 @@
+{
+  "email": "colescommercials@gmail.com",
+  "address": "Taunton Road Service Station, Bridgwater, Somerset, TA66LD, GB",
+  "website": "https://www.colescommercials.co.uk/",
+  "facebook": "https://www.facebook.com/colescommercials/",
+  "logoPath": "https://www.colescommercials.co.uk/admin/uploaded_photos/site_logo.png?nc=00",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Taunton%20Road%20Service%20Station,%20Bridgwater,%20Somerset,%20TA66LD,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278459749",
+  "companyName": "Coles Commercials Van Sales",
+  "faviconPath": "https://www.colescommercials.co.uk/favicon.ico?nc=11",
+  "phoneDisplay": "01278459749",
+  "whatsappLink": "https://wa.me/01278459749",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
