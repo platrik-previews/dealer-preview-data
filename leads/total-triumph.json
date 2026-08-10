@@ -1,0 +1,17 @@
+{
+  "email": "info@totaltriumph.co.uk",
+  "address": "A38 Wellington Road",
+  "website": "https://www.totaltriumph.co.uk/",
+  "facebook": "https://www.facebook.com/TotalTriumph",
+  "logoPath": "https://www.totaltriumph.co.uk/templates/triumph/core/images/triumph-dealer-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=A38%20Wellington%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/totaltriumph/",
+  "phoneLink": "tel:+4401823358899",
+  "companyName": "Total Triumph",
+  "faviconPath": "https://www.totaltriumph.co.uk/favicon.ico",
+  "phoneDisplay": "+4401823 358899",
+  "whatsappLink": "https://wa.me/4401823358899",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
