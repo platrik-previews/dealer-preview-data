@@ -1,0 +1,11 @@
+{
+  "address": "Bridgwater Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bridgwater%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823320717",
+  "companyName": "Howards Hyundai - Taunton",
+  "phoneDisplay": "+441823320717",
+  "whatsappLink": "https://wa.me/441823320717",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
