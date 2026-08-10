@@ -1,0 +1,13 @@
+{
+  "address": "Cheddon Road",
+  "website": "http://www.westonandedwards.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cheddon%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01823324004",
+  "companyName": "Weston & Edwards",
+  "faviconPath": "http://www.westonandedwards.co.uk/favicon.ico",
+  "phoneDisplay": "01823324004",
+  "whatsappLink": "https://wa.me/01823324004",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
