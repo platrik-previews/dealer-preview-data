@@ -1,0 +1,11 @@
+{
+  "address": "Roundham Coachworks, Roundham Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Roundham%20Coachworks,%20Roundham%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803663838",
+  "companyName": "Chief Vehicle Rentals Ltd.",
+  "phoneDisplay": "01803663838",
+  "whatsappLink": "https://wa.me/01803663838",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
