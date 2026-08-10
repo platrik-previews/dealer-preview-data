@@ -1,0 +1,16 @@
+{
+  "email": "sales@elmmotorcompany.co.uk",
+  "address": "118-130 Ridgeway, Plympton, Plymouth, Devon, PL72HN, GB",
+  "website": "https://www.elmmotorcompany.co.uk/",
+  "facebook": "https://www.facebook.com/elmmotorco",
+  "logoPath": "https://www.elmmotorcompany.co.uk/admin/uploaded_photos/site_logo.png?nc=22",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=118-130%20Ridgeway,%20Plympton,%20Plymouth,%20Devon,%20PL72HN,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752279261",
+  "companyName": "ELM Motor Company Ltd",
+  "faviconPath": "https://www.elmmotorcompany.co.uk/favicon.ico?nc=10",
+  "phoneDisplay": "01752279261",
+  "whatsappLink": "https://wa.me/01752279261",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
