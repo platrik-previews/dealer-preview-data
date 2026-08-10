@@ -1,0 +1,11 @@
+{
+  "address": "48 Ashley Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=48%20Ashley%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07733077131",
+  "companyName": "C J Haulage",
+  "phoneDisplay": "07733077131",
+  "whatsappLink": "https://wa.me/07733077131",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
