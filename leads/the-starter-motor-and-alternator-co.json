@@ -1,0 +1,15 @@
+{
+  "email": "sales@startermotor-alternator.co.uk",
+  "address": "40 Valley Road",
+  "website": "https://www.startermotoralternators.co.uk/",
+  "logoPath": "https://www.startermotoralternators.co.uk/cdn/shop/files/logo243346.png?v=1625991610&width=500",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=40%20Valley%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441752339871",
+  "companyName": "The Starter Motor and Alternator Co",
+  "faviconPath": "https://www.startermotoralternators.co.uk/cdn/shop/files/ALTERNATORwhite.png?crop=center&height=32&v=1724651686&width=32",
+  "phoneDisplay": "+441752339871",
+  "whatsappLink": "https://wa.me/441752339871",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
