@@ -1,0 +1,17 @@
+{
+  "email": "sales@plymouthcars.co.uk",
+  "address": "4 Tothill Road,, Plymouth, Devon, PL4 9HU, GB",
+  "website": "https://www.plymouthcars.co.uk/",
+  "facebook": "https://www.facebook.com/carsplymouth",
+  "logoPath": "https://cdn.web.dragon2000.net/wp-content/uploads/sites/251/2021/11/15130108/Plymouth-Cars-logo-for-web-large.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=4%20Tothill%20Road,,%20Plymouth,%20Devon,%20PL4%209HU,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/plymouthcars",
+  "phoneLink": "tel:01752515100",
+  "companyName": "Plymouth Cars",
+  "faviconPath": "https://cdn.web.dragon2000.net/wp-content/uploads/sites/251/2021/11/15125858/Plymouth-Cars-Favicon.png",
+  "phoneDisplay": "01752 515100",
+  "whatsappLink": "https://wa.me/01752515100",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
