@@ -1,0 +1,14 @@
+{
+  "address": "3-5 Market Road",
+  "website": "https://www.transportrepairgarage.co.uk/",
+  "logoPath": "https://www.transportrepairgarage.co.uk/wp-content/uploads/2012/07/credit_card_logos.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=3-5%20Market%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752348156",
+  "companyName": "Newnhan Road Car Sales",
+  "faviconPath": "https://www.transportrepairgarage.co.uk/favicon.ico",
+  "phoneDisplay": "01752348156",
+  "whatsappLink": "https://wa.me/01752348156",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
