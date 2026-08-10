@@ -1,0 +1,14 @@
+{
+  "address": "Crawley Farm, Yarcombe",
+  "website": "https://www.duffields.co.uk/",
+  "logoPath": "https://www.duffields.co.uk/wp-content/themes/duffields/img/site-basics/duffields-logo.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Crawley%20Farm,%20Yarcombe",
+  "renderer": "dealership",
+  "phoneLink": "tel:0146068520",
+  "companyName": "Riverside Feeds Ltd.",
+  "faviconPath": "https://www.duffields.co.uk/wp-content/themes/duffields/img/favicon.ico",
+  "phoneDisplay": "0146068520",
+  "whatsappLink": "https://wa.me/0146068520",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
