@@ -1,0 +1,17 @@
+{
+  "email": "theplatrik@gmail.com",
+  "address": "Unit 2 Priorswood Road, Taunton, TA2 8DN",
+  "website": "https://www.howardsgroup.co.uk/dealerships/honda-taunton",
+  "facebook": "https://www.facebook.com/HowardsMotorGroup",
+  "logoPath": "https://www.howardsgroup.co.uk/images/logo-dark.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202%20Priorswood%20Road,%20Taunton,%20TA2%208DN",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/howardsmotorgroup",
+  "phoneLink": "tel:01823239140",
+  "companyName": "Howards Honda Taunton",
+  "faviconPath": "https://www.howardsgroup.co.uk/images/favicon.ico",
+  "phoneDisplay": "01823239140",
+  "whatsappLink": "https://wa.me/01823239140",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
