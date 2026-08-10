@@ -1,0 +1,17 @@
+{
+  "email": "sam.smith@surfbay.co.uk",
+  "address": "The Old Airfield",
+  "website": "https://www.sblcaravancentre.co.uk/",
+  "facebook": "https://www.facebook.com/SBLcaravancentre",
+  "logoPath": "https://www.sblcaravancentre.co.uk/sites/default/files/SBLCCLogo2020-adivision-small.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Old%20Airfield",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/sblcaravancentre",
+  "phoneLink": "tel:+441837680100",
+  "companyName": "SBL Caravan Centre",
+  "faviconPath": "https://www.sblcaravancentre.co.uk/sites/all/themes/sblcc/media/favicons/apple-touch-icon-152x152-precomposed.png",
+  "phoneDisplay": "+441837 680100",
+  "whatsappLink": "https://wa.me/441837680100",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
