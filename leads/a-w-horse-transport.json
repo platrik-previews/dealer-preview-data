@@ -1,0 +1,14 @@
+{
+  "address": "Stones Tenement Croford",
+  "website": "http://www.weyhilltransport.co.uk/",
+  "logoPath": "http://www.weyhilltransport.co.uk/images/goffs_ireland.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stones%20Tenement%20Croford",
+  "renderer": "dealership",
+  "phoneLink": "tel:01984623624",
+  "companyName": "A W Horse Transport",
+  "faviconPath": "http://www.weyhilltransport.co.uk/favicon.ico",
+  "phoneDisplay": "01984623624",
+  "whatsappLink": "https://wa.me/01984623624",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
