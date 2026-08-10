@@ -1,0 +1,16 @@
+{
+  "email": "titaniumcars@outlook.com",
+  "address": "64 Valley Road, Plympton, Plymouth, PL7 1RF, GB",
+  "website": "https://www.titaniumcars.co.uk/",
+  "facebook": "https://www.facebook.com/titaniumplympton/",
+  "logoPath": "https://www.titaniumcars.co.uk/media/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=64%20Valley%20Road,%20Plympton,%20Plymouth,%20PL7%201RF,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752936076",
+  "companyName": "Titanium Cars",
+  "faviconPath": "https://www.titaniumcars.co.uk/favicon.png",
+  "phoneDisplay": "01752 936076",
+  "whatsappLink": "https://wa.me/01752936076",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
