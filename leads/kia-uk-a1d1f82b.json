@@ -1,0 +1,11 @@
+{
+  "address": "20 Priorswood Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=20%20Priorswood%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823364150",
+  "companyName": "Kia UK",
+  "phoneDisplay": "+441823364150",
+  "whatsappLink": "https://wa.me/441823364150",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
