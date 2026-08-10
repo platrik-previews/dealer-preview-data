@@ -1,0 +1,15 @@
+{
+  "address": "26 Hyde Park Road",
+  "website": "http://www.eco-drive-school.co.uk/default.asp?page=1",
+  "facebook": "https://www.facebook.com/groups/168030300040/",
+  "logoPath": "http://www.eco-drive-school.co.uk/images/eds_logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=26%20Hyde%20Park%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07738815137",
+  "companyName": "Eco Drive",
+  "faviconPath": "http://www.eco-drive-school.co.uk/favicon.ico",
+  "phoneDisplay": "07738815137",
+  "whatsappLink": "https://wa.me/07738815137",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
