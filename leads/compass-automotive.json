@@ -1,0 +1,17 @@
+{
+  "email": "sales@compassautomotive.co.uk",
+  "address": "Compass Automotive, Market Way",
+  "website": "https://www.compassautomotive.co.uk/",
+  "facebook": "https://www.facebook.com/itscompassautomotive",
+  "logoPath": "https://www.compassautomotive.co.uk/wp-content/uploads/sites/3/2024/09/Compass-Automotive-logo-black.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Compass%20Automotive,%20Market%20Way",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/compassautomotive/",
+  "phoneLink": "tel:01278662836",
+  "companyName": "Compass Automotive",
+  "faviconPath": "https://www.compassautomotive.co.uk/wp-content/uploads/sites/3/2024/06/fav.png",
+  "phoneDisplay": "01278 662836",
+  "whatsappLink": "https://wa.me/01278662836",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
