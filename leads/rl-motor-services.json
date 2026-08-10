@@ -1,0 +1,15 @@
+{
+  "email": "enquiries@rlmotorservices.co.uk",
+  "address": "12 Galileo Cl",
+  "website": "https://www.rlmotorservices.co.uk/",
+  "logoPath": "https://d1ww5dgfk1en4c.cloudfront.net/wp-content/uploads/2018/06/14104645/RL-Motors-BMW-IMAGE.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%20Galileo%20Cl",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752336666",
+  "companyName": "RL Motor Services",
+  "faviconPath": "https://d1ww5dgfk1en4c.cloudfront.net/wp-content/uploads/2021/09/21092604/rlmotorservices-Favicon.png",
+  "phoneDisplay": "01752 336666",
+  "whatsappLink": "https://wa.me/01752336666",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
