@@ -1,0 +1,11 @@
+{
+  "address": "Marsh Mills",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marsh%20Mills",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752636334",
+  "companyName": "Vospers Nissan Plymouth",
+  "phoneDisplay": "01752636334",
+  "whatsappLink": "https://wa.me/01752636334",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
