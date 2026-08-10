@@ -1,0 +1,13 @@
+{
+  "address": "Alexandra Road",
+  "website": "http://www.plymouthvanandman.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07400288002",
+  "companyName": "Ryans Removals",
+  "faviconPath": "http://www.plymouthvanandman.co.uk/favicon.ico",
+  "phoneDisplay": "07400288002",
+  "whatsappLink": "https://wa.me/07400288002",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
