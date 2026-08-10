@@ -1,0 +1,16 @@
+{
+  "email": "sales@gogomotors.co.uk",
+  "address": "The warehouse, Mill Rd",
+  "website": "http://www.gogomotors.co.uk/",
+  "facebook": "https://www.facebook.com/p/Go-Go-Motors-100065127805554/",
+  "logoPath": "http://www.gogomotors.co.uk/images/logo.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20warehouse,%20Mill%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01271603007",
+  "companyName": "GoGo Motors",
+  "faviconPath": "http://www.gogomotors.co.uk/favicon.ico",
+  "phoneDisplay": "01271 603 007",
+  "whatsappLink": "https://wa.me/01271603007",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
