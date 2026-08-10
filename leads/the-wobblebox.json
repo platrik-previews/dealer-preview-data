@@ -1,0 +1,16 @@
+{
+  "email": "info@thewobblebox.co.uk",
+  "address": "Unit 2, Notaro Business Park",
+  "website": "https://www.thewobblebox.co.uk/",
+  "logoPath": "https://www.thewobblebox.co.uk/wp-content/uploads/2022/12/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202,%20Notaro%20Business%20Park",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/the_wobblebox/",
+  "phoneLink": "tel:01278767888",
+  "companyName": "The Wobblebox",
+  "faviconPath": "https://www.thewobblebox.co.uk/wp-content/uploads/2023/01/favicons-80x80.png",
+  "phoneDisplay": "01278767888",
+  "whatsappLink": "https://wa.me/01278767888",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
