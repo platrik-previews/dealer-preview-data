@@ -1,0 +1,17 @@
+{
+  "email": "mark.dahncke@audi.com",
+  "address": "Eagle Rd",
+  "website": "https://www.audi.com/en",
+  "facebook": "https://www.facebook.com/audi",
+  "logoPath": "https://static.audi.com/assets/images/frontend/rings18-2GJCA2FU.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Eagle%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/audi/",
+  "phoneLink": "tel:+498418992033",
+  "companyName": "Plymouth Audi",
+  "faviconPath": "https://www.audi.com/apple-touch-icon.png",
+  "phoneDisplay": "+49-841-89-92033",
+  "whatsappLink": "https://wa.me/498418992033",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
