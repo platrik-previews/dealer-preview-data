@@ -1,0 +1,13 @@
+{
+  "address": "74 East Reach",
+  "website": "http://www.holcombescarmart.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=74%20East%20Reach",
+  "renderer": "dealership",
+  "phoneLink": "tel:01823284530",
+  "companyName": "Holcombes Car Mart",
+  "faviconPath": "http://www.holcombescarmart.co.uk/favicon.ico",
+  "phoneDisplay": "01823 284530",
+  "whatsappLink": "https://wa.me/01823284530",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
