@@ -1,0 +1,15 @@
+{
+  "email": "sales@btautos.biz",
+  "address": "Exeter Rd",
+  "website": "https://www.btautos.biz/",
+  "logoPath": "https://www.btautos.biz/wp-content/uploads/2016/07/logowide-1.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Exeter%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+44183783561",
+  "companyName": "B T Autos",
+  "faviconPath": "https://www.btautos.biz/wp-content/uploads/2016/06/cropped-BT-icon-32x32.png",
+  "phoneDisplay": "+44183783561",
+  "whatsappLink": "https://wa.me/44183783561",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
