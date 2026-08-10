@@ -1,0 +1,14 @@
+{
+  "address": "20 Dendy Road",
+  "website": "https://devonshire-car-specialists.co.uk/",
+  "logoPath": "https://devonshire-car-specialists.co.uk/wp-content/uploads/2018/06/logo11.jpg?quality=100.3022033014090",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=20%20Dendy%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803555544",
+  "companyName": "Devonshire Car Specialists",
+  "faviconPath": "https://devonshire-car-specialists.co.uk/favicon.ico",
+  "phoneDisplay": "01803555544",
+  "whatsappLink": "https://wa.me/01803555544",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
