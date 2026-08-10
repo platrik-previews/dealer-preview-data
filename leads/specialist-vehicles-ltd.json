@@ -1,0 +1,16 @@
+{
+  "email": "sales@specialistvehicles.co.uk",
+  "address": "7 Bell Close",
+  "website": "https://www.specialistvehicles.co.uk/",
+  "logoPath": "https://dragon2000-multisite.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/382/2025/09/04141700/Santander_Logo-2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=7%20Bell%20Close",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/specialistvehiclesltd",
+  "phoneLink": "tel:01752343777",
+  "companyName": "Specialist Vehicles Ltd",
+  "faviconPath": "https://cdn.web.dragon2000.net/wp-content/uploads/sites/382/2023/03/01154204/Specialist-Vehicles-Favicon.png",
+  "phoneDisplay": "01752 343777",
+  "whatsappLink": "https://wa.me/01752343777",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
