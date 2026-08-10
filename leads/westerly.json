@@ -1,0 +1,14 @@
+{
+  "address": "The Showground Taunton Road",
+  "website": "https://www.vertubridgwaterbmw.co.uk/",
+  "logoPath": "https://images.ctfassets.net/90a0xfzm8yw3/2QwN5Cneb4KV3ZgZ5w7sna/ae9e914bfffa2a4f54ddf13f4e228398/DI25_000276717_extended_1920x1080px.jpg?fm=jpg&fl=progressive&q=80",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Showground%20Taunton%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:03445395442",
+  "companyName": "Westerly",
+  "faviconPath": "https://www.vertubridgwaterbmw.co.uk/favicon.ico",
+  "phoneDisplay": "0344 539 5442",
+  "whatsappLink": "https://wa.me/03445395442",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
