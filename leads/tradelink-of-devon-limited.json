@@ -1,0 +1,13 @@
+{
+  "address": "Shute Garage",
+  "website": "https://www.tradelinkdevon.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shute%20Garage",
+  "renderer": "dealership",
+  "phoneLink": "tel:01404831342",
+  "companyName": "Tradelink of Devon Limited",
+  "faviconPath": "https://www.tradelinkdevon.co.uk/favicon.ico",
+  "phoneDisplay": "01404 831342",
+  "whatsappLink": "https://wa.me/01404831342",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
