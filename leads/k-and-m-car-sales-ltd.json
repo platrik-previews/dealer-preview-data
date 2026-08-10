@@ -1,0 +1,16 @@
+{
+  "email": "sales@kandmcarsales.co.uk",
+  "address": "Unit 1 and 2, Antex Park, Westbridge Industrial Estate",
+  "website": "https://www.kandmcarsalesltd.co.uk/",
+  "facebook": "https://en-gb.facebook.com/familyruncarsales/",
+  "logoPath": "https://www.kandmcarsalesltd.co.uk/content/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%201%20and%202,%20Antex%20Park,%20Westbridge%20Industrial%20Estate",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441822616565",
+  "companyName": "K and M Car Sales Ltd",
+  "faviconPath": "https://www.kandmcarsalesltd.co.uk/favicon.ico",
+  "phoneDisplay": "+441822616565",
+  "whatsappLink": "https://wa.me/441822616565",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
