@@ -1,0 +1,16 @@
+{
+  "email": "info@formulatrailers.co.uk",
+  "address": "Wellington, ENG, TA21 9HW, GB",
+  "website": "http://formulatrailers.co.uk/",
+  "facebook": "https://www.facebook.com/FormulaTrailers.co.uk",
+  "logoPath": "http://formulatrailers.co.uk/images/ft_logo_new.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wellington,%20ENG,%20TA21%209HW,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823661200",
+  "companyName": "Formula Trailers,, Brian-James Trailers Main Dealer in the SW UK",
+  "faviconPath": "http://formulatrailers.co.uk/favicon.ico",
+  "phoneDisplay": "+441823661200",
+  "whatsappLink": "https://wa.me/441823661200",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
