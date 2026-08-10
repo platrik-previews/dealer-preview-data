@@ -1,0 +1,14 @@
+{
+  "address": "56 Oreston Road",
+  "website": "http://www.roweshonda.co.uk/",
+  "logoPath": "https://www.hawkhost.com/img/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=56%20Oreston%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441752485333",
+  "companyName": "Rowes Honda",
+  "faviconPath": "http://www.roweshonda.co.uk/favicon.ico",
+  "phoneDisplay": "+441752485333",
+  "whatsappLink": "https://wa.me/441752485333",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
