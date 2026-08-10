@@ -1,0 +1,16 @@
+{
+  "address": "1 Venton Ind Unit",
+  "website": "https://www.polaris-totnes.co.uk/",
+  "facebook": "https://www.facebook.com/PolarisBritain",
+  "logoPath": "https://www.polaris-totnes.co.uk/fileadmin/templates/pol_MY18/img/logo-polaris-black.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Venton%20Ind%20Unit",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/polarisbritain/",
+  "phoneLink": "tel:01803678258",
+  "companyName": "Polaris Totnes",
+  "faviconPath": "https://www.polaris-totnes.co.uk/favicons/favicon.ico",
+  "phoneDisplay": "01803 678258",
+  "whatsappLink": "https://wa.me/01803678258",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
