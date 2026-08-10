@@ -1,0 +1,15 @@
+{
+  "address": "Great Western Road",
+  "website": "https://www.chiefmotorhomehire.com/",
+  "facebook": "https://www.facebook.com/pages/Chief-Motorhome-Hire/1377893469122652",
+  "logoPath": "https://www.chiefmotorhomehire.com/images/chief-motorhome-rental-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Great%20Western%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803520494",
+  "companyName": "Chief Motorhome Hire",
+  "faviconPath": "https://www.chiefmotorhomehire.com/sites/default/files/index.png",
+  "phoneDisplay": "01803520494",
+  "whatsappLink": "https://wa.me/01803520494",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
