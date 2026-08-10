@@ -1,0 +1,14 @@
+{
+  "email": "sales@birchellmarine.co.uk",
+  "address": "1 Beacon Hill",
+  "website": "http://www.birchellmarine.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Beacon%20Hill",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441803214305",
+  "companyName": "Birchell Marine",
+  "faviconPath": "http://www.birchellmarine.co.uk/favicon.ico",
+  "phoneDisplay": "+441803214305",
+  "whatsappLink": "https://wa.me/441803214305",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
