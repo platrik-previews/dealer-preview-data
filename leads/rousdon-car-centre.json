@@ -1,0 +1,16 @@
+{
+  "email": "rousdoncarcentre@aol.com",
+  "address": "Rousdon Garage",
+  "website": "https://www.rousdoncarcentre.co.uk/",
+  "facebook": "https://www.facebook.com/rousdoncars/",
+  "logoPath": "https://images.67degreescdn.co.uk/R0eXGN3YxJ13z0rTZp4nFtRKWbI=/250x/filters:no_upscale()/95/1/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rousdon%20Garage",
+  "renderer": "dealership",
+  "phoneLink": "tel:01297444544",
+  "companyName": "Rousdon Car Centre",
+  "faviconPath": "https://images.67degreescdn.co.uk/uCpAnNA2SkUspTbvzDMMcDCq3Qw=/196x196/smart/95/1/15671705115d691fcf4dd81_favicon.jpg",
+  "phoneDisplay": "01297 444544",
+  "whatsappLink": "https://wa.me/01297444544",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
