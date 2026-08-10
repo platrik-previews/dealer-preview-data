@@ -1,0 +1,17 @@
+{
+  "email": "sales@centralmotors.co.uk",
+  "address": "East Street, Chard, Somerset, TA201EP, GB",
+  "website": "https://www.centralmotors.co.uk/",
+  "facebook": "https://www.facebook.com/profile.php?id=100086022595112",
+  "logoPath": "https://www.centralmotors.co.uk/admin/uploaded_photos/site_logo.png?nc=23",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=East%20Street,%20Chard,%20Somerset,%20TA201EP,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/centralmotorsltd/",
+  "phoneLink": "tel:0146064747",
+  "companyName": "Central Motors",
+  "faviconPath": "https://www.centralmotors.co.uk/favicon.ico?nc=10",
+  "phoneDisplay": "0146064747",
+  "whatsappLink": "https://wa.me/0146064747",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
