@@ -1,0 +1,14 @@
+{
+  "address": "The Airfield",
+  "website": "https://www.surfbayleisure.co.uk/",
+  "logoPath": "https://www.surfbayleisure.co.uk/sites/default/files/styles/site_logo/public/logo/SurfBayLogo2020-blue-svg_0.png?itok=Wuznd_yF",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Airfield",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278751171",
+  "companyName": "Surf Bay Leisure",
+  "faviconPath": "https://www.surfbayleisure.co.uk/sites/default/files/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01278 751171",
+  "whatsappLink": "https://wa.me/01278751171",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
