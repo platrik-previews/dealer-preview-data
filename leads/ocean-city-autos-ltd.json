@@ -1,0 +1,15 @@
+{
+  "email": "oceancityautos@gmail.com",
+  "address": "Plymouth, ENG, GB",
+  "website": "https://oceancityautos.co.uk/",
+  "logoPath": "https://img1.wsimg.com/isteam/stock/ZOZVb89",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Plymouth,%20ENG,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447525418303",
+  "companyName": "Ocean City Autos Ltd",
+  "faviconPath": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:57,h:57,m",
+  "phoneDisplay": "+447525418303",
+  "whatsappLink": "https://wa.me/447525418303",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
