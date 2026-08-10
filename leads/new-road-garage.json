@@ -1,0 +1,15 @@
+{
+  "email": "newroadgarage@aol.com",
+  "address": "New Rd",
+  "website": "https://newroadgarage.uk/",
+  "logoPath": "https://new-road-garage-public.s3.eu-west-2.amazonaws.com/logo-1655727972kvvxz-16890190069JuSx.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=New%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:0180562500807977931077",
+  "companyName": "New Road Garage",
+  "faviconPath": "https://newroadgarage.uk/favicon.ico",
+  "phoneDisplay": "T- 01805 625 008 M- 07977 931 077",
+  "whatsappLink": "https://wa.me/0180562500807977931077",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
