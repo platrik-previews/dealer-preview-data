@@ -1,0 +1,13 @@
+{
+  "address": "Emerald Farm",
+  "website": "https://www.southwestmotorhomes.co.uk/cgi-sys/suspendedpage.cgi",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Emerald%20Farm",
+  "renderer": "dealership",
+  "phoneLink": "tel:01460234848",
+  "companyName": "South West Motorhomes",
+  "faviconPath": "https://www.southwestmotorhomes.co.uk/favicon.ico",
+  "phoneDisplay": "01460 234848",
+  "whatsappLink": "https://wa.me/01460234848",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
