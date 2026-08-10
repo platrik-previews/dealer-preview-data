@@ -1,0 +1,17 @@
+{
+  "email": "nick@trailerservicingsouthwest.co.uk",
+  "address": "Unit 2 Cranmere Rd",
+  "website": "https://trailerservicingsouthwest.co.uk/",
+  "facebook": "https://www.facebook.com/trailerservicingsouthwest",
+  "logoPath": "https://trailerservicingsouthwest.co.uk/wp-content/uploads/2017/01/TSWHeader5.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202%20Cranmere%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/trailerservicingsouthwest/",
+  "phoneLink": "tel:+447903006704",
+  "companyName": "Trailer Servicing South West",
+  "faviconPath": "https://trailerservicingsouthwest.co.uk/wp-content/uploads/2017/01/Icon-1-150x150.png",
+  "phoneDisplay": "+447903006704",
+  "whatsappLink": "https://wa.me/447903006704",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
