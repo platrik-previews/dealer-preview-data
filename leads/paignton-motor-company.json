@@ -1,0 +1,16 @@
+{
+  "email": "sales@paigntonmotorcompany.co.uk",
+  "address": "Long Road, Paignton, Devon, TQ47BL, GB",
+  "website": "https://www.paigntonmotorcompany.co.uk/",
+  "facebook": "https://www.facebook.com/Paigntonmotorcompany/",
+  "logoPath": "https://www.paigntonmotorcompany.co.uk/admin/uploaded_photos/site_logo.png?nc=21",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Long%20Road,%20Paignton,%20Devon,%20TQ47BL,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803556799",
+  "companyName": "Paignton Motor Company",
+  "faviconPath": "https://www.paigntonmotorcompany.co.uk/favicon.ico?nc=10",
+  "phoneDisplay": "01803556799",
+  "whatsappLink": "https://wa.me/01803556799",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
