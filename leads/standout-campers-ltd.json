@@ -1,0 +1,14 @@
+{
+  "email": "info@standoutcampers.co.uk",
+  "address": "Chivenor Cross",
+  "website": "https://www.standoutcampers.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Chivenor%20Cross",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447800909004",
+  "companyName": "Standout Campers Ltd",
+  "faviconPath": "https://www.standoutcampers.co.uk/favicon.ico",
+  "phoneDisplay": "+447800909004",
+  "whatsappLink": "https://wa.me/447800909004",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
