@@ -1,0 +1,14 @@
+{
+  "address": "Cornishway West",
+  "website": "https://www.holleyautobodies.co.uk/",
+  "logoPath": "https://www.holleyautobodies.co.uk/wp-content/uploads/home-logos-updated-768x313-1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cornishway%20West",
+  "renderer": "dealership",
+  "phoneLink": "tel:01823334252",
+  "companyName": "Holley Autobodies - Taunton",
+  "faviconPath": "https://www.holleyautobodies.co.uk/wp-content/themes/holleyauto/img/favicons/apple-touch-icon-57x57.png",
+  "phoneDisplay": "01823 334 252",
+  "whatsappLink": "https://wa.me/01823334252",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
