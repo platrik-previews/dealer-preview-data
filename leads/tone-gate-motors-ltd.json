@@ -1,0 +1,15 @@
+{
+  "email": "info@tonegatemotors.co.uk",
+  "address": "Tonedale Industrial Estate, Milverton Rd",
+  "website": "https://www.tonegatemotors.co.uk/",
+  "logoPath": "https://www.tonegatemotors.co.uk/images/tone-gate-motors-logo-small.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tonedale%20Industrial%20Estate,%20Milverton%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823667373",
+  "companyName": "Tone Gate Motors Ltd",
+  "faviconPath": "https://www.tonegatemotors.co.uk/favicon.ico",
+  "phoneDisplay": "+441823667373",
+  "whatsappLink": "https://wa.me/441823667373",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
