@@ -1,0 +1,16 @@
+{
+  "email": "info@formulacars.co.uk",
+  "address": "The South West leading totally independent Volvo specialist., Poole Trading Estate, Poole",
+  "website": "http://www.formulacars.co.uk/",
+  "facebook": "https://www.facebook.com/FormulaCarsvolvo/?ref=page_internal",
+  "logoPath": "http://www.formulacars.co.uk/images/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20South%20West%20leading%20totally%20independent%20Volvo%20specialist.,%20Poole%20Trading%20Estate,%20Poole",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441823661200",
+  "companyName": "Formula Cars",
+  "faviconPath": "http://www.formulacars.co.uk/favicon.ico",
+  "phoneDisplay": "+441823661200",
+  "whatsappLink": "https://wa.me/441823661200",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
