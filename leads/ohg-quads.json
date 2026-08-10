@@ -1,0 +1,16 @@
+{
+  "email": "info@ohgquads.com",
+  "address": "1 Bucknell Wy",
+  "website": "https://www.ohgquads.co.uk/",
+  "facebook": "https://www.facebook.com/ohgquadssouthmolton",
+  "logoPath": "https://www.ohgquads.co.uk/wp-content/uploads/2023/08/OHG-Quads-logo-black.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Bucknell%20Wy",
+  "renderer": "dealership",
+  "phoneLink": "tel:01769574048",
+  "companyName": "OHG Quads",
+  "faviconPath": "https://www.ohgquads.co.uk/wp-content/uploads/2025/12/ohg-favicon.png",
+  "phoneDisplay": "01769 574048",
+  "whatsappLink": "https://wa.me/01769574048",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
