@@ -1,0 +1,15 @@
+{
+  "email": "tim@northdevonclassiccars.co.uk",
+  "address": "Barnstaple, ENG, GB",
+  "website": "https://www.northdevonclassiccars.co.uk/",
+  "logoPath": "https://static.wixstatic.com/media/b3ca9e_3dde9af29d504505aa3d2179e6a2d066~mv2.png/v1/fill/w_719,h_364,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NDCC%20Front%20Sign%20v2%20PNG.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Barnstaple,%20ENG,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447504321617",
+  "companyName": "North Devon Classic Cars",
+  "faviconPath": "https://static.parastorage.com/client/pfavico.ico",
+  "phoneDisplay": "+447504321617",
+  "whatsappLink": "https://wa.me/447504321617",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
