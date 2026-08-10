@@ -1,0 +1,13 @@
+{
+  "address": "Wonton Farm",
+  "website": "http://www.totnescarsales.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wonton%20Farm",
+  "renderer": "dealership",
+  "phoneLink": "tel:01364649528",
+  "companyName": "Totnes Car Sales",
+  "faviconPath": "http://www.totnescarsales.co.uk/favicon.ico",
+  "phoneDisplay": "01364 649528",
+  "whatsappLink": "https://wa.me/01364649528",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
