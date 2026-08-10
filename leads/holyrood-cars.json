@@ -1,0 +1,14 @@
+{
+  "address": "Furnham Rd",
+  "website": "https://www.holyroodcars.co.uk/",
+  "logoPath": "https://www.holyroodcars.co.uk/images/common/logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Furnham%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:0146064178",
+  "companyName": "Holyrood Cars",
+  "faviconPath": "https://www.holyroodcars.co.uk/images/common/favicon.ico",
+  "phoneDisplay": "01460 64178",
+  "whatsappLink": "https://wa.me/0146064178",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
