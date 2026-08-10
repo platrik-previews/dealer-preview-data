@@ -1,0 +1,15 @@
+{
+  "address": "Ham Cottage, Ham",
+  "website": "https://www.warren-park.co.uk/",
+  "facebook": "http://www.facebook.com",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ham%20Cottage,%20Ham",
+  "renderer": "dealership",
+  "instagram": "http://www.instagram.com",
+  "phoneLink": "tel:01784778110",
+  "companyName": "Warrenpark",
+  "faviconPath": "https://static.parastorage.com/client/pfavico.ico",
+  "phoneDisplay": "01784778110",
+  "whatsappLink": "https://wa.me/01784778110",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
