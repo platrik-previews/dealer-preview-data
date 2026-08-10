@@ -1,0 +1,14 @@
+{
+  "address": "232 Torquay Rd",
+  "website": "https://www.prestoncarsalespaignton.co.uk/",
+  "logoPath": "https://www.prestoncarsalespaignton.co.uk/wp-content/uploads/2021/05/preston-car-sales.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=232%20Torquay%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803555518",
+  "companyName": "Preston Car Sales",
+  "faviconPath": "https://www.prestoncarsalespaignton.co.uk/favicon.ico",
+  "phoneDisplay": "01803 555518",
+  "whatsappLink": "https://wa.me/01803555518",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
