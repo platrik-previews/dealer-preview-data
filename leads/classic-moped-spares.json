@@ -1,0 +1,16 @@
+{
+  "email": "classicmopedspares@hotmail.co.uk",
+  "address": "New House Farm",
+  "website": "https://www.classicmopedspares.com/",
+  "facebook": "https://www.facebook.com/463915780372546",
+  "logoPath": "https://www.classicmopedspares.com/media/logo/default/logo-new.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=New%20House%20Farm",
+  "renderer": "dealership",
+  "phoneLink": "tel:07810870077",
+  "companyName": "Classic Moped Spares",
+  "faviconPath": "https://www.classicmopedspares.com/media/favicon/default/favicon.png",
+  "phoneDisplay": "07810 870 077",
+  "whatsappLink": "https://wa.me/07810870077",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
