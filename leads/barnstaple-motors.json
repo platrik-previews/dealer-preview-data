@@ -1,0 +1,14 @@
+{
+  "email": "d1885enquiries@nissandealergb.co.uk",
+  "address": "\"9 Upcott Avenue, Pottington Business Park\"",
+  "website": "http://www.hamiltongarage.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=\"9%20Upcott%20Avenue,%20Pottington%20Business%20Park\"",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441271344888",
+  "companyName": "Barnstaple Motors",
+  "faviconPath": "http://www.hamiltongarage.co.uk/favicon.ico",
+  "phoneDisplay": "+441271344888",
+  "whatsappLink": "https://wa.me/441271344888",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
