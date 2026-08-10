@@ -1,0 +1,11 @@
+{
+  "address": "Taunton Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Taunton%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441278261642",
+  "companyName": "Vertu BMW Bridgwater",
+  "phoneDisplay": "+441278261642",
+  "whatsappLink": "https://wa.me/441278261642",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
