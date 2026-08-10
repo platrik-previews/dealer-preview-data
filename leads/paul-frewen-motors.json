@@ -1,0 +1,16 @@
+{
+  "email": "paulfrewenmotors@gmail.com",
+  "address": "Furnham Road, Chard, Somerset, TA20 1AB",
+  "website": "https://paulfrewenmotors.co.uk/",
+  "facebook": "https://www.facebook.com/paulfrewenmotors",
+  "logoPath": "https://paulfrewenmotors.co.uk/wp-content/uploads/sites/2705/2022/02/paulfre.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Furnham%20Road,%20Chard,%20Somerset,%20TA20%201AB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441460239000",
+  "companyName": "Paul Frewen Motors",
+  "faviconPath": "https://paulfrewenmotors.co.uk/favicon.ico",
+  "phoneDisplay": "+441460239000",
+  "whatsappLink": "https://wa.me/441460239000",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
