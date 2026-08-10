@@ -1,0 +1,11 @@
+{
+  "address": "96 Barnfield Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=96%20Barnfield%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01803553015",
+  "companyName": "Torbay Trailer & Towbars",
+  "phoneDisplay": "01803553015",
+  "whatsappLink": "https://wa.me/01803553015",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
