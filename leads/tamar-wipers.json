@@ -1,0 +1,15 @@
+{
+  "email": "tamarwipers@gmail.com",
+  "address": "Tamar View Nurseries",
+  "website": "https://tamarwipersandbulbs.co.uk/",
+  "logoPath": "https://tamarwipersandbulbs.co.uk/TyreBanner.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tamar%20View%20Nurseries",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447575023617",
+  "companyName": "Tamar wipers",
+  "faviconPath": "https://tamarwipersandbulbs.co.uk/favicon.ico",
+  "phoneDisplay": "+447575023617",
+  "whatsappLink": "https://wa.me/447575023617",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
