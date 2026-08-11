@@ -1,0 +1,17 @@
+{
+  "email": "enquiries@ridersmotorcycles.com",
+  "address": "Riders House, Wylds Rd",
+  "website": "https://www.ridersmotorcycles.com/",
+  "facebook": "https://www.facebook.com/ridersmotorcycles/",
+  "logoPath": "https://www.ridersmotorcycles.com/images/dealer/main-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Riders%20House,%20Wylds%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/ridersmotorcycles_uk/",
+  "phoneLink": "tel:+4401278457652",
+  "companyName": "Riders of Bridgwater Ltd",
+  "faviconPath": "https://www.ridersmotorcycles.com/favicon.ico",
+  "phoneDisplay": "+4401278 457652",
+  "whatsappLink": "https://wa.me/4401278457652",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
