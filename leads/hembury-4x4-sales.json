@@ -1,0 +1,14 @@
+{
+  "address": "Hembury Castle Frithelstock",
+  "website": "http://www.hembury4x4.co.uk/",
+  "logoPath": "https://www.hembury4x4.co.uk/mediastore/images/bg_spcr.gif",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Hembury%20Castle%20Frithelstock",
+  "renderer": "dealership",
+  "phoneLink": "tel:07917874905",
+  "companyName": "Hembury 4x4 Sales",
+  "faviconPath": "https://www.hembury4x4.co.uk/mediastore/favicon.ico",
+  "phoneDisplay": "07917 874905",
+  "whatsappLink": "https://wa.me/07917874905",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
