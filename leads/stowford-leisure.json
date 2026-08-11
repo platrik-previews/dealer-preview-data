@@ -1,0 +1,17 @@
+{
+  "email": "sales.devon@stowfordleisure.co.uk",
+  "address": "A361 West Down, Ilfracombe, Devon, EX34 8NU",
+  "website": "https://stowfordleisure.co.uk/",
+  "facebook": "https://www.facebook.com/stowfordleisuredevon",
+  "logoPath": "https://staging5.stowfordcaravancentre.co.uk/wp-content/uploads/2018/04/favicon.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=A361%20West%20Down,%20Ilfracombe,%20Devon,%20EX34%208NU",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/stowfordleisuredevon/",
+  "phoneLink": "tel:01271889339",
+  "companyName": "Stowford Leisure",
+  "faviconPath": "https://stowfordleisure.co.uk/wp-content/uploads/2023/09/SL-icon-new.png",
+  "phoneDisplay": "01271 889339",
+  "whatsappLink": "https://wa.me/01271889339",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
