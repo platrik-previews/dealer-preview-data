@@ -1,0 +1,16 @@
+{
+  "email": "paul@japimportsuk.com",
+  "address": "Brandis Corner",
+  "website": "https://www.japimportsuk.com/",
+  "facebook": "https://www.facebook.com/jdmgarageuk/",
+  "logoPath": "https://www.japimportsuk.com/wp-content/uploads/2021/06/JapimportsUK-Logo-Horiz-2021.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brandis%20Corner",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441409231887",
+  "companyName": "JapImports",
+  "faviconPath": "https://www.japimportsuk.com/wp-content/themes/japimports-2021/favicon.ico",
+  "phoneDisplay": "+441409231887",
+  "whatsappLink": "https://wa.me/441409231887",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
