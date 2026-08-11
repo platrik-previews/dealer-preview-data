@@ -1,0 +1,14 @@
+{
+  "email": "info@thequadcentre.com",
+  "address": "UNIT 7, EXPRESS COURT MULLACOTT BUS PARK",
+  "website": "http://thequadcentre.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=UNIT%207,%20EXPRESS%20COURT%20MULLACOTT%20BUS%20PARK",
+  "renderer": "dealership",
+  "phoneLink": "tel:+44136384263",
+  "companyName": "The Quad Centre",
+  "faviconPath": "http://thequadcentre.com/favicon.ico",
+  "phoneDisplay": "+44136384263",
+  "whatsappLink": "https://wa.me/44136384263",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
