@@ -1,0 +1,17 @@
+{
+  "email": "email@domain.com",
+  "address": "66 Bath Road",
+  "website": "https://carsofsomerset.co.uk/",
+  "facebook": "https://www.facebook.com/CarsOfSomerset/",
+  "logoPath": "https://carsofsomerset.co.uk/wp-content/uploads/2023/02/cropped-sitelogo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=66%20Bath%20Road",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/Cars_Of_Somerset/",
+  "phoneLink": "tel:+447818246616",
+  "companyName": "Cars Of Somerset LTD",
+  "faviconPath": "https://carsofsomerset.co.uk/wp-content/uploads/2023/02/cars-of-somerset-32x32.png",
+  "phoneDisplay": "+447818246616",
+  "whatsappLink": "https://wa.me/447818246616",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
