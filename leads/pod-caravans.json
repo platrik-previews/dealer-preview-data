@@ -1,0 +1,14 @@
+{
+  "address": "Orchard Mills",
+  "website": "https://podcaravans.co.uk/",
+  "logoPath": "https://podcaravans.co.uk/wp-content/uploads/2021/08/podcaravans-logo-150x80.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Orchard%20Mills",
+  "renderer": "dealership",
+  "phoneLink": "tel:01984632322",
+  "companyName": "Pod Caravans",
+  "faviconPath": "https://podcaravans.co.uk/wp-content/uploads/2021/08/cropped-android-chrome-96x96-1-32x32.png",
+  "phoneDisplay": "01984 632322",
+  "whatsappLink": "https://wa.me/01984632322",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
