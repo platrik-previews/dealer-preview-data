@@ -1,0 +1,16 @@
+{
+  "email": "abcarsales@hotmail.com",
+  "address": "Behind Rylands Garage, St Anns Chapel, Gunnislake, Cornwall, PL189HW, GB",
+  "website": "https://www.abcar-sales.co.uk/",
+  "facebook": "https://en-gb.facebook.com/ABCarSales.co.uk/",
+  "logoPath": "https://www.abcar-sales.co.uk/admin/uploaded_photos/site_logo.png?nc=01",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Behind%20Rylands%20Garage,%20St%20Anns%20Chapel,%20Gunnislake,%20Cornwall,%20PL189HW,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:07342171858",
+  "companyName": "AB Car Sales",
+  "faviconPath": "https://www.abcar-sales.co.uk/favicon.ico?nc=11",
+  "phoneDisplay": "07342171858",
+  "whatsappLink": "https://wa.me/07342171858",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
