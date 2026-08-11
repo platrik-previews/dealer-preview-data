@@ -1,0 +1,16 @@
+{
+  "email": "sales@blueanchorbay.co.uk",
+  "address": "Blue Anchor, Minehead, Somerset, TA246JZ, GB",
+  "website": "https://www.blueanchorbay.co.uk/",
+  "facebook": "https://www.facebook.com/blue.anchorbaygarage/?locale=en_GB",
+  "logoPath": "https://www.blueanchorbay.co.uk/admin/uploaded_photos/site_logo.png?nc=02",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Blue%20Anchor,%20Minehead,%20Somerset,%20TA246JZ,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01643821571",
+  "companyName": "Blue Anchor Bay Garage",
+  "faviconPath": "https://www.blueanchorbay.co.uk/apple-touch-icon.png",
+  "phoneDisplay": "01643821571",
+  "whatsappLink": "https://wa.me/01643821571",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
