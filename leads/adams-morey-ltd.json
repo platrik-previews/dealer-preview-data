@@ -1,0 +1,14 @@
+{
+  "address": "Moorlands Trading Estate, Channon Road",
+  "website": "https://www.daf-plymouth.co.uk/",
+  "facebook": "https://www.facebook.com/sharer/sharer.php?u=http://www.daf-plymouth.co.uk/home/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Moorlands%20Trading%20Estate,%20Channon%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752848359",
+  "companyName": "Adams Morey Ltd.",
+  "faviconPath": "https://www.daf-plymouth.co.uk/favicon.ico",
+  "phoneDisplay": "01752 848359",
+  "whatsappLink": "https://wa.me/01752848359",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
