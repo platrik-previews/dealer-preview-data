@@ -1,0 +1,17 @@
+{
+  "email": "reception@rogeryoung.co.uk",
+  "address": "Wood Acre, Saltash Parkway",
+  "website": "https://www.rogeryoung.co.uk/",
+  "facebook": "https://www.facebook.com/RogerYoungUK/",
+  "logoPath": "https://cogcms.co.uk/media/mqmfn24t/ry-header-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wood%20Acre,%20Saltash%20Parkway",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/RogerYoungUK/",
+  "phoneLink": "tel:+441752849999",
+  "companyName": "Roger Young Land Rover",
+  "faviconPath": "https://www.rogeryoung.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "+441752849999",
+  "whatsappLink": "https://wa.me/441752849999",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
