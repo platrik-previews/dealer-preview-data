@@ -1,0 +1,15 @@
+{
+  "email": "sales@derekmerson.co.uk",
+  "address": "The Metropole Garage North Road Minehead Somerset TA24 5QW",
+  "website": "https://www.derekmerson.co.uk/",
+  "logoPath": "https://www.derekmerson.co.uk/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Metropole%20Garage%20North%20Road%20Minehead%20Somerset%20TA24%205QW",
+  "renderer": "dealership",
+  "phoneLink": "tel:01643702345",
+  "companyName": "Derek Merson",
+  "faviconPath": "https://www.derekmerson.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01643702345",
+  "whatsappLink": "https://wa.me/01643702345",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
