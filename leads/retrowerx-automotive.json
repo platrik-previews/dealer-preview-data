@@ -1,0 +1,12 @@
+{
+  "email": "retrowerx@gmail.com",
+  "address": "Unit 8A, Minstrels Farm, Withy Rd",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%208A,%20Minstrels%20Farm,%20Withy%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447754303657",
+  "companyName": "RetrowerX Automotive",
+  "phoneDisplay": "+447754303657",
+  "whatsappLink": "https://wa.me/447754303657",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
