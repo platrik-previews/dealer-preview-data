@@ -1,0 +1,16 @@
+{
+  "address": "1 Eastover",
+  "website": "http://www.hickleyshealthcare.com/",
+  "facebook": "https://www.facebook.com/hickleyshealthcare",
+  "logoPath": "http://www.hickleyshealthcare.com/images/layout/hc_logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Eastover",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/hickleysmobility/",
+  "phoneLink": "tel:+441823328555",
+  "companyName": "Hickleys Healthcare Bridgwater",
+  "faviconPath": "http://www.hickleyshealthcare.com/favicon.ico",
+  "phoneDisplay": "+441823328555",
+  "whatsappLink": "https://wa.me/441823328555",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
