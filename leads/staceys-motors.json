@@ -1,0 +1,16 @@
+{
+  "email": "info@staceysmotors.co.uk",
+  "address": "Quantock Terrace, The Drove, Bridgwater, Somerset, TA6 4BA",
+  "website": "https://www.staceysmotors.co.uk/",
+  "facebook": "https://www.facebook.com/StaceysMotors/",
+  "logoPath": "https://bluesky.sirv.com/Websites/Staceys-Motors/Logos/home-logo.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Quantock%20Terrace,%20The%20Drove,%20Bridgwater,%20Somerset,%20TA6%204BA",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278458400",
+  "companyName": "Staceys Motors",
+  "faviconPath": "https://www.staceysmotors.co.uk/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01278458400",
+  "whatsappLink": "https://wa.me/01278458400",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
