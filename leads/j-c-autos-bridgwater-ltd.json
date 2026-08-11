@@ -1,0 +1,16 @@
+{
+  "email": "jamiecarter16@hotmail.co.uk",
+  "address": "Warwick Service Station, 18 Bristol Road, Pawlett, Bridgwater, Somerset, TA64RT, GB",
+  "website": "https://www.jcautosbridgwater.co.uk/",
+  "facebook": "https://www.facebook.com/JCAutosBridgwaterLtd/",
+  "logoPath": "https://www.jcautosbridgwater.co.uk/admin/uploaded_photos/site_logo.png?nc=02",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Warwick%20Service%20Station,%2018%20Bristol%20Road,%20Pawlett,%20Bridgwater,%20Somerset,%20TA64RT,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:07876032537",
+  "companyName": "J C Autos Bridgwater Ltd",
+  "faviconPath": "https://www.jcautosbridgwater.co.uk/favicon.ico?nc=11",
+  "phoneDisplay": "07876032537",
+  "whatsappLink": "https://wa.me/07876032537",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
