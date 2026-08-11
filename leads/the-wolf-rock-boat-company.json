@@ -1,0 +1,15 @@
+{
+  "email": "contact@thewolfrock.co.uk",
+  "address": "Unit 1G, The Wolf Rock Boat Company, South Hams Business Park",
+  "website": "https://thewolfrock.co.uk/rya-training",
+  "logoPath": "https://media.base44.com/images/public/695baa8c20dea5d3e433d24a/1415c394d_TheWolfRockFavicon.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%201G,%20The%20Wolf%20Rock%20Boat%20Company,%20South%20Hams%20Business%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441548855751",
+  "companyName": "The Wolf Rock Boat Company",
+  "faviconPath": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/695baa8c20dea5d3e433d24a/c55cab809_TheWolfRock.jpg",
+  "phoneDisplay": "+441548855751",
+  "whatsappLink": "https://wa.me/441548855751",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
