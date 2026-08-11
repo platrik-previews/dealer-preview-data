@@ -1,0 +1,14 @@
+{
+  "address": "87 West Allington",
+  "website": "https://westroadgarage.com/",
+  "logoPath": "https://garage.dorsetupholstery.co.uk/wp-content/uploads/2022/06/garage2-1024x369.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=87%20West%20Allington",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441308422611",
+  "companyName": "West Road Garage",
+  "faviconPath": "https://westroadgarage.com/favicon.ico",
+  "phoneDisplay": "+441308422611",
+  "whatsappLink": "https://wa.me/441308422611",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
