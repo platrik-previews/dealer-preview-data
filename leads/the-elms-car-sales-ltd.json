@@ -1,0 +1,16 @@
+{
+  "email": "theelmscarsales@gmail.com",
+  "address": "16 Bristol Road",
+  "website": "https://www.theelmscarsales.co.uk/",
+  "facebook": "https://www.facebook.com/theelmscarsales/",
+  "logoPath": "https://www.theelmscarsales.co.uk/images/mediacache/img-5_maxh-1024_maxw-1024.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=16%20Bristol%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07971248920",
+  "companyName": "The Elms Car Sales Ltd",
+  "faviconPath": "https://www.theelmscarsales.co.uk/favicon-32x32.png",
+  "phoneDisplay": "07971248920",
+  "whatsappLink": "https://wa.me/07971248920",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
