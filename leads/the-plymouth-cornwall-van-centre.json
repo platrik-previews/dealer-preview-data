@@ -1,0 +1,11 @@
+{
+  "address": "1 Saltash Business Park",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Saltash%20Business%20Park",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752840600",
+  "companyName": "The Plymouth & Cornwall Van Centre",
+  "phoneDisplay": "01752840600",
+  "whatsappLink": "https://wa.me/01752840600",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
