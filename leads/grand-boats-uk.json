@@ -1,0 +1,15 @@
+{
+  "email": "info@willsmarine.co.uk",
+  "address": "Wills Marine Ltd",
+  "website": "https://www.grand-boats.co.uk/",
+  "logoPath": "https://www.grand-boats.co.uk/uploads/1/1/3/8/113852367/published/grand-logo-invo3.png?1777468440",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Wills%20Marine%20Ltd",
+  "renderer": "dealership",
+  "phoneLink": "tel:01548852424",
+  "companyName": "Grand Boats UK",
+  "faviconPath": "https://www.grand-boats.co.uk/favicon.ico",
+  "phoneDisplay": "01548852424",
+  "whatsappLink": "https://wa.me/01548852424",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
