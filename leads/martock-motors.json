@@ -1,0 +1,16 @@
+{
+  "email": "martockmotors@gmail.com",
+  "address": "Garage forecourt, Yandles",
+  "website": "https://www.martockmotors.co.uk/",
+  "facebook": "https://www.facebook.com/p/Martock-Motors-61558920913253/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Garage%20forecourt,%20Yandles",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/martockmotors",
+  "phoneLink": "tel:07586026851",
+  "companyName": "Martock Motors",
+  "faviconPath": "https://www.martockmotors.co.uk/favicon.ico",
+  "phoneDisplay": "07586026851",
+  "whatsappLink": "https://wa.me/07586026851",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
