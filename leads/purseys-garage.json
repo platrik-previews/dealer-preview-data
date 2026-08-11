@@ -1,0 +1,13 @@
+{
+  "address": "10 Main Street",
+  "website": "http://www.purseysvauxhall.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=10%20Main%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441458442275",
+  "companyName": "Purseys Garage",
+  "faviconPath": "http://www.purseysvauxhall.co.uk/favicon.ico",
+  "phoneDisplay": "+441458442275",
+  "whatsappLink": "https://wa.me/441458442275",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
