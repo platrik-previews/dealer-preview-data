@@ -1,0 +1,14 @@
+{
+  "address": "Cains Farm Chideock",
+  "website": "https://www.cainsfarm.co.uk/",
+  "logoPath": "https://www.cainsfarm.co.uk/uploads/1/2/3/8/123833446/editor/cains-farm-limited-logo.png?1611658402",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cains%20Farm%20Chideock",
+  "renderer": "dealership",
+  "phoneLink": "tel:01297489537",
+  "companyName": "Cains Farm",
+  "faviconPath": "https://www.cainsfarm.co.uk/favicon.ico",
+  "phoneDisplay": "01297489537",
+  "whatsappLink": "https://wa.me/01297489537",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
