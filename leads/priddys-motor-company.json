@@ -1,0 +1,16 @@
+{
+  "email": "sales@priddysmotorcompany.co.uk",
+  "address": "Unit 2-4, The Works, Old Cleeve, Minehead, Somerset, TA246HT, GB",
+  "website": "https://www.priddysmotorcompany.co.uk/",
+  "facebook": "https://www.facebook.com/Priddys-Motor-Company-441620439936609/",
+  "logoPath": "https://www.priddysmotorcompany.co.uk/admin/uploaded_photos/site_logo.png?nc=02",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit%202-4,%20The%20Works,%20Old%20Cleeve,%20Minehead,%20Somerset,%20TA246HT,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01643800610",
+  "companyName": "Priddys Motor Company",
+  "faviconPath": "https://www.priddysmotorcompany.co.uk/apple-touch-icon.png",
+  "phoneDisplay": "01643800610",
+  "whatsappLink": "https://wa.me/01643800610",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
