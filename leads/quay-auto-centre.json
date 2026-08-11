@@ -1,0 +1,17 @@
+{
+  "email": "fb@quayautocentre.co.uk",
+  "address": "Higher Union Rd",
+  "website": "https://www.quaykgm.co.uk/",
+  "facebook": "https://www.facebook.com/QuayAutoCentre",
+  "logoPath": "https://www.kgm-motors.co.uk/images/kgm-logo.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Higher%20Union%20Rd",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/quayautocentre/",
+  "phoneLink": "tel:01548852323",
+  "companyName": "Quay Auto Centre",
+  "faviconPath": "https://www.quaykgm.co.uk/favicon/apple-touch-icon.png",
+  "phoneDisplay": "01548 852 323",
+  "whatsappLink": "https://wa.me/01548852323",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
