@@ -1,0 +1,12 @@
+{
+  "email": "info@carsalessouthwest.com",
+  "address": "Bampton St",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bampton%20St",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441643667116",
+  "companyName": "Car Sales South West Ltd",
+  "phoneDisplay": "+441643667116",
+  "whatsappLink": "https://wa.me/441643667116",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
