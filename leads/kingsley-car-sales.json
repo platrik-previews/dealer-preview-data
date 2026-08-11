@@ -1,0 +1,11 @@
+{
+  "address": "The Pill, Kingsley Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Pill,%20Kingsley%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01237473076",
+  "companyName": "Kingsley Car Sales",
+  "phoneDisplay": "01237473076",
+  "whatsappLink": "https://wa.me/01237473076",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
