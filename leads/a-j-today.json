@@ -1,0 +1,11 @@
+{
+  "address": "St Stephens Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=St%20Stephens%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:07979862943",
+  "companyName": "A J Today",
+  "phoneDisplay": "07979862943",
+  "whatsappLink": "https://wa.me/07979862943",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
