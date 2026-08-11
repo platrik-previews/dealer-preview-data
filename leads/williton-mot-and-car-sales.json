@@ -1,0 +1,14 @@
+{
+  "email": "info@bsscars.co.uk",
+  "address": "Taunton, ENG, GB",
+  "website": "http://www.bsscars.co.uk/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Taunton,%20ENG,%20GB",
+  "renderer": "dealership",
+  "phoneLink": "tel:+441984631466",
+  "companyName": "Williton MOT and Car Sales",
+  "faviconPath": "http://www.bsscars.co.uk/favicon.ico",
+  "phoneDisplay": "+441984631466",
+  "whatsappLink": "https://wa.me/441984631466",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
