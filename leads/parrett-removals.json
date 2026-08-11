@@ -1,0 +1,14 @@
+{
+  "address": "17 Westfields, Barrington",
+  "website": "https://www.bartlettsremovals.co.uk/",
+  "logoPath": "https://www.bartlettsremovals.co.uk/index_html_files/2252.jpg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=17%20Westfields,%20Barrington",
+  "renderer": "dealership",
+  "phoneLink": "tel:01935423932",
+  "companyName": "Parrett Removals",
+  "faviconPath": "https://www.bartlettsremovals.co.uk/index_html_files/favicon.ico",
+  "phoneDisplay": "//01935423932",
+  "whatsappLink": "https://wa.me/01935423932",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
