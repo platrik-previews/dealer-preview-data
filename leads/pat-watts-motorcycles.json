@@ -1,0 +1,16 @@
+{
+  "email": "pat@patwattsmotorcycles.co.uk",
+  "address": "40 St Mary Street",
+  "website": "https://www.patwattsmotorcycles.co.uk/",
+  "facebook": "http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.patwattsmotorcycles.co.uk",
+  "logoPath": "https://irp.cdn-website.com//985d95d1/dms3rep/multi/opt/yell-icon-64x64-64x64-64x64-64x64-1920w.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=40%20St%20Mary%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278447165",
+  "companyName": "Pat Watts Motorcycles",
+  "faviconPath": "https://irp.cdn-website.com/985d95d1/site_favicon_16_1667918097106.ico",
+  "phoneDisplay": "01278 447 165",
+  "whatsappLink": "https://wa.me/01278447165",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
