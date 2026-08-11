@@ -1,0 +1,13 @@
+{
+  "address": "Stowey Court, Nether Stowey",
+  "website": "http://www.allworldfreight.com/",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stowey%20Court,%20Nether%20Stowey",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278733600",
+  "companyName": "All World Freight Ltd.",
+  "faviconPath": "http://www.allworldfreight.com/favicon.ico",
+  "phoneDisplay": "01278733600",
+  "whatsappLink": "https://wa.me/01278733600",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
