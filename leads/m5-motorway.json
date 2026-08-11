@@ -1,0 +1,11 @@
+{
+  "address": "Highbridge, ENG, GB",
+  "website": "https://en.wikipedia.org/wiki/M5_motorway",
+  "logoPath": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Highbridge,%20ENG,%20GB",
+  "renderer": "dealership",
+  "companyName": "M5 Motorway",
+  "faviconPath": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
