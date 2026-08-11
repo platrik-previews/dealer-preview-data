@@ -1,0 +1,17 @@
+{
+  "email": "sales@liftonbridgecarsales.com",
+  "address": "New Road, Lifton, Devon, PL160AH, GB",
+  "website": "https://www.liftonbridgecarsales.com/",
+  "facebook": "https://www.facebook.com/liftonbridge.carsales/",
+  "logoPath": "https://www.liftonbridgecarsales.com/admin/uploaded_photos/site_logo.png?nc=02",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=New%20Road,%20Lifton,%20Devon,%20PL160AH,%20GB",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/liftonbridge",
+  "phoneLink": "tel:01566784380",
+  "companyName": "Lifton Bridge Car Sales",
+  "faviconPath": "https://www.liftonbridgecarsales.com/apple-touch-icon.png",
+  "phoneDisplay": "01566784380",
+  "whatsappLink": "https://wa.me/01566784380",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
