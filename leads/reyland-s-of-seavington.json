@@ -1,0 +1,15 @@
+{
+  "email": "reylandcarsales@live.co.uk",
+  "address": "The old A303, Seavington, Ilminster, Somerset, TA19 0QB",
+  "website": "https://reylandcarsales.co.uk/",
+  "logoPath": "https://reylandcarsales.co.uk/wp-content/uploads/sites/1532/2016/11/reylandlogoo1.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20old%20A303,%20Seavington,%20Ilminster,%20Somerset,%20TA19%200QB",
+  "renderer": "dealership",
+  "phoneLink": "tel:01460312923",
+  "companyName": "Reyland's Of Seavington",
+  "faviconPath": "https://reylandcarsales.co.uk/favicon.ico",
+  "phoneDisplay": "01460 312 923",
+  "whatsappLink": "https://wa.me/01460312923",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
