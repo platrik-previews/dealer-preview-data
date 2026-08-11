@@ -1,0 +1,15 @@
+{
+  "email": "bridgemotorco@btconnect.com",
+  "address": "Kingsley Road Bideford Devon EX39 2LQ",
+  "website": "https://www.bridgemotorcompany.com/",
+  "logoPath": "https://www.bridgemotorcompany.com/%60https://bluesky.sirv.com/Websites/cog_boilerplate/logos/$%7BlCaseNoSpaces(tab)%7D.png?height=100`",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kingsley%20Road%20Bideford%20Devon%20EX39%202LQ",
+  "renderer": "dealership",
+  "phoneLink": "tel:01237424427",
+  "companyName": "Bridge Motor Co",
+  "faviconPath": "https://www.bridgemotorcompany.com/assets/img/favicons/apple-touch-icon.png",
+  "phoneDisplay": "01237424427",
+  "whatsappLink": "https://wa.me/01237424427",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
