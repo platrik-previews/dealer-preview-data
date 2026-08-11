@@ -1,0 +1,11 @@
+{
+  "address": "The Old Chapel",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Old%20Chapel",
+  "renderer": "dealership",
+  "phoneLink": "tel:+447702814438",
+  "companyName": "R Mogg",
+  "phoneDisplay": "+447702814438",
+  "whatsappLink": "https://wa.me/447702814438",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
