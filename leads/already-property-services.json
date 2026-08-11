@@ -1,0 +1,11 @@
+{
+  "address": "5 Loftus Gardens",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=5%20Loftus%20Gardens",
+  "renderer": "dealership",
+  "phoneLink": "tel:01752369843",
+  "companyName": "Already Property Services",
+  "phoneDisplay": "01752369843",
+  "whatsappLink": "https://wa.me/01752369843",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
