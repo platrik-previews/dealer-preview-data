@@ -1,0 +1,16 @@
+{
+  "address": "Gundry Lane",
+  "website": "https://northoverandgilbert.co.uk/",
+  "facebook": "https://www.facebook.com/northoverandgilbert",
+  "logoPath": "https://northoverandgilbert.co.uk/wp-content/uploads/2024/11/1187-NG-Logo_RGB-200.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gundry%20Lane",
+  "renderer": "dealership",
+  "instagram": "https://www.instagram.com/northoverandgilbert/",
+  "phoneLink": "tel:01308423939",
+  "companyName": "Northover & Gilbert Removals",
+  "faviconPath": "https://northoverandgilbert.co.uk/favicon.ico",
+  "phoneDisplay": "01308423939",
+  "whatsappLink": "https://wa.me/01308423939",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
