@@ -1,0 +1,15 @@
+{
+  "address": "Burraton Rd",
+  "website": "https://www.manheim.co.uk/",
+  "facebook": "https://www.facebook.com/ManheimUK",
+  "logoPath": "https://www.manheim.co.uk/~/media/manheimlogos/top_navigationlogo.ashx?la=en",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Burraton%20Rd",
+  "renderer": "dealership",
+  "phoneLink": "tel:+443331361029",
+  "companyName": "Manheim Plymouth Auctions",
+  "faviconPath": "https://www.manheim.co.uk/favicon.ico",
+  "phoneDisplay": "+443331361029",
+  "whatsappLink": "https://wa.me/443331361029",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
