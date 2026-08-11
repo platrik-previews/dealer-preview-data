@@ -1,0 +1,15 @@
+{
+  "email": "byronwynn@btconnect.com",
+  "address": "136a St John Street",
+  "website": "https://www.byronwynnautos.co.uk/",
+  "logoPath": "https://www.byronwynnautos.co.uk/wp-content/uploads/2024/06/Group-2.png",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=136a%20St%20John%20Street",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278422836",
+  "companyName": "Byron Wynn Autos",
+  "faviconPath": "https://www.byronwynnautos.co.uk/favicon.ico",
+  "phoneDisplay": "01278 422836",
+  "whatsappLink": "https://wa.me/01278422836",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
