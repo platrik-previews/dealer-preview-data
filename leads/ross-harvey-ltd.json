@@ -1,0 +1,15 @@
+{
+  "email": "rossharveycars@gmail.com",
+  "address": "Broadway Merriott Somerset TA165QH",
+  "website": "https://www.rossharveyltd.co.uk/",
+  "logoPath": "https://www.rossharveyltd.co.uk/admin/uploaded_photos/site_logo.png?nocache=1786410904",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Broadway%20Merriott%20Somerset%20TA165QH",
+  "renderer": "dealership",
+  "phoneLink": "tel:01460279899",
+  "companyName": "Ross Harvey Ltd",
+  "faviconPath": "https://www.rossharveyltd.co.uk/favicon-32x32.png",
+  "phoneDisplay": "01460279899",
+  "whatsappLink": "https://wa.me/01460279899",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
