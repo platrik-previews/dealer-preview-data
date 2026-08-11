@@ -1,0 +1,11 @@
+{
+  "address": "28 Main Road",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=28%20Main%20Road",
+  "renderer": "dealership",
+  "phoneLink": "tel:01278652233",
+  "companyName": "Irvine Vehicle Sales",
+  "phoneDisplay": "01278652233",
+  "whatsappLink": "https://wa.me/01278652233",
+  "allowIndexing": false,
+  "schemaVersion": 1
+}
